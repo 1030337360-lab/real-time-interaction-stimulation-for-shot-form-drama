@@ -1,5 +1,8 @@
-import { useRef, useEffect, useState, useCallback } from 'react';
+import { useRef, useEffect, useState, useCallback, useMemo } from 'react';
 import Hls from 'hls.js';
+import { useHighlightSync } from '../hooks/useHighlightSync';
+import { ReactionOverlay } from './ReactionOverlay';
+import { HighlightWarning } from './HighlightWarning';
 
 interface VideoPlayerProps {
   videoUrl: string;
@@ -43,12 +46,27 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
   const [userWantsToPlay, setUserWantsToPlay] = useState(false);
   const [showVolume, setShowVolume] = useState(false);
   const [highlights, setHighlights] = useState<number[]>([]);
+  const [animationEnabled, setAnimationEnabled] = useState(() => {
+    const stored = localStorage.getItem('highlightAnimationEnabled');
+    return stored === null ? true : stored === 'true';
+  });
+
+  const isMobile = typeof window !== 'undefined' && window.innerWidth < 768;
+
+  const highlightState = useHighlightSync(
+    highlights,
+    displayTime,
+    duration,
+    playerState === 'paused',
+    { enabled: animationEnabled && highlights.length > 0 }
+  );
   
   const currentTimeRef = useRef(0);
   const durationRef = useRef(0);
   const idleTimerRef = useRef<number | null>(null);
   const animationFrameRef = useRef<number | null>(null);
   const playerStateRef = useRef<PlayerState>('idle');
+  const wasPlayingBeforeDragRef = useRef(false);
   
   const formatTime = useCallback((time: number) => {
     const minutes = Math.floor(time / 60);
@@ -156,6 +174,7 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
   }, [handleStateTransition, onEnded]);
 
   const handleProgressChangeStart = useCallback(() => {
+    wasPlayingBeforeDragRef.current = playerStateRef.current === 'playing';
     setIsDragging(true);
   }, []);
 
@@ -171,10 +190,19 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
     try {
       video.currentTime = displayTime;
       setIsDragging(false);
+
+      if (wasPlayingBeforeDragRef.current && playerStateRef.current !== 'playing') {
+        video.play().then(() => {
+          handleStateTransition('playing');
+        }).catch((err) => {
+          console.error('Resume playback after seek failed:', err);
+        });
+      }
     } catch (err) {
       console.error('Seek failed:', err);
+      setIsDragging(false);
     }
-  }, [displayTime]);
+  }, [displayTime, handleStateTransition]);
 
   const handleVolumeChange = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
     const newVolume = parseFloat(e.target.value);
@@ -214,6 +242,14 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
     } catch (err) {
       console.error('Fullscreen operation failed:', err);
     }
+  }, []);
+
+  const toggleAnimation = useCallback(() => {
+    setAnimationEnabled((prev) => {
+      const newValue = !prev;
+      localStorage.setItem('highlightAnimationEnabled', String(newValue));
+      return newValue;
+    });
   }, []);
 
   const handleRetry = useCallback(() => {
@@ -277,6 +313,9 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
 
     const handleTimeUpdate = () => {
       currentTimeRef.current = video.currentTime;
+      if (!isDragging) {
+        setDisplayTime(video.currentTime);
+      }
       onProgressChange?.(video.currentTime);
     };
 
@@ -364,7 +403,7 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
       video.removeEventListener('error', handleError);
       video.removeEventListener('ended', handleEnded);
     };
-  }, [videoUrl, initialProgress, onProgressChange, handleStateTransition, updateBufferedRanges, handleEnded, userWantsToPlay]);
+  }, [videoUrl, initialProgress, onProgressChange, handleStateTransition, updateBufferedRanges, handleEnded, userWantsToPlay, isDragging]);
 
   useEffect(() => {
     const handleFullscreenChange = () => {
@@ -511,6 +550,23 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
   const progressBarRef = useRef<HTMLInputElement>(null);
   const progressPercent = duration > 0 ? (displayTime / duration) * 100 : 0;
 
+  const glowIntensity = useMemo(() => {
+    if (highlights.length === 0 || duration <= 0) return 0;
+    const currentTimeSeconds = displayTime;
+    const upcoming = highlights
+      .map((p) => (p / 100) * duration)
+      .filter((t) => t > currentTimeSeconds)
+      .sort((a, b) => a - b);
+    if (upcoming.length === 0) return 0;
+    const nearest = upcoming[0];
+    const timeToNext = nearest - currentTimeSeconds;
+    if (timeToNext > 5) return 0;
+    if (timeToNext <= 0) return 1;
+    return 1 - timeToNext / 5;
+  }, [highlights, displayTime, duration]);
+
+  const showProgressGlow = glowIntensity > 0;
+
   return (
     <div 
       ref={containerRef}
@@ -567,7 +623,7 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
           </svg>
           <p>{error.message}</p>
           {error.recoverable && (
-            <button 
+            <button
               onClick={(e) => {
                 e.stopPropagation();
                 handleRetry();
@@ -579,7 +635,25 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
         </div>
       )}
 
-      <div 
+      <ReactionOverlay
+        phase={highlightState.phase}
+        timeToNext={highlightState.timeToNext}
+        highlights={highlights}
+        isMobile={isMobile}
+      />
+
+      <button
+        className={`animation-toggle ${!animationEnabled ? 'disabled' : ''}`}
+        onClick={(e) => {
+          e.stopPropagation();
+          toggleAnimation();
+        }}
+        title={animationEnabled ? '关闭高光动画' : '开启高光动画'}
+      >
+        {animationEnabled ? '✨' : '✖'}
+      </button>
+
+      <div
         className={`controls-bar ${controlsVisible ? 'visible' : ''}`}
         onMouseMove={resetIdleTimer}
         onClick={(e) => e.stopPropagation()}
@@ -597,7 +671,12 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
         </button>
 
         <div className="progress-area">
-          <div className="progress-track">
+          <div
+            className={`progress-track ${showProgressGlow ? 'highlight-near' : ''}`}
+            style={{
+              '--glow-intensity': glowIntensity,
+            } as React.CSSProperties}
+          >
             {bufferedRanges.map((range, index) => (
               <div
                 key={index}
@@ -612,13 +691,11 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
               className="progress-played"
               style={{ width: `${progressPercent}%` }}
             />
-            {highlights.map((point, index) => (
-              <div
-                key={`highlight-${index}`}
-                className="highlight-marker"
-                style={{ left: `${point}%` }}
-              />
-            ))}
+            <HighlightWarning
+              highlights={highlights}
+              currentTime={displayTime}
+              duration={duration}
+            />
             <div
               className="progress-thumb"
               style={{ left: `${progressPercent}%` }}

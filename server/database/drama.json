@@ -1,22 +1,22 @@
 {
   "dramas": [
     {
-      "id": 2,
-      "title": "天下第一纨绔",
-      "description": "短剧《天下第一纨绔》",
-      "cover_url": "天下第一纨绔.png",
-      "video_url": "天下第一纨绔/第1集.mp4",
-      "episode_count": 10,
-      "created_at": "2026-05-22T04:24:53.168Z"
-    },
-    {
       "id": 1,
       "title": "北派寻宝笔记",
       "description": "短剧《北派寻宝笔记》",
       "cover_url": "北派寻宝笔记.png",
       "video_url": "北派寻宝笔记/第63集.mp4",
       "episode_count": 12,
-      "created_at": "2026-05-22T04:24:53.167Z"
+      "created_at": "2026-05-22T15:01:01.806Z"
+    },
+    {
+      "id": 2,
+      "title": "天下第一纨绔",
+      "description": "短剧《天下第一纨绔》",
+      "cover_url": "天下第一纨绔.png",
+      "video_url": "天下第一纨绔/第1集.mp4",
+      "episode_count": 10,
+      "created_at": "2026-05-22T15:01:01.807Z"
     }
   ],
   "episodes": [
@@ -202,15 +202,15 @@
       "id": 1,
       "drama_id": 2,
       "episode_id": 13,
-      "progress": 0,
-      "updated_at": "2026-05-22T03:33:53.094Z"
+      "progress": 52.832802,
+      "updated_at": "2026-05-22T14:59:57.344Z"
     },
     {
       "id": 2,
       "drama_id": 1,
-      "episode_id": 1,
-      "progress": 0,
-      "updated_at": "2026-05-22T04:19:48.576Z"
+      "episode_id": 5,
+      "progress": 1.272152,
+      "updated_at": "2026-05-22T13:56:08.659Z"
     }
   ],
   "episode_posters": [
@@ -351,5 +351,174 @@
       "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTc3OTQyMzU3OCwiZXhwIjoxNzgyMDE1NTc4fQ.q_2D3NrwhNl2w8AZ1SPXe7u-rR03UHPFdV9bF4T0GD8",
       "lastActive": 1779423578270
     }
-  }
+  },
+  "highlights": [
+    {
+      "episode_id": 13,
+      "points": [
+        92.98
+      ],
+      "updated_at": "2026-05-22T13:59:46.427Z"
+    },
+    {
+      "episode_id": 14,
+      "points": [
+        70.88
+      ],
+      "updated_at": "2026-05-22T13:59:50.550Z"
+    },
+    {
+      "episode_id": 15,
+      "points": [
+        55.87,
+        80.69
+      ],
+      "updated_at": "2026-05-22T13:59:54.741Z"
+    },
+    {
+      "episode_id": 16,
+      "points": [
+        74.01
+      ],
+      "updated_at": "2026-05-22T13:59:58.916Z"
+    },
+    {
+      "episode_id": 17,
+      "points": [
+        56.33
+      ],
+      "updated_at": "2026-05-22T14:00:03.045Z"
+    },
+    {
+      "episode_id": 18,
+      "points": [
+        52.22,
+        63.3,
+        81.95
+      ],
+      "updated_at": "2026-05-22T14:00:07.143Z"
+    },
+    {
+      "episode_id": 19,
+      "points": [
+        77.11
+      ],
+      "updated_at": "2026-05-22T14:00:11.373Z"
+    },
+    {
+      "episode_id": 20,
+      "points": [
+        79.53
+      ],
+      "updated_at": "2026-05-22T14:00:15.542Z"
+    },
+    {
+      "episode_id": 21,
+      "points": [
+        55.92,
+        76.66,
+        95.55
+      ],
+      "updated_at": "2026-05-22T14:00:19.728Z"
+    },
+    {
+      "episode_id": 22,
+      "points": [
+        57.05
+      ],
+      "updated_at": "2026-05-22T14:00:23.869Z"
+    },
+    {
+      "episode_id": 1,
+      "points": [
+        78.98
+      ],
+      "updated_at": "2026-05-22T14:00:30.129Z"
+    },
+    {
+      "episode_id": 2,
+      "points": [
+        51.76
+      ],
+      "updated_at": "2026-05-22T14:00:34.334Z"
+    },
+    {
+      "episode_id": 3,
+      "points": [
+        66.93
+      ],
+      "updated_at": "2026-05-22T14:00:38.485Z"
+    },
+    {
+      "episode_id": 4,
+      "points": [
+        58.13,
+        80.94,
+        82.19
+      ],
+      "updated_at": "2026-05-22T14:00:42.676Z"
+    },
+    {
+      "episode_id": 5,
+      "points": [
+        56.41,
+        77.99
+      ],
+      "updated_at": "2026-05-22T14:00:46.883Z"
+    },
+    {
+      "episode_id": 6,
+      "points": [
+        71.91,
+        96.66
+      ],
+      "updated_at": "2026-05-22T14:00:51.029Z"
+    },
+    {
+      "episode_id": 7,
+      "points": [
+        77.46
+      ],
+      "updated_at": "2026-05-22T14:00:55.187Z"
+    },
+    {
+      "episode_id": 8,
+      "points": [
+        97.77
+      ],
+      "updated_at": "2026-05-22T14:00:59.299Z"
+    },
+    {
+      "episode_id": 9,
+      "points": [
+        62.06
+      ],
+      "updated_at": "2026-05-22T14:01:03.416Z"
+    },
+    {
+      "episode_id": 10,
+      "points": [
+        66.48,
+        67.03,
+        88.65
+      ],
+      "updated_at": "2026-05-22T14:01:07.551Z"
+    },
+    {
+      "episode_id": 11,
+      "points": [
+        52.65,
+        58.34,
+        70.33
+      ],
+      "updated_at": "2026-05-22T14:01:11.687Z"
+    },
+    {
+      "episode_id": 12,
+      "points": [
+        66.47
+      ],
+      "updated_at": "2026-05-22T14:01:15.836Z"
+    }
+  ]
 }

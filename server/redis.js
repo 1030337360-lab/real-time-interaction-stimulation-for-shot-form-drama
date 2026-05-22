@@ -4,6 +4,11 @@ const Redis = require('ioredis');
 const REDIS_URL = process.env.REDIS_URL || 'redis://localhost:6379';
 let redis = null;
 let redisAvailable = false;
+let globalDb = null;
+
+function setGlobalDb(db) {
+  globalDb = db;
+}
 
 async function connectRedis() {
   try {
@@ -240,6 +245,7 @@ module.exports = {
   connectRedis,
   closeRedis,
   isRedisReady,
+  setGlobalDb,
   getSession,
   setSession,
   deleteSession,

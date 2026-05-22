@@ -27,6 +27,7 @@ const REFRESH_EXPIRES_IN = '30d';
 const getSession = redisModule.getSession;
 const setSession = redisModule.setSession;
 const deleteSession = redisModule.deleteSession;
+const setGlobalDb = redisModule.setGlobalDb;
 
 // 降级模式时清理过期 lowdb sessions
 function cleanupSessions() {
@@ -119,6 +120,7 @@ async function initDatabase() {
   if (!db.data.users) db.data.users = [];
   // 暴露给 Redis 模块降级使用
   globalDb = db;
+  setGlobalDb(db);
   console.log('Connected to JSON database');
 }
 

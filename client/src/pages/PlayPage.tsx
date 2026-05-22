@@ -191,6 +191,7 @@ export function PlayPage() {
           onEnded={handleVideoEnded}
           initialProgress={currentProgress}
           onProgressChange={handleProgressChange}
+          episodeId={currentEpisode.id}
         />
       </div>
 
