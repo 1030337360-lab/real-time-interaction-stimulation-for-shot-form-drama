@@ -6,12 +6,13 @@
 
 ## 项目概述
 
-本项目是一个基于 **React + Express + lowdb** 的短剧视频播放平台，支持局域网部署和多人同时访问。核心特点是：
+本项目是一个基于 **React + Express + lowdb + Redis** 的短剧视频播放平台，支持局域网部署和多人同时访问。核心特点是：
 
 - 视频文件存放在外部目录（`D:\video_data`），服务端启动时自动扫描并建立索引。
 - 前端使用 HLS.js + 原生 `<video>` 降级方案播放视频。
-- 数据层使用 lowdb（JSON 文件数据库），`dramas` 和 `episodes` 表在每次启动时由扫描逻辑全量重建，`play_history` 表持久化保存。
-- 当前处于第二阶段完成状态：短剧列表、视频播放、播放记录、自动续播、局域网访问均已实现。
+- **数据层采用 Redis + lowdb 混合架构**：Redis 作为缓存层（会话、视频缓存、高光点），lowdb（JSON 文件数据库）作为持久化存储。`dramas` 和 `episodes` 表在每次启动时由扫描逻辑全量重建，`play_history`、`users`、`highlights` 表持久化保存。
+- Redis 不可用时自动降级到 lowdb，保证服务可用性。
+- 当前处于第三阶段完成状态：短剧列表、视频播放、播放记录、自动续播、局域网访问、用户系统、高光点打标均已实现。
 
 ---
 
@@ -28,13 +29,16 @@
 | 视频播放 | HLS.js 1.4 | 支持 m3u8，不支持时降级到原生 video |
 | 路由 | React Router 6 | 两个路由：`/` 列表页，`/play/:id` 播放页 |
 | HTTP 请求 | Axios 1.6 | `baseURL: '/api'`，超时 10 秒 |
+| 状态管理 | React Context | AuthContext 管理用户登录状态 |
 
 ### 后端 (`server/`)
 
 | 模块 | 技术 | 说明 |
 |------|------|------|
 | 服务框架 | Express 4 | 监听 `0.0.0.0:3001`，允许局域网访问 |
-| 数据库 | lowdb 7 | JSON 文件 `database/drama.json`，启动时初始化 |
+| 主数据库 | lowdb 7 | JSON 文件 `database/drama.json`，启动时初始化 |
+| **缓存层** | **ioredis** | **Redis 6+，支持自动重连和降级到 lowdb** |
+| 认证 | JWT + bcrypt | 双 Token 机制（Access Token 2h，Refresh Token 30d） |
 | 安全 | helmet 7 + CORS | 基础安全头，全局跨域允许 |
 | 视频流 | Node.js Stream + Range 请求 | 支持拖动跳转（206 Partial Content） |
 | 进程管理 | nodemon | 开发模式热重载 |
@@ -49,13 +53,16 @@ project/
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── VideoPlayer.tsx      # HLS.js 播放器，~640 行，8 状态状态机
-│   │   │   └── DramaList.tsx        # 短剧列表，30 秒自动轮询
+│   │   │   ├── DramaList.tsx        # 短剧列表，30 秒自动轮询
+│   │   │   └── AuthModal.tsx        # 登录/注册弹窗
 │   │   ├── pages/
 │   │   │   └── PlayPage.tsx         # 播放页（剧集列表 + 进度保存 + Canvas 缩略图）
+│   │   ├── context/
+│   │   │   └── AuthContext.tsx      # 用户认证上下文
 │   │   ├── services/
 │   │   │   └── api.ts              # Axios 封装 + TypeScript 类型定义
 │   │   ├── App.tsx                  # 路由配置
-│   │   ├── main.tsx                 # 入口（StrictMode + BrowserRouter）
+│   │   ├── main.tsx                 # 入口（StrictMode + BrowserRouter + AuthProvider）
 │   │   └── index.css               # Tailwind 指令 + 暗色主题 CSS 变量 + 大量自定义样式
 │   ├── index.html                   # lang="zh-CN"
 │   ├── vite.config.ts               # Vite 配置 + API 代理
@@ -63,8 +70,10 @@ project/
 │   └── package.json
 │
 ├── server/                          # Express 后端（CommonJS）
-│   ├── app.js                       # 唯一主入口，~570 行，全部路由/逻辑都在此文件
+│   ├── app.js                       # 唯一主入口，~800 行，全部路由/逻辑都在此文件
+│   ├── redis.js                     # Redis 客户端封装（带自动重连和降级）
 │   ├── package.json
+│   ├── .env                         # 环境变量配置（JWT_SECRET, REDIS_URL）
 │   ├── database/
 │   │   └── drama.json              # lowdb 数据文件（运行时生成，已入 .gitignore）
 │   ├── public/covers/               # 备用封面目录
@@ -93,6 +102,28 @@ cd client && npm install
 
 # 后端
 cd server && npm install
+```
+
+### 环境变量配置
+
+在 `server/.env` 文件中配置：
+
+```env
+JWT_SECRET=your-strong-secret-key-here
+REDIS_URL=redis://localhost:6379
+PORT=3001
+```
+
+> **注意**：`JWT_SECRET` 为必填项，缺失会导致服务启动失败。`REDIS_URL` 可选，不配置则使用 lowdb 降级模式。
+
+### 启动 Redis（可选）
+
+```bash
+# Linux/macOS
+redis-server
+
+# Windows（使用 WSL 或 Redis 官方 Windows 版本）
+redis-server.exe
 ```
 
 ### 开发模式（需要两个终端）
@@ -144,15 +175,36 @@ D:\video_data\
     └── ...
 ```
 
+### Redis 缓存架构
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        Redis 缓存层                            │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐ │
+│  │   Sessions      │  │  Video Cache    │  │  Highlights     │ │
+│  │  session:userid │  │  vcache:key     │  │  highlight:id   │ │
+│  │  TTL: 30天      │  │  TTL: 10分钟    │  │  TTL: 1小时     │ │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘ │
+└─────────────────────────────────────────────────────────────────┘
+                              ▼ 降级
+┌─────────────────────────────────────────────────────────────────┐
+│                     lowdb (drama.json)                         │
+│  dramas | episodes | play_history | episode_posters | users    │
+│         | highlights | sessions (fallback)                     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 ### 启动流程
 
-1. 初始化 lowdb，读取/创建 `server/database/drama.json`。
-2. 调用 `scanVideoDirectory()` 扫描 `D:\video_data\videos\`：
+1. 加载 `.env` 环境变量，校验 `JWT_SECRET` 必填项。
+2. **尝试连接 Redis**（自动重连 5 次，失败则降级到 lowdb）。
+3. 初始化 lowdb，读取/创建 `server/database/drama.json`。
+4. 调用 `scanVideoDirectory()` 扫描 `D:\video_data\videos\`：
    - 每个子目录 = 一部短剧（写入 `dramas` 表）。
    - 子目录内视频文件（`.mp4/.mkv/.webm/.mov/.m3u8`）按文件名排序 = 剧集（写入 `episodes` 表）。
    - 在 `pictures/` 中按**短剧名前缀**匹配封面（`.jpg/.jpeg/.png/.webp`）。
-   - **`dramas` 和 `episodes` 表每次全量清空后重建**；`play_history` 保留不动。
-3. 启动 HTTP 服务，之后每 30 秒自动重新扫描一次。
+   - **`dramas` 和 `episodes` 表每次全量清空后重建**；`play_history`、`users`、`highlights` 保留不动。
+5. 启动 HTTP 服务，之后每 30 秒自动重新扫描一次。
 
 ### 数据流
 
@@ -162,7 +214,7 @@ D:\video_data\
   ▼
 Vite dev server (5173) ──代理──▶ Express (3001)
   ▼
-lowdb (drama.json)          外部目录 D:\video_data\
+Redis (缓存层) ↔ lowdb (drama.json)          外部目录 D:\video_data\
 ```
 
 ### 播放链路
@@ -180,6 +232,8 @@ D:\video_data\videos\{dramaName}\{filename}
 
 ## API 接口
 
+### 公共接口
+
 | 接口 | 方法 | 描述 |
 |------|------|------|
 | `/api/dramas` | GET | 短剧列表（按创建时间倒序） |
@@ -191,12 +245,33 @@ D:\video_data\videos\{dramaName}\{filename}
 | `/covers/:filename` | GET | 封面图片（先查外部目录，再查本地，再查 public） |
 | `/api/history` | POST | 保存/更新播放记录（body: `{drama_id, episode_id, progress}`） |
 | `/api/history/:drama_id` | GET | 获取某短剧的播放记录 |
-| `/api/cache/status` | GET | 视频缓存状态 |
+| `/api/cache/status` | GET | 缓存状态（Redis/lowdb 后端信息） |
 | `/api/cache/clear` | POST | 清空视频缓存 |
 | `/api/scan` | GET | 手动触发目录扫描 |
 | `/api/test/:dramaName/:filename` | GET | **调试端点**，暴露文件系统路径信息 |
 
-### POST `/api/history` 输入校验规则（P0 已修复）
+### 用户认证接口
+
+| 接口 | 方法 | 描述 |
+|------|------|------|
+| `/api/auth/register` | POST | 用户注册（username, password, phone?） |
+| `/api/auth/login` | POST | 用户登录（username, password） |
+| `/api/auth/refresh` | POST | 刷新 Token（refreshToken） |
+| `/api/auth/logout` | POST | 退出登录 |
+| `/api/user/profile` | GET | 获取用户信息（需登录） |
+| `/api/user/profile` | PUT | 更新用户信息（nickname, avatar） |
+| `/api/user/metadata` | GET | 获取用户元数据 |
+| `/api/user/metadata` | PUT | 更新用户元数据 |
+
+### 高光点接口
+
+| 接口 | 方法 | 描述 |
+|------|------|------|
+| `/api/episodes/:episodeId/highlights` | GET | 获取剧集高光点（前端使用） |
+| `/internal/highlights` | POST | 写入高光点（内部接口） |
+| `/internal/highlights/:episodeId` | DELETE | 删除高光点（内部接口） |
+
+### POST `/api/history` 输入校验规则
 
 - `drama_id`: 正整数 (`Number.isInteger` && > 0)
 - `episode_id`: 正整数 (`Number.isInteger` && > 0)
@@ -245,89 +320,117 @@ D:\video_data\videos\{dramaName}\{filename}
       "created_at": "...",
       "updated_at": "..."
     }
-  ]
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "$2b$10$...",
+      "phone": "138****8888",
+      "email": null,
+      "avatar": null,
+      "nickname": "用户1",
+      "role": "user",
+      "status": "active",
+      "metadata": {
+        "watch_count": 0,
+        "favorite_count": 0,
+        "last_login": null,
+        "created_at": "...",
+        "preferences": {}
+      },
+      "created_at": "...",
+      "updated_at": "..."
+    }
+  ],
+  "highlights": [
+    {
+      "episode_id": 1,
+      "points": [25, 50, 75],
+      "updated_at": "..."
+    }
+  ],
+  "sessions": {}
 }
 ```
 
 ---
 
-## 代码风格与约定
+## Redis 缓存键结构
 
-### 语言与注释
-- 项目内文档、TODO、代码注释、UI 文案**主要使用中文**。
-- 日志输出也使用中文（如 `"加载视频中..."`、`"缓冲中..."`）。
-
-### 前端规范
-- **ESM**：`client/package.json` 设置 `"type": "module"`。
-- **TypeScript 严格模式**：`strict: true`，不允许未使用的变量和参数。
-- **路径别名**：`@/*` 映射到 `src/*`（仅在 `tsconfig.json` 中配置，Vite 未额外配 alias）。
-- **组件导出**：使用命名导出（`export function ComponentName`）。
-- **样式方案**：Tailwind 工具类 + 自定义 CSS 变量（暗色主题）+ 大量自定义 class（写在 `index.css`）。
-  - CSS 变量前缀：`--bg-*`、`--text-*`、`--accent-*`、`--border-*`、`--shadow-*`、`--transition-*`、`--spacing-*`。
-  - 移动端优先，最小触控目标 `44px`（`--touch-target`）。
-
-### 后端规范
-- **CommonJS**：`server/app.js` 使用 `require()`。
-- **单文件架构**：目前所有路由、控制器、数据库初始化、视频流逻辑都在 `app.js` 一个文件中（约 570 行）。`routes/` 和 `controllers/` 目录为空，是已知架构债务。
-- **错误处理**：普遍使用 `try/catch` + `res.status(500).json({ error: err.message })` 模式。
-
-### 环境相关
-- **后端端口**：`process.env.PORT || 3001`
-- **前端开发端口**：5173（硬编码在 `vite.config.ts`）
-- **外部目录硬编码**：`server/app.js` 第 36 行 `const externalBaseDir = 'D:\\video_data'`
-- **无 `.env` 文件**：所有配置要么硬编码，要么依赖 `process.env.PORT`。
+| 前缀 | 格式 | TTL | 说明 |
+|------|------|-----|------|
+| `session:` | `session:{userId}` | 30天 | 用户会话（Access Token、Refresh Token、最后活跃时间） |
+| `vcache:` | `vcache:{key}` | 10分钟 | 视频缓存（缓冲范围等） |
+| `highlight:` | `highlight:{episodeId}` | 1小时 | 高光点数据缓存 |
 
 ---
 
-## 测试策略
+## Redis 模块功能概述
 
-当前测试覆盖极弱：
+`server/redis.js` 提供了完整的 Redis 客户端封装，具备以下特性：
 
-- **前端**：无任何测试框架、零测试用例。
-- **后端**：`test-video-flow.js` 是一个 Node.js 脚本，使用 axios 对 localhost:3001 做端到端流程验证（获取列表 → 获取详情 → 获取剧集 → 构建视频 URL → HEAD 视频流 → 检查本地文件 → 封面请求 → 海报保存 → 进度保存/获取 → 缓存状态）。
-  - 运行前**必须先启动后端服务**。
-  - 该脚本硬编码了 `D:\video_data\videos` 路径用于文件存在性检查。
+### 核心功能
 
-若要新增测试，优先方向（来自 `TODOS.md`）：
-1. 后端 API 集成测试（supertest + jest）。
-2. `VideoPlayer` 组件测试（React Testing Library）。
+| 功能 | 说明 |
+|------|------|
+| **自动重连** | 最多重试 5 次，指数退避策略（200ms ~ 2000ms） |
+| **优雅降级** | Redis 不可用时自动切换到 lowdb |
+| **TTL 管理** | 自动设置过期时间，无需手动清理 |
+| **优雅关闭** | 支持 `closeRedis()` 安全断开连接 |
 
----
+### 会话管理（Session）
 
-## 安全注意事项
+- **优先使用 Redis**：Session 数据存储在 Redis，30天 TTL 自动过期
+- **降级到 lowdb**：Redis 不可用时，数据写入 `db.data.sessions` 对象
+- **强制下线支持**：通过 `deleteSession(userId)` 可立即失效会话
 
-- **helmet 和 CORS 已启用**，但 CORS 是全局允许（开发友好，生产需注意）。
-- **POST 输入校验已加**：`/api/history` 有 `drama_id`/`episode_id`/`progress` 的类型和范围校验（2026-05-21 修复）。
-- **调试端点暴露**：`GET /api/test/:dramaName/:filename` 会返回完整文件系统路径和存在性信息，存在信息泄露风险。生产环境应移除或加环境变量保护。
-- **无速率限制**：局域网内多设备同时访问或恶意轮询可能导致服务过载。
-- **优雅关闭已加**：监听 `SIGINT`/`SIGTERM`，先保存数据库再退出，30 秒超时强制退出（2026-05-21 修复）。
-- **视频流接口**：未做身份验证和授权，任何人知道 URL 即可访问。
-- **外部目录遍历**：视频接口使用 `path.join` 拼接路径，但参数来自 URL，需注意路径遍历风险（目前依赖 URL 编码和 Express 路由分段天然限制）。
+### 视频缓存（Video Cache）
 
----
+- **仅 Redis**：视频缓存只在 Redis 可用时生效
+- **10分钟 TTL**：自动淘汰过期缓存
+- **模式匹配删除**：支持按 pattern 批量清理
 
-## 已知问题与重点 TODO
+### 高光点缓存（Highlights）
 
-详细清单见 `TODOS.md`，以下为对编码助手最关键的几项：
+- **双写策略**：先写 lowdb（持久化），再写 Redis（缓存）
+- **1小时 TTL**：减少数据库读取压力
+- **读取优先**：先查 Redis，未命中再查 lowdb
 
-1. **单体服务文件**（P1）：`server/app.js` 350+ 行，所有逻辑在一个文件。`routes/` 和 `controllers/` 为空目录，需要拆分。
-2. **外部路径硬编码**（P1）：`D:\video_data` 写死在代码中，换机器即失效。应改为环境变量配置。
-3. **全量重建扫描**（P1）：每次启动/每 30 秒都会清空 `dramas` 和 `episodes` 后重建，手动修改会丢失。
-4. **TailwindCSS 版本混合**（P3）：`tailwindcss: ^3.4.1` 与 `@tailwindcss/vite: ^4.0.13` 混用，可能导致构建行为不一致。
-5. **VideoPlayer 过大**（P2）：`VideoPlayer.tsx` 约 640 行、15 个 `useCallback`、多个 `useEffect`，建议拆分为自定义 hooks + 子组件。
-6. **零测试覆盖**（P3）：前后端均无单元测试。
-7. **后端无 TypeScript**（P3）：`server/` 下全为 `.js` 文件，建议渐进迁移（先 JSDoc，再 ts-node）。
-8. **无 ESLint / Prettier**（P3）：代码风格依赖人工一致。
-9. **无环境变量文件**（P3）：没有 `.env.example`，新开发者不知道要配什么。
-10. **封面匹配仅用前缀**（P2）：`startsWith(dramaName)` 会导致"天下"同时匹配"天下第一纨绔"和"天下无双"。
+### Redis API 方法
 
----
+| 方法 | 功能 |
+|------|------|
+| `connectRedis()` | 连接 Redis，返回连接成功/失败 |
+| `closeRedis()` | 优雅关闭连接 |
+| `isRedisReady()` | 检查 Redis 是否可用 |
+| `getSession(userId)` | 获取用户会话 |
+| `setSession(userId, data)` | 设置用户会话 |
+| `deleteSession(userId)` | 删除用户会话 |
+| `getVideoCache(key)` | 获取视频缓存 |
+| `setVideoCache(key, data)` | 设置视频缓存 |
+| `clearVideoCache(pattern)` | 清空视频缓存 |
+| `getHighlights(episodeId)` | 获取高光点 |
+| `setHighlights(episodeId, points)` | 设置高光点 |
+| `getCacheStatus()` | 获取缓存状态（后端类型、键数量） |
 
-## 对 AI 助手的操作提示
+### 环境变量配置
 
-- **修改后端时**：注意 `app.js` 是单文件，新增路由请放在合适的位置（通常按 `GET` → `POST` 分组），并确保 `db.read()` / `db.write()` 成对出现。
-- **修改前端时**：注意 `index.css` 中已经存在大量与组件同名的自定义 class（如 `.video-player-container`、`.drama-card`），优先复用这些 class，而不是新增 Tailwind 原子类。
-- **添加新接口时**：请在 `client/src/services/api.ts` 中同步添加类型定义和请求函数，保持前后端类型一致。
-- **处理视频路径时**：中文文件名必须使用 `encodeURIComponent`；服务端接口参数解码由 Express 自动处理，但拼接 `path.join` 时仍需注意跨平台路径分隔符。
-- **数据库操作**：lowdb 是异步读写 JSON 文件，每次写操作后记得 `await db.write()`。
-- **不要假设存在测试**：修改后请手动验证，不要依赖自动化测试捕获回归。
+```env
+# 必填项，用于 JWT 签名
+JWT_SECRET=your-strong-secret-key-here
+
+# 可选，Redis 连接地址，不配置则使用 lowdb 降级模式
+REDIS_URL=redis://localhost:6379
+
+# 可选，服务端口，默认 3001
+PORT=3001
+```
+
+### 降级机制说明
+
+1. **启动时**：尝试连接 Redis，失败则记录警告并使用 lowdb
+2. **运行时**：Redis 断开后自动切换到 lowdb，重连成功后恢复
+3. **Session**：lowdb 模式下使用 `db.data.sessions` 对象，需定期清理过期会话
+4. **视频缓存**：lowdb 模式下跳过缓存，直接读取文件
+5. **高光点**：lowdb 模式下直接读取 `db.data.highlights`

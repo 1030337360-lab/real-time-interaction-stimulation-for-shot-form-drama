@@ -9,6 +9,7 @@ const { Low } = require('lowdb');
 const { JSONFile } = require('lowdb/node');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcrypt');
+const redisModule = require('./redis');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -21,26 +22,13 @@ if (!JWT_SECRET) {
 const JWT_EXPIRES_IN = '2h';
 const REFRESH_EXPIRES_IN = '30d';
 
-// F1: sessions 持久化到 lowdb，服务重启不丢失
-// sessions 结构: { [userId]: { accessToken, refreshToken, lastActive } }
-// 通过 db.data.sessions 存储，随 db.write() 一起持久化
+// F1+F4: sessions 通过 Redis 模块管理（Redis TTL 自动过期，降级 lowdb）
+// Redis 可用时用 Redis（30天 TTL），不可用时降级到 lowdb
+const getSession = redisModule.getSession;
+const setSession = redisModule.setSession;
+const deleteSession = redisModule.deleteSession;
 
-function getSession(userId) {
-  return (db && db.data && db.data.sessions) ? db.data.sessions[userId] : undefined;
-}
-
-function setSession(userId, data) {
-  if (!db || !db.data) return;
-  if (!db.data.sessions) db.data.sessions = {};
-  db.data.sessions[userId] = { ...data, lastActive: Date.now() };
-}
-
-function deleteSession(userId) {
-  if (!db || !db.data || !db.data.sessions) return;
-  delete db.data.sessions[userId];
-}
-
-// F4: 清理超过 30 天未活跃的过期 sessions
+// 降级模式时清理过期 lowdb sessions
 function cleanupSessions() {
   if (!db || !db.data || !db.data.sessions) return;
   const now = Date.now();
@@ -52,7 +40,7 @@ function cleanupSessions() {
       cleaned++;
     }
   }
-  if (cleaned > 0) console.log(`Cleaned ${cleaned} expired sessions`);
+  if (cleaned > 0) console.log(`[lowdb] Cleaned ${cleaned} expired sessions`);
 }
 
 app.use(helmet());
@@ -98,9 +86,21 @@ const cacheConfig = {
   otherEpisodes: { maxBuffer: 10 },
   maxCachedOtherEpisodes: 5
 };
-const videoCache = new Map();
+// videoCache 改为 Redis 管理（10min TTL），降级时使用 Map
+const videoCache = redisModule.isRedisReady() ? null : new Map();
+
+function getCachedVideo(key) {
+  return redisModule.getVideoCache(key);
+}
+function setCachedVideo(key, data) {
+  if (videoCache) {
+    videoCache.set(key, data);
+  }
+  redisModule.setVideoCache(key, data);
+}
 
 let db;
+let globalDb;
 
 async function initDatabase() {
   const adapter = new JSONFile(dbPath);
@@ -117,6 +117,8 @@ async function initDatabase() {
   // F1: 确保 sessions 字段存在
   if (!db.data.sessions) db.data.sessions = {};
   if (!db.data.users) db.data.users = [];
+  // 暴露给 Redis 模块降级使用
+  globalDb = db;
   console.log('Connected to JSON database');
 }
 
@@ -284,26 +286,35 @@ app.get('/api/dramas/:id', async (req, res) => {
   }
 });
 
-app.get('/api/cache/status', (req, res) => {
-  const cacheArray = Array.from(videoCache.entries()).map(([key, value]) => ({
+app.get('/api/cache/status', async (req, res) => {
+  const redisStatus = await redisModule.getCacheStatus();
+  const cacheArray = videoCache ? Array.from(videoCache.entries()).map(([key, value]) => ({
     key,
     ...value
-  }));
+  })) : [];
   res.json({
-    cacheSize: videoCache.size,
+    backend: redisStatus.backend,
+    redisConnected: redisStatus.redisConnected,
+    cacheSize: videoCache ? videoCache.size : redisStatus.cacheKeys || 0,
     config: cacheConfig,
-    entries: cacheArray
+    entries: cacheArray.slice(0, 20), // 只返回前 20 条
   });
 });
 
-app.post('/api/cache/clear', (req, res) => {
+app.post('/api/cache/clear', async (req, res) => {
   const { episodeKeys } = req.body;
+  let cleared = 0;
+  
   if (episodeKeys && Array.isArray(episodeKeys)) {
-    episodeKeys.forEach(key => videoCache.delete(key));
+    if (videoCache) {
+      episodeKeys.forEach(key => videoCache.delete(key));
+    }
+    cleared = await redisModule.clearVideoCache('*');
   } else {
-    videoCache.clear();
+    if (videoCache) videoCache.clear();
+    cleared = await redisModule.clearVideoCache('*');
   }
-  res.json({ message: 'Cache cleared', remainingEntries: videoCache.size });
+  res.json({ message: 'Cache cleared', clearedKeys: cleared });
 });
 
 function getPosterUrl(videoUrl) {
@@ -419,7 +430,7 @@ app.get('/api/video/:dramaName/:filename', (req, res) => {
   }
 
   if (filePath) {
-    videoCache.set(videoKey, {
+    setCachedVideo(videoKey, {
       accessed: true,
       lastAccess: Date.now(),
       maxBuffer: actualMaxBuffer
@@ -640,27 +651,8 @@ app.post('/internal/highlights', async (req, res) => {
   }
   
   try {
-    if (!db.data.highlights) {
-      db.data.highlights = [];
-    }
-    
-    const existingIndex = db.data.highlights.findIndex(h => h.episode_id === episode_id);
-    
-    if (existingIndex >= 0) {
-      db.data.highlights[existingIndex] = {
-        ...db.data.highlights[existingIndex],
-        points: validPoints,
-        updated_at: new Date().toISOString(),
-      };
-    } else {
-      db.data.highlights.push({
-        episode_id,
-        points: validPoints,
-        created_at: new Date().toISOString(),
-        updated_at: new Date().toISOString(),
-      });
-    }
-    
+    // 写 Redis 缓存 + lowdb 持久化（redis.setHighlights 双写）
+    await redisModule.setHighlights(episode_id, validPoints);
     await db.write();
     res.json({ success: true, episode_id, count: validPoints.length });
   } catch (err) {
@@ -672,12 +664,8 @@ app.get('/api/episodes/:episodeId/highlights', async (req, res) => {
   const { episodeId } = req.params;
   
   try {
-    if (!db.data.highlights) {
-      return res.json([]);
-    }
-    
-    const highlights = db.data.highlights.find(h => h.episode_id === parseInt(episodeId));
-    res.json(highlights ? highlights.points : []);
+    const points = await redisModule.getHighlights(parseInt(episodeId));
+    res.json(points);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
@@ -1019,10 +1007,11 @@ const gracefulShutdown = async (signal) => {
         console.log('Saving database before exit...');
         await db.write();
         console.log('Database saved successfully.');
+        await redisModule.closeRedis();
         console.log('Shutdown complete.');
         process.exit(0);
       } catch (err) {
-        console.error('Error saving database:', err);
+        console.error('Error during shutdown:', err);
         process.exit(1);
       }
     });
@@ -1041,14 +1030,19 @@ process.on('SIGINT', () => gracefulShutdown('SIGINT'));
 process.on('SIGTERM', () => gracefulShutdown('SIGTERM'));
 
 initDatabase().then(async () => {
+  // 连接 Redis（失败不影响启动，降级到 lowdb）
+  const redisOk = await redisModule.connectRedis();
+  console.log(redisOk ? 'Redis: sessions & cache accelerated' : 'Redis: unavailable, using lowdb fallback');
+  
   await scanVideoDirectory();
   
   setInterval(scanVideoDirectory, 300000);
   
-  // F4: 每小时清理过期 sessions
-  setInterval(() => {
+  // F4: 每小时清理过期 sessions（先 re-read 避免并发写入冲突）
+  setInterval(async () => {
+    await db.read();
     cleanupSessions();
-    db.write().catch(err => console.error('Failed to save after session cleanup:', err));
+    await db.write().catch(err => console.error('Failed to save after session cleanup:', err));
   }, 3600000);
   
   server = app.listen(PORT, '0.0.0.0', () => {
