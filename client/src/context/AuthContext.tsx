@@ -35,6 +35,15 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       setAccessToken(storedAccessToken);
       setRefreshToken(storedRefreshToken || null);
     }
+    
+    // F3: 监听 token 过期事件（来自 api.ts interceptor）
+    const handleAuthExpired = () => {
+      setUser(null);
+      setAccessToken(null);
+      setRefreshToken(null);
+    };
+    window.addEventListener('auth:expired', handleAuthExpired);
+    return () => window.removeEventListener('auth:expired', handleAuthExpired);
   }, []);
 
   useEffect(() => {
@@ -45,7 +54,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         } catch (err) {
           console.error('Failed to refresh token:', err);
         }
-      }, 60 * 60 * 1000);
+      }, 30 * 60 * 1000);  // F7: 30 分钟刷新一次（token 有效期 2h）
 
       return () => clearInterval(interval);
     }

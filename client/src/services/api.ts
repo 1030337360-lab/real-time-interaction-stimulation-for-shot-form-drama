@@ -59,14 +59,73 @@ api.interceptors.request.use((config) => {
   return config;
 });
 
+// F3: 401 自动刷新 token，失败才清除登录状态
+let isRefreshing = false;
+let refreshSubscribers: Array<(token: string) => void> = [];
+
+function onRefreshed(token: string) {
+  refreshSubscribers.forEach(cb => cb(token));
+  refreshSubscribers = [];
+}
+
+function addRefreshSubscriber(cb: (token: string) => void) {
+  refreshSubscribers.push(cb);
+}
+
 api.interceptors.response.use(
   (response) => response,
-  (error) => {
-    if (error.response?.status === 401) {
+  async (error) => {
+    const originalRequest = error.config;
+    
+    if (error.response?.status === 401 && !originalRequest._retry) {
+      if (isRefreshing) {
+        // 已有刷新进行中，排队等待
+        return new Promise((resolve) => {
+          addRefreshSubscriber((token: string) => {
+            originalRequest.headers.Authorization = `Bearer ${token}`;
+            resolve(api(originalRequest));
+          });
+        });
+      }
+      
+      originalRequest._retry = true;
+      isRefreshing = true;
+      
+      const refreshToken = localStorage.getItem('refreshToken');
+      if (refreshToken) {
+        try {
+          const response = await fetch('/api/auth/refresh', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ refreshToken }),
+          });
+          
+          if (response.ok) {
+            const data = await response.json();
+            localStorage.setItem('accessToken', data.accessToken);
+            localStorage.setItem('refreshToken', data.refreshToken);
+            
+            api.defaults.headers.common.Authorization = `Bearer ${data.accessToken}`;
+            originalRequest.headers.Authorization = `Bearer ${data.accessToken}`;
+            
+            isRefreshing = false;
+            onRefreshed(data.accessToken);
+            
+            return api(originalRequest);
+          }
+        } catch (_) {
+          // refresh 失败，清除状态
+        }
+      }
+      
+      // 刷新失败，清除登录状态
+      isRefreshing = false;
+      refreshSubscribers = [];
       localStorage.removeItem('user');
       localStorage.removeItem('accessToken');
       localStorage.removeItem('refreshToken');
-      window.location.href = '/';
+      // 派发事件让 AuthContext 感知
+      window.dispatchEvent(new CustomEvent('auth:expired'));
     }
     return Promise.reject(error);
   }

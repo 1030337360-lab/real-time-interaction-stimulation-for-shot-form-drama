@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { createPortal } from 'react-dom';
 import { useAuth } from '../context/AuthContext';
 
 interface AuthModalProps {
@@ -38,7 +39,7 @@ export function AuthModal({ isOpen, onClose }: AuthModalProps) {
       } else {
         await register(username, password, phone || undefined);
       }
-      onClose();
+      handleClose();
     } catch (err) {
       setError(err instanceof Error ? err.message : '操作失败');
     } finally {
@@ -46,57 +47,111 @@ export function AuthModal({ isOpen, onClose }: AuthModalProps) {
     }
   };
 
+  const handleClose = () => {
+    setUsername('');
+    setPassword('');
+    setConfirmPassword('');
+    setPhone('');
+    setError('');
+    setIsLogin(true);
+    onClose();
+  };
+
   if (!isOpen) return null;
 
-  return (
+  // 使用 Portal 渲染到 document.body，脱离父容器 CSS 干扰
+  return createPortal(
     <div 
-      className="fixed top-0 left-0 right-0 bottom-0 z-50" 
-      onClick={onClose}
+      onClick={handleClose}
       style={{
-        backgroundColor: 'rgba(0, 0, 0, 0.6)',
+        position: 'fixed',
+        inset: 0,
+        zIndex: 9999,
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        minHeight: '100vh',
+        backgroundColor: 'rgba(0, 0, 0, 0.6)',
         padding: '16px',
       }}
     >
       <div 
-        className="bg-[#1a1a1a] rounded-xl shadow-2xl"
         onClick={e => e.stopPropagation()}
         style={{
           width: '100%',
           maxWidth: '400px',
+          backgroundColor: '#1a1a1a',
+          borderRadius: '12px',
           padding: '32px',
           position: 'relative',
+          boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.5)',
         }}
       >
-        <div className="flex items-center justify-between mb-6">
-          <h2 className="text-2xl font-bold text-white">
+        <div style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          marginBottom: '24px',
+        }}>
+          <h2 style={{
+            fontSize: '24px',
+            fontWeight: 'bold',
+            color: '#ffffff',
+            margin: 0,
+          }}>
             {isLogin ? '登录' : '注册'}
           </h2>
           <button
-            onClick={onClose}
-            className="text-gray-400 hover:text-white transition-colors"
+            onClick={handleClose}
+            style={{
+              color: '#9ca3af',
+              fontSize: '20px',
+              background: 'none',
+              border: 'none',
+              cursor: 'pointer',
+              padding: '4px 8px',
+              lineHeight: 1,
+            }}
           >
             ✕
           </button>
         </div>
 
         {error && (
-          <div className="mb-4 px-4 py-2 bg-red-500/20 text-red-400 rounded-lg text-sm">
+          <div style={{
+            marginBottom: '16px',
+            padding: '8px 16px',
+            backgroundColor: 'rgba(239, 68, 68, 0.2)',
+            color: '#f87171',
+            borderRadius: '8px',
+            fontSize: '14px',
+          }}>
             {error}
           </div>
         )}
 
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           <div>
-            <label className="block text-gray-300 text-sm mb-2">用户名</label>
+            <label style={{
+              display: 'block',
+              color: '#d1d5db',
+              fontSize: '14px',
+              marginBottom: '8px',
+            }}>用户名</label>
             <input
               type="text"
               value={username}
               onChange={e => setUsername(e.target.value)}
-              className="w-full px-4 py-3 bg-[#242424] border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-[#ff4757] transition-colors"
+              style={{
+                width: '100%',
+                padding: '12px 16px',
+                backgroundColor: '#242424',
+                border: '1px solid #374151',
+                borderRadius: '8px',
+                color: '#ffffff',
+                fontSize: '14px',
+                outline: 'none',
+                boxSizing: 'border-box',
+              }}
               placeholder="请输入用户名"
               disabled={loading}
             />
@@ -104,12 +159,27 @@ export function AuthModal({ isOpen, onClose }: AuthModalProps) {
 
           {!isLogin && (
             <div>
-              <label className="block text-gray-300 text-sm mb-2">手机号（选填）</label>
+              <label style={{
+                display: 'block',
+                color: '#d1d5db',
+                fontSize: '14px',
+                marginBottom: '8px',
+              }}>手机号（选填）</label>
               <input
                 type="tel"
                 value={phone}
                 onChange={e => setPhone(e.target.value)}
-                className="w-full px-4 py-3 bg-[#242424] border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-[#ff4757] transition-colors"
+                style={{
+                  width: '100%',
+                  padding: '12px 16px',
+                  backgroundColor: '#242424',
+                  border: '1px solid #374151',
+                  borderRadius: '8px',
+                  color: '#ffffff',
+                  fontSize: '14px',
+                  outline: 'none',
+                  boxSizing: 'border-box',
+                }}
                 placeholder="请输入手机号"
                 disabled={loading}
               />
@@ -117,12 +187,27 @@ export function AuthModal({ isOpen, onClose }: AuthModalProps) {
           )}
 
           <div>
-            <label className="block text-gray-300 text-sm mb-2">密码</label>
+            <label style={{
+              display: 'block',
+              color: '#d1d5db',
+              fontSize: '14px',
+              marginBottom: '8px',
+            }}>密码</label>
             <input
               type="password"
               value={password}
               onChange={e => setPassword(e.target.value)}
-              className="w-full px-4 py-3 bg-[#242424] border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-[#ff4757] transition-colors"
+              style={{
+                width: '100%',
+                padding: '12px 16px',
+                backgroundColor: '#242424',
+                border: '1px solid #374151',
+                borderRadius: '8px',
+                color: '#ffffff',
+                fontSize: '14px',
+                outline: 'none',
+                boxSizing: 'border-box',
+              }}
               placeholder="请输入密码"
               disabled={loading}
             />
@@ -130,12 +215,27 @@ export function AuthModal({ isOpen, onClose }: AuthModalProps) {
 
           {!isLogin && (
             <div>
-              <label className="block text-gray-300 text-sm mb-2">确认密码</label>
+              <label style={{
+                display: 'block',
+                color: '#d1d5db',
+                fontSize: '14px',
+                marginBottom: '8px',
+              }}>确认密码</label>
               <input
                 type="password"
                 value={confirmPassword}
                 onChange={e => setConfirmPassword(e.target.value)}
-                className="w-full px-4 py-3 bg-[#242424] border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-[#ff4757] transition-colors"
+                style={{
+                  width: '100%',
+                  padding: '12px 16px',
+                  backgroundColor: '#242424',
+                  border: '1px solid #374151',
+                  borderRadius: '8px',
+                  color: '#ffffff',
+                  fontSize: '14px',
+                  outline: 'none',
+                  boxSizing: 'border-box',
+                }}
                 placeholder="请再次输入密码"
                 disabled={loading}
               />
@@ -145,14 +245,28 @@ export function AuthModal({ isOpen, onClose }: AuthModalProps) {
           <button
             type="submit"
             disabled={loading}
-            className="w-full py-3 bg-[#ff4757] hover:bg-[#ff3848] text-white font-semibold rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+            style={{
+              width: '100%',
+              padding: '12px',
+              backgroundColor: loading ? '#9ca3af' : '#ff4757',
+              color: '#ffffff',
+              fontWeight: 600,
+              borderRadius: '8px',
+              border: 'none',
+              cursor: loading ? 'not-allowed' : 'pointer',
+              fontSize: '16px',
+              transition: 'background-color 0.15s',
+            }}
           >
             {loading ? '加载中...' : (isLogin ? '登录' : '注册')}
           </button>
         </form>
 
-        <div className="mt-6 text-center">
-          <span className="text-gray-400 text-sm">
+        <div style={{
+          marginTop: '24px',
+          textAlign: 'center',
+        }}>
+          <span style={{ color: '#9ca3af', fontSize: '14px' }}>
             {isLogin ? '还没有账号？' : '已有账号？'}
           </span>
           <button
@@ -160,12 +274,21 @@ export function AuthModal({ isOpen, onClose }: AuthModalProps) {
               setIsLogin(!isLogin);
               setError('');
             }}
-            className="ml-2 text-[#ff4757] hover:text-[#ff3848] text-sm font-semibold transition-colors"
+            style={{
+              marginLeft: '8px',
+              color: '#ff4757',
+              fontSize: '14px',
+              fontWeight: 600,
+              background: 'none',
+              border: 'none',
+              cursor: 'pointer',
+            }}
           >
             {isLogin ? '立即注册' : '立即登录'}
           </button>
         </div>
       </div>
-    </div>
+    </div>,
+    document.body
   );
 }
