@@ -1,0 +1,24 @@
+{
+  "name": "real-time-interaction-stimulation-for-shot-form-drama",
+  "version": "1.0.0",
+  "description": "基于 React + Express + SQLite 的短剧视频播放平台，支持局域网部署和多人访问。",
+  "main": "test-video-flow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1030337360-lab/real-time-interaction-stimulation-for-shot-form-drama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/1030337360-lab/real-time-interaction-stimulation-for-shot-form-drama/issues"
+  },
+  "homepage": "https://github.com/1030337360-lab/real-time-interaction-stimulation-for-shot-form-drama#readme",
+  "dependencies": {
+    "axios": "^1.16.1"
+  }
+}
