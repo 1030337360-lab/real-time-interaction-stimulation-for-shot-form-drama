@@ -1212,7 +1212,7 @@ header nav a:hover {
 }
 
 /* Animation Toggle Button */
-.animation-toggle {
+..animation-toggle {
   position: absolute;
   top: 10px;
   right: 10px;
@@ -1225,10 +1225,23 @@ header nav a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
-  font-size: 16px;
   z-index: 50;
-  transition: background 0.2s ease;
+  transition: background 0.2s ease, color 0.3s ease;
+}
+
+.animation-toggle svg {
+  color: #ffd700;
+  transition: color 0.3s ease, opacity 0.3s ease;
+}
+
+.animation-toggle.disabled svg {
+  color: #666;
+  opacity: 0.6;
+}
+
+.animation-toggle.disabled:hover svg {
+  color: #ffd700;
+  opacity: 1;
 }
 
 .animation-toggle:hover {

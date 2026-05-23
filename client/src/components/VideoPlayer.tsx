@@ -191,7 +191,7 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
       video.currentTime = displayTime;
       setIsDragging(false);
 
-      if (wasPlayingBeforeDragRef.current && playerStateRef.current !== 'playing') {
+      if (wasPlayingBeforeDragRef.current) {
         video.play().then(() => {
           handleStateTransition('playing');
         }).catch((err) => {
@@ -635,6 +635,7 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
         </div>
       )}
 
+      {console.log('[VideoPlayer render] highlights.length=%d phase=%s', highlights.length, highlightState.phase)}
       <ReactionOverlay
         phase={highlightState.phase}
         timeToNext={highlightState.timeToNext}
@@ -643,14 +644,17 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
       />
 
       <button
-        className={`animation-toggle ${!animationEnabled ? 'disabled' : ''}`}
+        className={`animation-toggle${!animationEnabled ? ' disabled' : ''}`}
         onClick={(e) => {
           e.stopPropagation();
           toggleAnimation();
         }}
         title={animationEnabled ? '关闭高光动画' : '开启高光动画'}
       >
-        {animationEnabled ? '✨' : '✖'}
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" width="18" height="18">
+          <path d="M12 3l2.5 5.5L20 9l-4 3.8L17 19l-5-2.7L7 19l1-6.2L4 9l5.5-.5z"/>
+          {!animationEnabled && <line x1="3" y1="3" x2="21" y2="21" />}
+        </svg>
       </button>
 
       <div

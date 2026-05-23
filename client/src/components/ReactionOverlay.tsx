@@ -73,6 +73,12 @@ export const ReactionOverlay = React.memo<ReactionOverlayProps>(({
     };
   }, [phase]);
 
+  // Debug: log phase changes
+  useEffect(() => {
+    console.log('[ReactionOverlay] phase=%s timeToNext=%.1fs highlights=%d isMobile=%s',
+      phase, timeToNext, highlights.length, isMobile);
+  }, [phase, timeToNext, highlights.length, isMobile]);
+
   useEffect(() => {
     return () => {
       destroy();
@@ -109,7 +115,20 @@ export const ReactionOverlay = React.memo<ReactionOverlayProps>(({
     }
   }, [phase]);
 
-  if (highlights.length === 0) return null;
+  useEffect(() => {
+    console.log('ReactionOverlay debug:', {
+      phase,
+      timeToNext,
+      highlightsLength: highlights.length,
+      isMobile,
+      highlights,
+    });
+  }, [phase, timeToNext, highlights, isMobile]);
+
+  if (highlights.length === 0) {
+    console.log('ReactionOverlay: No highlights, returning null');
+    return null;
+  }
 
   return (
     <div className="reaction-overlay">

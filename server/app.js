@@ -52,6 +52,13 @@ app.use(cors({
 app.use(express.json());
 app.use(express.static('public'));
 
+// 减少 TIME_WAIT：延长 Keep-Alive 超时 + 复用连接
+app.use((req, res, next) => {
+  res.setHeader('Connection', 'keep-alive');
+  res.setHeader('Keep-Alive', 'timeout=60, max=1000');
+  next();
+});
+
 app.use((req, res, next) => {
   if (!db) return res.status(503).json({ error: 'Database not initialized' });
   next();
@@ -1048,6 +1055,10 @@ initDatabase().then(async () => {
   }, 3600000);
   
   server = app.listen(PORT, '0.0.0.0', () => {
+  // 延长 Keep-Alive 超时，让浏览器复用 TCP 连接而非每次新建
+  server.keepAliveTimeout = 65000;  // 65 秒
+  server.headersTimeout = 66000;    // 略大于 keepAliveTimeout
+  
     console.log(`Server running on http://0.0.0.0:${PORT}`);
     console.log(`LAN access: http://localhost:${PORT}`);
     console.log(`Video directory: ${externalVideoDir}`);

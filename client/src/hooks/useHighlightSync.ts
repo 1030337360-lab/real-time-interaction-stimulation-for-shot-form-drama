@@ -125,18 +125,33 @@ export function useHighlightSync(
     }
 
     if (newPhase !== stateRef.current.phase) {
+      if (typeof window !== 'undefined' && (window as any).__highlightDebug !== false) {
+        console.log('[useHighlightSync] %s → %s (timeToNext=%.1fs, nearest=%s%%)',
+          stateRef.current.phase, newPhase, timeToNext,
+          nearest ? ((nearest / duration) * 100).toFixed(1) : 'null');
+      }
       const newState: HighlightState = {
         phase: newPhase,
         nearestHighlight: nearest,
         timeToNext: timeToNext,
       };
 
+      console.log('HighlightSync state change:', {
+        from: stateRef.current.phase,
+        to: newPhase,
+        timeToNext,
+        nearest,
+        currentTime,
+        highlightsCount: highlights.length,
+        isPaused,
+      });
+
       setState(newState);
       stateRef.current = newState;
     } else if (Math.abs(timeToNext - stateRef.current.timeToNext) > 0.1) {
       stateRef.current.timeToNext = timeToNext;
     }
-  }, [currentTime, isPaused, highlights, duration, nearest, enabled]);
+  }, [currentTime, isPaused, highlights, duration, nearest, enabled, upcomingHighlights]);
 
   const reset = useCallback(() => {
     const idleState: HighlightState = {
