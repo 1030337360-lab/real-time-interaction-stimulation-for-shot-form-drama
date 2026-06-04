@@ -75,6 +75,42 @@ class AnalysisStorage:
             del data[video_url]
             self._save_data(data)
             print(f"已删除 {video_url} 的分析结果")
+    def delete_analysis(self, video_url: str):
+        """删除剧集分析结果"""
+        data = self._load_data()
+        if video_url in data:
+            del data[video_url]
+            self._save_data(data)
+            print(f"已删除 {video_url} 的分析结果")
+
+    def mark_status(self, video_url: str, status: str):
+        """标记剧集状态: pending / in_progress / completed / failed"""
+        data = self._load_data()
+        entry = data.get(video_url, {})
+        entry["_status"] = status
+        data[video_url] = entry
+        self._save_data(data)
+
+    def get_status(self, video_url: str) -> str:
+        """获取剧集状态"""
+        data = self._load_data()
+        return data.get(video_url, {}).get("_status", "pending")
+
+    def get_pending_and_in_progress(self) -> list:
+        """获取需要（重新）分析的剧集"""
+        data = self._load_data()
+        return [
+            url for url, entry in data.items()
+            if entry.get("_status", "pending") in ("pending", "in_progress", "failed")
+        ]
+
+    def get_completed(self) -> list:
+        """获取已完成的剧集"""
+        data = self._load_data()
+        return [
+            url for url, entry in data.items()
+            if entry.get("_status") == "completed"
+        ]
 
     def get_all_video_urls(self) -> list:
         """获取所有已分析的video_url"""

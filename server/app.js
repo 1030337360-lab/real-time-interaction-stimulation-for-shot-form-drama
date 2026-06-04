@@ -64,15 +64,16 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get('/api/test/:dramaName/:filename', (req, res) => {
-  const { dramaName, filename } = req.params;
-  console.log('Test - dramaName:', dramaName);
-  console.log('Test - filename:', filename);
-  const fullPath = path.join(externalVideoDir, dramaName, filename);
-  console.log('Test - fullPath:', fullPath);
-  console.log('Test - exists:', fs.existsSync(fullPath));
-  res.json({ dramaName, filename, fullPath, exists: fs.existsSync(fullPath) });
-});
+// Debug endpoint — only available in development
+if (process.env.NODE_ENV !== 'production') {
+  app.get('/api/test/:dramaName/:filename', (req, res) => {
+    const { dramaName, filename } = req.params;
+    const fullPath = path.join(externalVideoDir, dramaName, filename);
+    const exists = fs.existsSync(fullPath);
+    console.log(`[DEBUG] /api/test: ${dramaName}/${filename} → ${fullPath} (exists=${exists})`);
+    res.json({ dramaName, filename, exists });
+  });
+}
 
 const videoDir = path.join(__dirname, 'videos');
 const coverDir = path.join(__dirname, 'covers');

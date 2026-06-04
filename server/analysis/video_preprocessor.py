@@ -21,7 +21,7 @@ class VideoPreprocessor:
         num_frames: int = 30
     ) -> List[str]:
         """
-        提取关键帧
+        提取关键帧（按总视频时长均匀分配）
 
         Args:
             video_path: 视频文件路径
@@ -63,6 +63,50 @@ class VideoPreprocessor:
 
         return [str(f) for f in frames]
 
+    def extract_fixed_interval_frames(
+        self,
+        video_path: str,
+        output_dir: str,
+        interval_seconds: int = 5
+    ) -> List[str]:
+        """
+        按固定时间间隔截取帧（每interval_seconds秒一帧）
+
+        Args:
+            video_path: 视频文件路径
+            output_dir: 输出目录
+            interval_seconds: 截取间隔（秒，默认5秒）
+
+        Returns:
+            帧文件路径列表
+        """
+        video_path = Path(video_path)
+        episode_name = video_path.stem
+        episode_dir = Path(output_dir) / episode_name
+        episode_dir.mkdir(parents=True, exist_ok=True)
+
+        output_pattern = str(episode_dir / "frame_%03d.jpg")
+        cmd = [
+            "ffmpeg",
+            "-i", str(video_path),
+            "-vf", f"fps=1/{interval_seconds}",
+            "-q:v", "2",
+            output_pattern,
+            "-y"
+        ]
+
+        print(f"[固定间隔抽帧] 每{interval_seconds}秒一帧，执行命令: {' '.join(cmd)}")
+        result = subprocess.run(cmd, capture_output=True, text=True)
+
+        if result.returncode != 0:
+            print(f"FFmpeg错误: {result.stderr}")
+            raise RuntimeError(f"抽帧失败: {result.stderr}")
+
+        frames = sorted(episode_dir.glob("frame_*.jpg"))
+        print(f"固定间隔抽帧完成，共提取 {len(frames)} 帧（每{interval_seconds}秒一帧）")
+
+        return [str(f) for f in frames]
+
     def extract_key_frames_smart(
         self,
         video_path: str,
@@ -89,7 +133,7 @@ class VideoPreprocessor:
         cmd = [
             "ffmpeg",
             "-i", str(video_path),
-            "-vf", f"select='gt(scene,0.3)',fps=fps=1/{max(1, 300//num_frames)}",
+            "-vf", f"select='gt(scene,0.3)',fps=1/{max(1, 300//num_frames)}",
             "-q:v", "2",
             "-frames:v", str(num_frames),
             output_pattern,
@@ -159,6 +203,37 @@ class VideoPreprocessor:
         except json.JSONDecodeError:
             print(f"获取视频信息失败: {result.stderr}")
             return {}
+
+
+    def extract_frame_at_timestamp(
+        self,
+        video_path: str,
+        output_path: str,
+        timestamp_seconds: float
+    ) -> str:
+        """在指定时间戳提取单帧"""
+        cmd = [
+            "ffmpeg",
+            "-ss", str(timestamp_seconds),
+            "-i", str(video_path),
+            "-frames:v", "1",
+            "-q:v", "2",
+            output_path,
+            "-y"
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            raise RuntimeError(f"指定时间戳抽帧失败 ({timestamp_seconds}s): {result.stderr}")
+        return output_path
+
+
+    def cleanup_temp_audio(self, audio_path: str):
+        """清理临时音频文件"""
+        import os as _os
+        audio = Path(audio_path)
+        if audio.exists():
+            audio.unlink()
+            print(f"已清理临时音频: {audio_path}")
 
     def cleanup_frames(self, episode_dir: str):
         """清理指定剧集的帧文件"""

@@ -4,7 +4,7 @@
   "description": "Short Drama Video Streaming Server",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "set NODE_ENV=production && node app.js",
     "dev": "nodemon app.js"
   },
   "dependencies": {

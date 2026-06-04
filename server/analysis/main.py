@@ -21,8 +21,9 @@ from config import Config
 from video_preprocessor import VideoPreprocessor
 from multimodal_analyzer import MultimodalAnalyzer
 from structured_extractor import StructuredExtractor
-from graph_builder import GraphBuilder
+from graph_builder import GraphBuilder, EpisodeTimeline
 from storage import AnalysisStorage
+from speaker_identifier import SpeakerIdentifier
 
 
 def load_episodes():
@@ -38,21 +39,27 @@ def analyze_episode(
     extractor: StructuredExtractor,
     graph_builder: GraphBuilder,
     storage: AnalysisStorage,
-    force: bool = False
+    force: bool = False,
+    episode: dict = None
 ) -> dict:
     """分析单个剧集"""
     print(f"\n{'='*60}")
     print(f"开始分析: {video_url}")
     print(f"{'='*60}")
 
+    # 断点续传：检查状态
     if not force:
-        cached = storage.get_episode_analysis(video_url)
-        if cached:
-            print(f"✓ 已存在分析结果，跳过（使用 --force 强制重新分析）")
-            return cached
+        current_status = storage.get_status(video_url)
+        if current_status == "completed":
+            cached = storage.get_episode_analysis(video_url)
+            if cached:
+                print(f"✓ 已完成，跳过（使用 --force 强制重新分析）")
+                return cached
+
+    storage.mark_status(video_url, "in_progress")
 
     preprocessor = VideoPreprocessor(Config.FRAME_DIR)
-    frames = preprocessor.extract_key_frames(
+    frames = preprocessor.extract_key_frames_smart(
         video_path,
         str(Path(Config.FRAME_DIR) / video_url.replace("/", "_")),
         num_frames=Config.FRAMES_PER_EPISODE
@@ -61,7 +68,7 @@ def analyze_episode(
     if not frames:
         raise RuntimeError("抽帧失败，未获取到任何帧")
 
-    print(f"\n开始调用Qwen-VL分析 {len(frames)} 帧...")
+    print(f"\n开始调用多模态模型分析 {len(frames)} 帧...")
     frame_analyses = analyzer.analyze_frames_batch(frames, delay=0.5)
 
     print(f"\n开始LLM结构化提取...")
@@ -73,11 +80,54 @@ def analyze_episode(
     video_duration = preprocessor._get_duration(video_path)
     print(f"视频时长: {video_duration:.1f} 秒")
 
-    highlights = extractor.map_to_highlights(
-        structured.get("key_scenes", []),
-        video_duration
+    # ---- 时间轴融合 + 高光检测 ----
+    print(f"\n开始时间轴融合 + 高光检测...")
+    # 准备音频片段
+    audio_segments = []
+    audio_result = None
+    audio_analyzer = None
+    if Config.AUDIO_ENABLED:
+        try:
+            from audio_analyzer import AudioAnalyzer
+            audio_analyzer = AudioAnalyzer(device=Config.AUDIO_DEVICE)
+            audio_result = audio_analyzer.analyze_full(video_path)
+            audio_segments = audio_result.get("dialogue", [])
+            print(f"  音频分析完成: {len(audio_segments)} 条对话")
+        except ImportError as e:
+            print(f"  ⚠ 音频分析跳过（缺少依赖）: {e}")
+        except Exception as e:
+            print(f"  ⚠ 音频分析失败: {e}")
+
+    # 构建融合时间轴
+    timeline = EpisodeTimeline(
+        episode_title=Path(video_path).parent.name,
+        video_url=video_url
     )
+    timeline.build(
+        audio_segments=audio_segments,
+        frame_analyses=frame_analyses,
+        frame_interval=Config.FRAME_INTERVAL_SECONDS,
+        video_duration=video_duration
+    )
+
+    # 高光输出
+    highlights = timeline.get_highlights_as_percentages(video_duration)
     structured["highlights_auto"] = highlights
+    structured["timeline"] = timeline.to_dict()
+    structured["highlight_intervals"] = timeline.highlights
+
+    print(f"  时间轴: {len(timeline.segments)} 个片段")
+    print(f"  高光区间: {len(timeline.highlights)} 个")
+    print(f"  高光点(百分比): {highlights}")
+
+    # 保存时间轴结果
+    timeline_path = str(
+        Path(Config.OUTPUT_DIR)
+        / f"timeline_{video_url.replace('/', '_').replace('\\\\', '_')}.json"
+    )
+    with open(timeline_path, "w", encoding="utf-8") as f:
+        json.dump(timeline.to_dict(), f, ensure_ascii=False, indent=2)
+    print(f"  时间轴已保存: {timeline_path}")
 
     structured["video_url"] = video_url
     structured["video_duration"] = video_duration
@@ -86,11 +136,48 @@ def analyze_episode(
     structured["cost_estimate"] = len(frames) * 0.012
     structured["analyzed_at"] = datetime.now().isoformat()
 
+    # ---- ASR驱动的说话人识别（可选，需AUDIO_ENABLED） ----
+    speaker_map = {}
+    if audio_analyzer is not None and audio_result is not None:
+        try:
+            print(f"\n开始说话人识别...")
+            si = SpeakerIdentifier(analyzer, preprocessor, Config.FRAME_DIR)
+            characters_context = structured.get("characters", [])
+            si_result = si.identify_speakers_for_episode(
+                video_path, video_url, audio_result,
+                context_characters=characters_context
+            )
+            speaker_map = si_result.get("speaker_map", {})
+            structured["speaker_map"] = speaker_map
+            structured["speaker_identifications"] = si_result.get("identifications", [])
+
+            # Save speaker identification results
+            spk_output = str(Path(Config.OUTPUT_DIR) / "speaker_identities.json")
+            si.save_to_file(si_result, spk_output)
+
+            print(f"  说话人识别结果: {speaker_map}")
+        except ImportError as e:
+            print(f"  ⚠ 音频分析跳过（缺少依赖）: {e}")
+        except Exception as e:
+            print(f"  ⚠ 音频分析失败: {e}")
+            import traceback
+            traceback.print_exc()
+
     episode_graph = graph_builder.build_episode_graph(structured, video_url)
-    global_graph = graph_builder.merge_global_graph(episode_graph, drama_id=1)
+    # drama_id: 优先从 episode 数据获取，fallback 到 1
+    drama_id = episode.get("drama_id", 1) if episode else 1
+    global_graph = graph_builder.merge_global_graph(episode_graph, drama_id=drama_id)
     graph_builder.save_global_graph(global_graph)
 
     storage.update_episode_analysis(video_url, structured)
+
+    storage.mark_status(video_url, "completed")
+
+    # ---- 清理临时文件 ----
+    episode_frame_dir = Path(Config.FRAME_DIR) / video_url.replace("/", "_")
+    preprocessor.cleanup_frames(str(episode_frame_dir))
+    if audio_result and "audio_path" in audio_result:
+        preprocessor.cleanup_temp_audio(audio_result["audio_path"])
 
     print(f"\n✓ 分析完成!")
     print(f"  - 识别人物: {len(structured.get('characters', []))}")
@@ -109,17 +196,26 @@ def main():
     parser.add_argument("--drama", type=str, help="分析指定剧名的所有集")
     parser.add_argument("--force", action="store_true", help="强制重新分析")
     parser.add_argument("--all", action="store_true", help="分析所有剧集")
+    parser.add_argument("--resume", action="store_true", help="断点续传，跳过已完成的剧集")
     parser.add_argument("--stats", action="store_true", help="显示统计信息")
     args = parser.parse_args()
 
-    if not Config.QWEN_API_KEY:
-        print("错误: 请设置 QWEN_API_KEY 环境变量")
-        print("  Windows: set QWEN_API_KEY=your_api_key")
-        print("  Linux/Mac: export QWEN_API_KEY=your_api_key")
+    if not Config.DOUBAO_API_KEY:
+        print("错误: 请设置 DOUBAO_API_KEY 环境变量")
+        print("  Windows: set DOUBAO_API_KEY=your_api_key")
+        print("  Linux/Mac: export DOUBAO_API_KEY=your_api_key")
         sys.exit(1)
 
-    analyzer = MultimodalAnalyzer(Config.QWEN_API_KEY, Config.QWEN_MODEL)
-    extractor = StructuredExtractor(Config.QWEN_API_KEY)
+    analyzer = MultimodalAnalyzer(
+        api_key=Config.DOUBAO_API_KEY,
+        base_url=Config.DOUBAO_BASE_URL,
+        model=Config.DOUBAO_VL_MODEL
+    )
+    extractor = StructuredExtractor(
+        api_key=Config.DOUBAO_API_KEY,
+        base_url=Config.DOUBAO_BASE_URL,
+        model=Config.DOUBAO_LLM_MODEL
+    )
     graph_builder = GraphBuilder(Config.GRAPH_FILE)
     storage = AnalysisStorage(Config.ANALYSIS_RESULTS_PATH)
 
@@ -133,6 +229,11 @@ def main():
 
     if args.all:
         episodes = load_episodes()
+        
+        if args.resume:
+            completed = storage.get_completed()
+            episodes = [e for e in episodes if e.get("video_url", "") not in completed]
+            print(f"断点续传: {len(episodes)} 个待分析剧集 (已跳过 {len(completed)} 个已完成)")
 
         for episode in episodes:
             video_url = episode.get("video_url", "")
@@ -146,7 +247,8 @@ def main():
                         video_url,
                         str(video_path),
                         analyzer, extractor, graph_builder, storage,
-                        force=args.force
+                        force=args.force,
+                        episode=episode
                     )
                 except Exception as e:
                     print(f"✗ 分析失败: {e}")
@@ -167,7 +269,8 @@ def main():
             video_url,
             str(video_path),
             analyzer, extractor, graph_builder, storage,
-            force=args.force
+            force=args.force,
+            episode=None
         )
 
     elif args.episode:
@@ -189,7 +292,8 @@ def main():
             video_url,
             str(video_path),
             analyzer, extractor, graph_builder, storage,
-            force=args.force
+            force=args.force,
+            episode=None
         )
 
     elif args.drama:
@@ -210,7 +314,8 @@ def main():
                         video_url,
                         str(video_path),
                         analyzer, extractor, graph_builder, storage,
-                        force=args.force
+                        force=args.force,
+                        episode=episode
                     )
                 except Exception as e:
                     print(f"✗ 分析失败: {e}")

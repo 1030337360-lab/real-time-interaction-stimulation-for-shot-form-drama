@@ -1,33 +1,107 @@
 """
-多模态分析模块 - Qwen-VL封装
+多模态分析模块 - 统一OpenAI兼容接口
+支持：通义千问 / 豆包 Doubao-Seed-2.0-lite
 """
 import base64
-import requests
 import time
-import json
 import re
 from pathlib import Path
 from typing import List, Dict, Optional
 
+from openai import OpenAI
+
+
+import hashlib
+
+
+class FrameCache:
+    """帧分析结果缓存 — SHA256帧哈希 + 模型名 作为键"""
+
+    def __init__(self, cache_dir: str):
+        self.cache_dir = Path(cache_dir)
+        self.cache_dir.mkdir(parents=True, exist_ok=True)
+        self.cache_file = self.cache_dir / "frame_cache.json"
+        self._data = None
+
+    def _load(self) -> dict:
+        if self._data is None:
+            if self.cache_file.exists():
+                with open(self.cache_file, "r", encoding="utf-8") as f:
+                    self._data = json.load(f)
+            else:
+                self._data = {}
+        return self._data
+
+    def _save(self):
+        with open(self.cache_file, "w", encoding="utf-8") as f:
+            json.dump(self._data, f, ensure_ascii=False, indent=2)
+
+    @staticmethod
+    def hash_frame(image_path: str) -> str:
+        with open(image_path, "rb") as f:
+            return hashlib.sha256(f.read()).hexdigest()[:16]
+
+    def get(self, frame_path: str, model: str) -> dict | None:
+        key = f"{self.hash_frame(frame_path)}:{model}"
+        return self._load().get(key)
+
+    def set(self, frame_path: str, model: str, result: dict):
+        key = f"{self.hash_frame(frame_path)}:{model}"
+        self._load()[key] = result
+        self._save()
+
+    def stats(self) -> dict:
+        data = self._load()
+        return {"total_cached": len(data), "cache_file": str(self.cache_file)}
+
 
 class MultimodalAnalyzer:
-    """多模态内容分析 - Qwen-VL封装"""
+    """多模态内容分析 - OpenAI兼容统一封装"""
 
-    def __init__(self, api_key: str, model: str = "qwen-vl-plus"):
+    def __init__(
+        self,
+        api_key: str,
+        base_url: str,
+        model: str = "Doubao-Seed-2.0-lite"
+    ):
         self.api_key = api_key
+        self.base_url = base_url
         self.model = model
-        self.api_url = "https://dashscope.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation"
 
-    def analyze_frame(self, image_path: str) -> Dict:
+        self.client = OpenAI(
+            api_key=api_key,
+            base_url=base_url,
+            timeout=300.0
+        )
+
+        # 帧缓存
+        self.cache = None
+        try:
+            from config import Config
+            self.cache = FrameCache(Config.CACHE_DIR)
+        except Exception:
+            pass
+
+        print(f"[MultimodalAnalyzer] 初始化完成，模型: {self.model}, 端点: {self.base_url}")
+
+    def analyze_frame(self, image_path: str, use_cache: bool = True) -> Dict:
         """
-        分析单帧图片
+        分析单帧图片（多模态）
 
         Args:
             image_path: 图片路径
+            use_cache: 是否使用缓存（默认True）
 
         Returns:
             分析结果字典
         """
+        # 缓存检查
+        if use_cache and self.cache:
+            cached = self.cache.get(image_path, self.model)
+            if cached:
+                print(f"    [缓存命中] {Path(image_path).name}")
+                return cached
+
         with open(image_path, "rb") as f:
             img_base64 = base64.b64encode(f.read()).decode("utf-8")
 
@@ -40,42 +114,56 @@ class MultimodalAnalyzer:
 
 请用JSON格式输出，只输出JSON，不要其他内容。"""
 
-        payload = {
-            "model": self.model,
-            "input": {
-                "messages": [
-                    {
-                        "role": "user",
-                        "content": [
-                            {"image": f"data:image/jpeg;base64,{img_base64}"},
-                            {"text": prompt}
-                        ]
-                    }
-                ]
-            }
-        }
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/jpeg;base64,{img_base64}"
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": prompt
+                        }
+                    ]
+                }
+            ],
+            max_tokens=2048
+        )
 
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json"
-        }
+        content = response.choices[0].message.content
+        # Extract first complete JSON object (brace-counting, avoids greedy match)
+        json_start = content.find('{')
+        if json_start >= 0:
+            brace_count = 0
+            json_end = json_start
+            for k in range(json_start, len(content)):
+                if content[k] == '{':
+                    brace_count += 1
+                elif content[k] == '}':
+                    brace_count -= 1
+                    if brace_count == 0:
+                        json_end = k + 1
+                        break
+            json_str = content[json_start:json_end]
+            try:
+                result = json.loads(json_str)
+            except json.JSONDecodeError:
+                result = None
+        else:
+            result = None
+        json_match = result
 
-        response = requests.post(self.api_url, json=payload, headers=headers)
-
-        if response.status_code != 200:
-            raise RuntimeError(f"API调用失败: {response.text}")
-
-        result = response.json()
-
-        try:
-            content = result["output"]["choices"][0]["message"]["content"]
-            json_match = re.search(r'\{.*\}', content, re.DOTALL)
-            if json_match:
-                return json.loads(json_match.group(0))
-            else:
-                return {"error": f"无法解析响应: {content}"}
-        except (KeyError, IndexError) as e:
-            return {"error": f"解析错误: {str(e)}, 原始响应: {result}"}
+        if json_match is not None:
+            if use_cache and self.cache:
+                self.cache.set(image_path, self.model, json_match)
+            return json_match
+        return {"error": f"无法解析响应: {content}"}
 
     def analyze_frames_batch(
         self,
@@ -84,7 +172,7 @@ class MultimodalAnalyzer:
         retry_times: int = 3
     ) -> List[Dict]:
         """
-        批量分析帧（带延迟避免限流）
+        批量分析帧（带限流避免限流）
 
         Args:
             frame_paths: 帧路径列表
@@ -176,6 +264,69 @@ class MultimodalAnalyzer:
 
         return results
 
+
+    def identify_speaker(self, image_path: str, context_characters: list = None) -> Dict:
+        """识别画面中正在说话的人物
+        
+        Args:
+            image_path: 帧路径
+            context_characters: 本集已识别的人物列表 [{"name":"张三", "description":"..."}]
+        
+        Returns:
+            {"speaker_name": "张三", "confidence": 0.9, "description": "..."}
+        """
+        with open(image_path, "rb") as f:
+            img_base64 = base64.b64encode(f.read()).decode("utf-8")
+
+        char_hint = ""
+        if context_characters:
+            names = [c.get("name", "") for c in context_characters if c.get("name")]
+            if names:
+                char_hint = f"\n本集已出现的人物: {', '.join(names)}"
+
+        prompt = f"""分析这张截图，只回答一个问题：画面中谁在说话？
+
+判断依据：嘴型、面部朝向、手势、其他人的视线方向。
+如果画面中有多个人，只输出正在说话的那个人。
+如果无法确定，输出 "unknown"。
+{char_hint}
+
+请用JSON格式输出，只输出JSON:{{"speaker_name":"人物名或unknown","confidence":0.0-1.0,"evidence":"简短依据"}}"""
+
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[{
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img_base64}"}},
+                    {"type": "text", "text": prompt}
+                ]
+            }],
+            max_tokens=256
+        )
+
+        content = response.choices[0].message.content
+
+        # Extract JSON
+        import json
+        json_start = content.find('{')
+        if json_start >= 0:
+            brace_count = 0
+            json_end = json_start
+            for k in range(json_start, len(content)):
+                if content[k] == '{':
+                    brace_count += 1
+                elif content[k] == '}':
+                    brace_count -= 1
+                    if brace_count == 0:
+                        json_end = k + 1
+                        break
+            try:
+                return json.loads(content[json_start:json_end])
+            except json.JSONDecodeError:
+                pass
+        return {"speaker_name": "unknown", "confidence": 0.0, "evidence": "parse failed"}
+
     def test_connection(self) -> bool:
         """测试API连接"""
         try:
@@ -184,21 +335,15 @@ class MultimodalAnalyzer:
                 self.analyze_frame(str(test_image))
                 print("API连接测试成功")
             else:
-                prompt = "Hello, this is a test."
-                payload = {
-                    "model": self.model,
-                    "input": {"prompt": prompt},
-                    "parameters": {"result_format": "message"}
-                }
-                headers = {
-                    "Authorization": f"Bearer {self.api_key}",
-                    "Content-Type": "application/json"
-                }
-                response = requests.post(self.api_url, json=payload, headers=headers)
-                if response.status_code == 200:
+                response = self.client.chat.completions.create(
+                    model=self.model,
+                    messages=[{"role": "user", "content": "Hello, this is a test."}],
+                    max_tokens=32
+                )
+                if response and response.choices:
                     print("API连接测试成功")
                 else:
-                    print(f"API连接测试失败: {response.status_code}")
+                    print("API连接测试失败: 无响应")
                     return False
             return True
         except Exception as e:

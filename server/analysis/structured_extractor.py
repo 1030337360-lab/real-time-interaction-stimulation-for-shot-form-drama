@@ -1,19 +1,27 @@
 """
 结构化信息提取模块 - LLM总结
+统一使用 OpenAI 兼容接口，支持通义千问 / 豆包
 """
 import json
-import requests
 import time
 import re
 from typing import List, Dict, Optional
+from openai import OpenAI
 
 
 class StructuredExtractor:
-    """结构化信息提取 - 基于LLM"""
+    """结构化信息提取 - 基于 LLM (OpenAI 兼容接口)"""
 
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, base_url: str, model: str):
         self.api_key = api_key
-        self.api_url = "https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation"
+        self.base_url = base_url
+        self.model = model
+        self.client = OpenAI(
+            api_key=api_key,
+            base_url=base_url,
+            timeout=300.0
+        )
+        print(f"[StructuredExtractor] 初始化完成，模型: {self.model}")
 
     def extract_summary(
         self,
@@ -94,40 +102,42 @@ class StructuredExtractor:
         result = self._call_llm(prompt)
 
         try:
-            json_match = re.search(r'\{.*\}', result, re.DOTALL)
-            if json_match:
-                return json.loads(json_match.group(0))
+            # Extract first complete JSON object (brace-counting)
+            json_start = result.find('{')
+            if json_start >= 0:
+                brace_count = 0
+                json_end = json_start
+                for k in range(json_start, len(result)):
+                    if result[k] == '{':
+                        brace_count += 1
+                    elif result[k] == '}':
+                        brace_count -= 1
+                        if brace_count == 0:
+                            json_end = k + 1
+                            break
+                try:
+                    json_match = json.loads(result[json_start:json_end])
+                except json.JSONDecodeError:
+                    json_match = None
+            else:
+                json_match = None
+            if json_match is not None:
+                return json_match
             else:
                 return {"error": f"无法解析LLM响应: {result}"}
         except Exception as e:
             return {"error": f"解析错误: {e}"}
 
-    def _call_llm(self, prompt: str, model: str = "qwen-plus") -> str:
-        """调用LLM API"""
-        payload = {
-            "model": model,
-            "input": {"prompt": prompt},
-            "parameters": {
-                "result_format": "message"
-            }
-        }
+    def _call_llm(self, prompt: str) -> str:
+        """调用LLM API (OpenAI兼容接口)"""
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=4096,
+            temperature=0.7
+        )
 
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json"
-        }
-
-        response = requests.post(self.api_url, json=payload, headers=headers)
-
-        if response.status_code != 200:
-            raise RuntimeError(f"LLM API调用失败: {response.text}")
-
-        result = response.json()
-
-        try:
-            return result["output"]["choices"][0]["message"]["content"]
-        except (KeyError, IndexError) as e:
-            raise RuntimeError(f"解析LLM响应失败: {str(e)}, 原始响应: {result}")
+        return response.choices[0].message.content
 
     def map_to_highlights(
         self,
@@ -220,9 +230,27 @@ class StructuredExtractor:
         result = self._call_llm(prompt)
 
         try:
-            json_match = re.search(r'\{.*\}', result, re.DOTALL)
-            if json_match:
-                return json.loads(json_match.group(0))
+            # Extract first complete JSON object (brace-counting)
+            json_start = result.find('{')
+            if json_start >= 0:
+                brace_count = 0
+                json_end = json_start
+                for k in range(json_start, len(result)):
+                    if result[k] == '{':
+                        brace_count += 1
+                    elif result[k] == '}':
+                        brace_count -= 1
+                        if brace_count == 0:
+                            json_end = k + 1
+                            break
+                try:
+                    json_match = json.loads(result[json_start:json_end])
+                except json.JSONDecodeError:
+                    json_match = None
+            else:
+                json_match = None
+            if json_match is not None:
+                return json_match
             else:
                 return {"error": f"无法解析LLM响应: {result}"}
         except Exception as e:
