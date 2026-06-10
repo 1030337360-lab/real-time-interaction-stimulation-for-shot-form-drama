@@ -69,7 +69,14 @@ def analyze_episode(
         raise RuntimeError("抽帧失败，未获取到任何帧")
 
     print(f"\n开始调用多模态模型分析 {len(frames)} 帧...")
-    frame_analyses = analyzer.analyze_frames_batch(frames, delay=0.5)
+    # 增量保存断点
+    checkpoint = str(
+            Path(Config.OUTPUT_DIR)
+            / f"frames_checkpoint_{video_url.replace('/', '_').replace(chr(92), '_')}.json"
+        )
+    frame_analyses = analyzer.analyze_frames_batch(
+        frames, delay=0.5, checkpoint_path=checkpoint
+    )
 
     print(f"\n开始LLM结构化提取...")
     structured = extractor.extract_summary(

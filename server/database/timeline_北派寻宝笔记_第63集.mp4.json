@@ -1,0 +1,3937 @@
+{
+  "episode_title": "北派寻宝笔记",
+  "video_url": "北派寻宝笔记/第63集.mp4",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Low-angle partial shot of a moving stainless steel sliding gate installed on rough outdoor cement ground, only lower body fragments of people are visible around the gate",
+      "visual_characters": [
+        "unknown",
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Medium close-up side profile shot of a young man in casual workwear, against a blurred hazy urban outdoor background",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Low-angle shot of a young man standing in front of a large slatted metal facility gate under warm soft daylight",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "户外场景，背景是老旧的金属竖格大门，采用浅景深虚化前景人物，整体氛围凝重紧绷",
+      "visual_characters": [
+        "项爷",
+        "未知"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "audio_text": "我 叫 向 云 峰 盗 墓 入 狱 七 年 因 为 表 现 良 好 获 得 了 减 刑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "audio_text": "我 叫 向 云 峰 盗 墓 入 狱 七 年 因 为 表 现 良 好 获 得 了 减 刑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "audio_text": "我 叫 向 云 峰 盗 墓 入 狱 七 年 因 为 表 现 良 好 获 得 了 减 刑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "audio_text": "我 叫 向 云 峰 盗 墓 入 狱 七 年 因 为 表 现 良 好 获 得 了 减 刑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "audio_text": "我 叫 向 云 峰 盗 墓 入 狱 七 年 因 为 表 现 良 好 获 得 了 减 刑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": "Outdoor rural setting with farmland in the distant background, a woman stands in front of a parked black luxury sedan facing an interlocutor [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown wealthy woman"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.522,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "audio_text": "我 叫 向 云 峰 盗 墓 入 狱 七 年 因 为 表 现 良 好 获 得 了 减 刑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Wide shot of a sunny countryside residential concrete path, a plainly dressed young man with luggage faces a group of well-dressed people parked with two luxury vehicles, rural farmland and hills stretch in the distant background",
+      "visual_characters": [
+        "unknown returning protagonist",
+        "unknown bodyguard 1",
+        "unknown bodyguard 2",
+        "unknown elegant lady",
+        "unknown entourage pair by jeep"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "A frame captured from a vertical-screen domestic short drama, taken outdoors in soft side daylight, centered on a young man in casual vintage jacket",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "Bright daytime outdoor close-up shot of a man's side profile, with blurred pale sky and out-of-focus distant scenery in the background",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "Retro old-fashioned late 20th century Chinese domestic kitchen, shot with shallow depth of field, foreground kitchenware is blurred while focus falls on the elderly woman behind the low half wall.",
+      "visual_characters": [
+        "unknown elderly grandma",
+        "Xiang Yunfeng"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "Retro late 20th century Chinese residential interior, foreground cluttered with old kitchen utensils, enamel basins and firewood, an elderly woman sits behind a low half-wall partition",
+      "visual_characters": [
+        "unknown elderly woman"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "audio_text": "相 爷 听 说 您 出 来 了 我 从 潘 家 园 来 四 十 万 一 个 月 您 跟 我 们 干 呗 我 一 年 出 两 百 万 江 浙 那 边 有 个 消 息 听 说 是 南 宋 的 得 托 您 长 长 眼 你 们 都 样 样 吧 天 津 沈 阳 道 也 来 人 了 相 爷 一 年 三 千 万",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "Vintage northern Chinese winter outdoor scene with falling snow, a crowd of local residents gather for a public confrontation",
+      "visual_characters": [
+        "unknown middle-aged woman",
+        "other background residents"
+      ],
+      "visual_change": 0.8,
+      "highlight_score": 0.2,
+      "highlight_reasons": [
+        "表情感染(0.80)"
+      ]
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Retro winter outdoor night scene with falling snow, all characters wear thick old-style cold-proof clothing",
+      "visual_characters": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "audio_text": "我 入 套 墓 本 就 是 错 误",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "audio_text": "我 入 套 墓 本 就 是 错 误",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "Dimly lit indoor close-up shot, with vintage retro styling for the character's clothing, belonging to a period family drama setting",
+      "visual_characters": [
+        "Unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "audio_text": "纵 然 一 夜 暴 富",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "audio_text": "纵 然 一 夜 暴 富",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "audio_text": "血 也 风",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "audio_text": "出 了 代 价",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Snowy cold outdoor night scene with dim blue ambient light, falling snow, blurred foreground figure, and faint blurred trees in the background",
+      "visual_characters": [
+        "unknown",
+        "unknown rural middle-aged woman"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Frigid snowy outdoor setting, cold blue color tone, snowflakes fall and cover the character's worn thick cotton-padded clothes",
+      "visual_characters": [
+        "Unknown elderly rural woman"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "audio_text": "你 用",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "audio_text": "我 的 故 事",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "Outdoor retro old residential courtyard scene at snowy winter night, heavy snow is falling, old brick house with festive red decorations in the background",
+      "visual_characters": [
+        "Unknown young man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "audio_text": "我 的 故 事",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "audio_text": "要 从 东 北 说 起",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "audio_text": "要 从 东 北 说 起",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 1.0,
+      "visual_description": "Dim outdoor setting on a heavy snowy frigid winter night, a group of middle-aged women dressed in vintage thick winter clothes gather to face the person outside the frame [剧情转折:critical]",
+      "visual_characters": [
+        "unknown leading woman",
+        "unknown woman at rear left",
+        "unknown women partially visible on the right"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.64,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "audio_text": "想 运 凤 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "audio_text": "想 运 凤 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "audio_text": "你 个 白 眼 儿 狼",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "Heavy snow falls on a rural courtyard at night, the old brick farm house is decorated with New Year fu character, red paper cuttings and strings of hanging garlic on the exterior wall, villagers gather around a young man at the house entrance.",
+      "visual_characters": [
+        "unknown young man",
+        "group of unknown villagers"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "audio_text": "你 个 白 眼 儿 狼",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "audio_text": "不 好 好 上 学",
+      "audio_speaker": "spk3",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "audio_text": "不 好 好 上 学",
+      "audio_speaker": "spk3",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "audio_text": "天 天 捣 鼓 这 破 罐 子 干 什 么 奶 奶",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "audio_text": "天 天 捣 鼓 这 破 罐 子 干 什 么 奶 奶",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": "A young man stands in falling snow, with snowflakes resting on his hair and coat, against a blurred warm dim doorway background [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown young man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.64,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "audio_text": "天 天 捣 鼓 这 破 罐 子 干 什 么 奶 奶",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "audio_text": "我 这 是 为 了 给 您 养 老",
+      "audio_speaker": "spk1",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "audio_text": "我 这 是 为 了 给 您 养 老",
+      "audio_speaker": "spk1",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "audio_text": "团 战",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "audio_text": "电 视 上 都 说 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "Winter snowy outdoor courtyard at night, a group of villagers in thick retro winter clothes gather and face an out-of-focus person in the foreground",
+      "visual_characters": [
+        "Unknown leading village woman",
+        "Unknown woman with green scarf"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "audio_text": "这 柜 子 能 卖 好 几 千 呢",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "audio_text": "这 柜 子 能 卖 好 几 千 呢",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "audio_text": "放 屁",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Frigid snowy outdoor night, two women stay outside, snowflakes have covered their hair and coats",
+      "visual_characters": [
+        "unknown",
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "audio_text": "你",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "audio_text": "哎 你 干 嘛 你 要 站 倒 赚 钱 你 干",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "audio_text": "哎 你 干 嘛 你 要 站 倒 赚 钱 你 干",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "audio_text": "我 的 钱 给 还 来 了 你",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "audio_text": "我 的 钱 给 还 来 了 你",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "Retro old residential area on a snowy night, faint warm light leaks from the house window in the blurred background",
+      "visual_characters": [
+        "Unknown young man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "audio_text": "就 是 啊 这 利 滚 利 你 得 欠 大 伙 一 万 多 了 吧 就 是 贵 呀 我 一 一 分 钱 块 钱 快 点 还 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.7,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.21,
+      "highlight_reasons": [
+        "用词激烈(0.70)"
+      ]
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Warm dimly lit wintry outdoor scene, soft falling snow with blurred background",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 117.0,
+      "end": 118.0,
+      "audio_text": "各 位 叔 叔 婶 婶 大 姑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 118.0,
+      "end": 119.0,
+      "audio_text": "各 位 叔 叔 婶 婶 大 姑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "audio_text": "咱 们 出 去 说 别 吓 到 奶 奶",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 120.0,
+      "end": 121.0,
+      "audio_text": "咱 们 出 去 说 别 吓 到 奶 奶",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "Bustling retro Republican-era Chinese antique flea market, set in an old street lined with traditional grey brick buildings, vendors lay out antique pottery, calligraphy scrolls and old books on the ground for browsing and trading.",
+      "visual_characters": [
+        "Unidentified protagonist",
+        "Unknown ceramic stall vendor",
+        "Unknown customer",
+        "Unknown antique book vendor",
+        "Unknown stall owner",
+        "Other unknown market visitors"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.1,
+      "highlight_reasons": [
+        "表情感染(0.40)"
+      ]
+    },
+    {
+      "start": 121.0,
+      "end": 122.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "audio_text": "行",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "audio_text": "瞅 见 说 的 瞅 家 说 走",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 124.0,
+      "end": 125.0,
+      "audio_text": "瞅 见 说 的 瞅 家 说 走",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 125.0,
+      "end": 126.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": "Republic of China style outdoor space in front of traditional Chinese architecture, with painted wooden screen and lattice window as background [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown middle-aged man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.522,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 126.0,
+      "end": 127.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 127.0,
+      "end": 128.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 128.0,
+      "end": 129.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 129.0,
+      "end": 130.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 130.0,
+      "end": 131.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "A retro-style short drama still, with a young man in thick winter attire, set against a blurred grey brick wall background",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 131.0,
+      "end": 132.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 132.0,
+      "end": 133.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 133.0,
+      "end": 134.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 134.0,
+      "end": 135.0,
+      "audio_text": "小 老 爸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 135.0,
+      "end": 136.0,
+      "audio_text": "打 算 啥 时 候 还 钱 啊 我 现 在 手 上 是 真 没 钱",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "Outdoor old Republican-era street setting, the background architecture and street props are blurred with shallow depth of field",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 136.0,
+      "end": 137.0,
+      "audio_text": "打 算 啥 时 候 还 钱 啊 我 现 在 手 上 是 真 没 钱",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 137.0,
+      "end": 138.0,
+      "audio_text": "打 算 啥 时 候 还 钱 啊 我 现 在 手 上 是 真 没 钱",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 138.0,
+      "end": 139.0,
+      "audio_text": "打 算 啥 时 候 还 钱 啊 我 现 在 手 上 是 真 没 钱",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 139.0,
+      "end": 140.0,
+      "audio_text": "没 钱",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 140.0,
+      "end": 141.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Outdoor retro winter scene, blurred grey brick wall as background, the character wears thick warm cold-weather clothing",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 141.0,
+      "end": 142.0,
+      "audio_text": "那 你 奶 奶 低 保 呢 拿 出 来 抵 上 那 低 保 是 奶 奶 的 救 命 钱",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 142.0,
+      "end": 143.0,
+      "audio_text": "那 你 奶 奶 低 保 呢 拿 出 来 抵 上 那 低 保 是 奶 奶 的 救 命 钱",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 143.0,
+      "end": 144.0,
+      "audio_text": "那 你 奶 奶 低 保 呢 拿 出 来 抵 上 那 低 保 是 奶 奶 的 救 命 钱",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 144.0,
+      "end": 145.0,
+      "audio_text": "那 你 奶 奶 低 保 呢 拿 出 来 抵 上 那 低 保 是 奶 奶 的 救 命 钱",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 145.0,
+      "end": 146.0,
+      "audio_text": "那 咋 的 了 我 们 的 钱 都 是 大 风 管 来 的 呗",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "Retro period winter outdoor street scene of an old historic residential neighborhood",
+      "visual_characters": [
+        "unknown young man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "audio_text": "那 咋 的 了 我 们 的 钱 都 是 大 风 管 来 的 呗",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 147.0,
+      "end": 148.0,
+      "audio_text": "那 咋 的 了 我 们 的 钱 都 是 大 风 管 来 的 呗",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 148.0,
+      "end": 149.0,
+      "audio_text": "那 咋 的 了 我 们 的 钱 都 是 大 风 管 来 的 呗",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 150.0,
+      "audio_text": "我 看 你",
+      "audio_speaker": "spk1",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 150.0,
+      "end": 151.0,
+      "audio_text": "跟 你 那 死 爹 一 样",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "用词激烈(1.00)"
+      ]
+    },
+    {
+      "start": 151.0,
+      "end": 152.0,
+      "audio_text": "完 犊 子",
+      "audio_speaker": "spk3",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 152.0,
+      "end": 153.0,
+      "audio_text": "你 怎 么 放 干 净 点 啊",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 153.0,
+      "end": 154.0,
+      "audio_text": "你 怎 么 放 干 净 点 啊",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 154.0,
+      "end": 155.0,
+      "audio_text": "我 们 可 没 胡 理 咧 啊 你 那 爹 妈 就 是 穷 死 的",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.27,
+      "highlight_reasons": [
+        "用词激烈(0.90)"
+      ]
+    },
+    {
+      "start": 155.0,
+      "end": 156.0,
+      "audio_text": "我 们 可 没 胡 理 咧 啊 你 那 爹 妈 就 是 穷 死 的",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.27,
+      "highlight_reasons": [
+        "用词激烈(0.90)"
+      ]
+    },
+    {
+      "start": 156.0,
+      "end": 157.0,
+      "audio_text": "我 们 可 没 胡 理 咧 啊 你 那 爹 妈 就 是 穷 死 的",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.27,
+      "highlight_reasons": [
+        "用词激烈(0.90)"
+      ]
+    },
+    {
+      "start": 157.0,
+      "end": 158.0,
+      "audio_text": "你 奶 奶 这 可 不 行 了 吧 你 赶 紧 麻 溜 达 还 钱",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 158.0,
+      "end": 159.0,
+      "audio_text": "你 奶 奶 这 可 不 行 了 吧 你 赶 紧 麻 溜 达 还 钱",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 159.0,
+      "end": 160.0,
+      "audio_text": "你 奶 奶 这 可 不 行 了 吧 你 赶 紧 麻 溜 达 还 钱",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 160.0,
+      "end": 161.0,
+      "audio_text": "你 奶 奶 这 可 不 行 了 吧 你 赶 紧 麻 溜 达 还 钱",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 161.0,
+      "end": 162.0,
+      "audio_text": "赶 紧 回 起 来",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 162.0,
+      "end": 163.0,
+      "audio_text": "就 回 家 了",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 163.0,
+      "end": 164.0,
+      "audio_text": "我 听 说",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 164.0,
+      "end": 165.0,
+      "audio_text": "我 听 说",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 165.0,
+      "end": 166.0,
+      "audio_text": "你 家 里 的 存 款 全 都 让 你 拿 来 买 破 烂 了 吧 那 些 不 是 破 烂 是 古 董",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "audio_text": "你 家 里 的 存 款 全 都 让 你 拿 来 买 破 烂 了 吧 那 些 不 是 破 烂 是 古 董",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 167.0,
+      "end": 168.0,
+      "audio_text": "你 家 里 的 存 款 全 都 让 你 拿 来 买 破 烂 了 吧 那 些 不 是 破 烂 是 古 董",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 168.0,
+      "end": 169.0,
+      "audio_text": "你 家 里 的 存 款 全 都 让 你 拿 来 买 破 烂 了 吧 那 些 不 是 破 烂 是 古 董",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 169.0,
+      "end": 170.0,
+      "audio_text": "你 家 里 的 存 款 全 都 让 你 拿 来 买 破 烂 了 吧 那 些 不 是 破 烂 是 古 董",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 170.0,
+      "end": 171.0,
+      "audio_text": "懂 吗 你",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 171.0,
+      "end": 172.0,
+      "audio_text": "啊 一 净 瞎 扯 淡 你 家 要 真 有 胡 斗 能 出 的 响 叮 当",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 172.0,
+      "end": 173.0,
+      "audio_text": "啊 一 净 瞎 扯 淡 你 家 要 真 有 胡 斗 能 出 的 响 叮 当",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 173.0,
+      "end": 174.0,
+      "audio_text": "啊 一 净 瞎 扯 淡 你 家 要 真 有 胡 斗 能 出 的 响 叮 当",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 174.0,
+      "end": 175.0,
+      "audio_text": "这 古 董 对 扯 啥 呢 马 上 就 不 穷 了",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 175.0,
+      "end": 176.0,
+      "audio_text": "这 古 董 对 扯 啥 呢 马 上 就 不 穷 了",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 176.0,
+      "end": 177.0,
+      "audio_text": "这 古 董 对 扯 啥 呢 马 上 就 不 穷 了",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 177.0,
+      "end": 178.0,
+      "audio_text": "这 古 董 对 扯 啥 呢 马 上 就 不 穷 了",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 178.0,
+      "end": 179.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "audio_text": "年 底 之 前",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 180.0,
+      "end": 181.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 181.0,
+      "end": 182.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 182.0,
+      "end": 183.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 183.0,
+      "end": 184.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 184.0,
+      "end": 185.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 185.0,
+      "end": 186.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 186.0,
+      "end": 187.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 187.0,
+      "end": 188.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 188.0,
+      "end": 189.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 189.0,
+      "end": 190.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 190.0,
+      "end": 191.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 191.0,
+      "end": 192.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 192.0,
+      "end": 193.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 193.0,
+      "end": 194.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 194.0,
+      "end": 195.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 195.0,
+      "end": 196.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 196.0,
+      "end": 197.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 197.0,
+      "end": 198.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 198.0,
+      "end": 199.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 199.0,
+      "end": 200.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 200.0,
+      "end": 201.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 201.0,
+      "end": 202.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 202.0,
+      "end": 203.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 203.0,
+      "end": 204.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 204.0,
+      "end": 205.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 205.0,
+      "end": 206.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 206.0,
+      "end": 207.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 207.0,
+      "end": 208.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 208.0,
+      "end": 209.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 209.0,
+      "end": 210.0,
+      "audio_text": "我 去 趟 北 京 潘 家 园 你 们 这 些 钱 我 全 都 给 你 们 还 了 行 行 行 校 园 峰 你 说 啥 是 啥 只 要 你 能 还 钱 啊 是 吧 对 就 哎 对 对 对 对 对 我 跟 你 说 啊 年 底 还 不 上 钱 你 家 的 房 子 我 给 你 点 子 对 走 吧 走 了 走 走 赶 紧 回 去 了 点 了 点 了 哎 呀 这 儿 也 太 冷 了 那 回 家 走 着 呗 哎 走 吧 走 走 赶 紧 点 走 走 走 吧 走 吧 嘿 嘿 嘿 呸",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 210.0,
+      "end": 211.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 211.0,
+      "end": 212.0,
+      "audio_text": "喂 哎",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 212.0,
+      "end": 213.0,
+      "audio_text": "喂 哎",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 213.0,
+      "end": 214.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 214.0,
+      "end": 215.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 215.0,
+      "end": 216.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 216.0,
+      "end": 217.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 217.0,
+      "end": 218.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 218.0,
+      "end": 219.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 219.0,
+      "end": 220.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 220.0,
+      "end": 221.0,
+      "audio_text": "我 向 云 芳 一 定 要 出 人 头 地",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 221.0,
+      "end": 222.0,
+      "audio_text": "我 向 云 芳 一 定 要 出 人 头 地",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 222.0,
+      "end": 223.0,
+      "audio_text": "我 向 云 芳 一 定 要 出 人 头 地",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 223.0,
+      "end": 224.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 224.0,
+      "end": 225.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 225.0,
+      "end": 226.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 226.0,
+      "end": 227.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 227.0,
+      "end": 228.0,
+      "audio_text": "后 来 我 坐 火 车 去 了 潘 家 园 在 那 儿 认 识 我 个 师 傅 彻 底 走 上 了 跑 路 归 路",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 228.0,
+      "end": 229.0,
+      "audio_text": "后 来 我 坐 火 车 去 了 潘 家 园 在 那 儿 认 识 我 个 师 傅 彻 底 走 上 了 跑 路 归 路",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 229.0,
+      "end": 230.0,
+      "audio_text": "后 来 我 坐 火 车 去 了 潘 家 园 在 那 儿 认 识 我 个 师 傅 彻 底 走 上 了 跑 路 归 路",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 230.0,
+      "end": 231.0,
+      "audio_text": "后 来 我 坐 火 车 去 了 潘 家 园 在 那 儿 认 识 我 个 师 傅 彻 底 走 上 了 跑 路 归 路",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 231.0,
+      "end": 232.0,
+      "audio_text": "后 来 我 坐 火 车 去 了 潘 家 园 在 那 儿 认 识 我 个 师 傅 彻 底 走 上 了 跑 路 归 路",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 232.0,
+      "end": 233.0,
+      "audio_text": "后 来 我 坐 火 车 去 了 潘 家 园 在 那 儿 认 识 我 个 师 傅 彻 底 走 上 了 跑 路 归 路",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 233.0,
+      "end": 234.0,
+      "audio_text": "后 来 我 坐 火 车 去 了 潘 家 园 在 那 儿 认 识 我 个 师 傅 彻 底 走 上 了 跑 路 归 路",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 234.0,
+      "end": 235.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 235.0,
+      "end": 236.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 236.0,
+      "end": 237.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 237.0,
+      "end": 238.0,
+      "audio_text": "看 一 看",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 238.0,
+      "end": 239.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 239.0,
+      "end": 240.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 240.0,
+      "end": 241.0,
+      "audio_text": "发 家 致 富 明 白 了",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 241.0,
+      "end": 242.0,
+      "audio_text": "从 潘 家 园 开 始",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 242.0,
+      "end": 243.0,
+      "audio_text": "从 潘 家 园 开 始",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 243.0,
+      "end": 244.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 244.0,
+      "end": 245.0,
+      "audio_text": "精 美 手 串 儿",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 245.0,
+      "end": 246.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 246.0,
+      "end": 247.0,
+      "audio_text": "老 古 董 看 看",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 247.0,
+      "end": 248.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 248.0,
+      "end": 249.0,
+      "audio_text": "这 瓷 器",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 249.0,
+      "end": 250.0,
+      "audio_text": "在 森 里 呢",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 250.0,
+      "end": 251.0,
+      "audio_text": "在 森 里 呢",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 251.0,
+      "end": 252.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 252.0,
+      "end": 253.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 253.0,
+      "end": 254.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 254.0,
+      "end": 255.0,
+      "audio_text": "好 好 好",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 255.0,
+      "end": 256.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 256.0,
+      "end": 257.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 257.0,
+      "end": 258.0,
+      "audio_text": "啊 哦",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 258.0,
+      "end": 259.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 259.0,
+      "end": 260.0,
+      "audio_text": "这 小 伙 子 这 儿 都 是 些 真 货 呀",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 260.0,
+      "end": 261.0,
+      "audio_text": "这 小 伙 子 这 儿 都 是 些 真 货 呀",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 261.0,
+      "end": 262.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 262.0,
+      "end": 263.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 263.0,
+      "end": 264.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 264.0,
+      "end": 265.0,
+      "audio_text": "这 些 东 西 我 全 要 了 一 枪 走",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 265.0,
+      "end": 266.0,
+      "audio_text": "四 千 块 钱 怎 么 样",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 266.0,
+      "end": 267.0,
+      "audio_text": "四 千 块 钱 怎 么 样",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 267.0,
+      "end": 268.0,
+      "audio_text": "走 走 走 走 走",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 268.0,
+      "end": 269.0,
+      "audio_text": "走 走 走 走 走",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.12,
+      "highlight_reasons": []
+    },
+    {
+      "start": 269.0,
+      "end": 270.0,
+      "audio_text": "我 给 您 包 起 来",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 270.0,
+      "end": 271.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 271.0,
+      "end": 272.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 272.0,
+      "end": 273.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 273.0,
+      "end": 274.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 274.0,
+      "end": 275.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 275.0,
+      "end": 276.0,
+      "audio_text": "哎",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 276.0,
+      "end": 277.0,
+      "audio_text": "小 伙 子",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 277.0,
+      "end": 278.0,
+      "audio_text": "只 是 四 千 块 钱",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 278.0,
+      "end": 279.0,
+      "audio_text": "那 好",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 279.0,
+      "end": 280.0,
+      "audio_text": "谢 谢 老 板 谢 谢 老 板",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 280.0,
+      "end": 281.0,
+      "audio_text": "谢 谢 老 板 谢 谢 老 板",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 281.0,
+      "end": 282.0,
+      "audio_text": "谢 老 板",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 282.0,
+      "end": 283.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 283.0,
+      "end": 284.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 284.0,
+      "end": 285.0,
+      "audio_text": "北 京 的 老 板",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 285.0,
+      "end": 286.0,
+      "audio_text": "就 是 好 嗯",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 286.0,
+      "end": 287.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 287.0,
+      "end": 288.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 288.0,
+      "end": 289.0,
+      "audio_text": "奶 奶 的 救 命 钱 有 了",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 289.0,
+      "end": 290.0,
+      "audio_text": "奶 奶 的 救 命 钱 有 了",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 290.0,
+      "end": 291.0,
+      "audio_text": "得 放 好 啊 他 奶 奶 的 谁 让 你 啊 在 潘 家 园 摆 摊 赚 钱 的 乖 吃 潘 家 园",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 291.0,
+      "end": 292.0,
+      "audio_text": "得 放 好 啊 他 奶 奶 的 谁 让 你 啊 在 潘 家 园 摆 摊 赚 钱 的 乖 吃 潘 家 园",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 292.0,
+      "end": 293.0,
+      "audio_text": "得 放 好 啊 他 奶 奶 的 谁 让 你 啊 在 潘 家 园 摆 摊 赚 钱 的 乖 吃 潘 家 园",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 293.0,
+      "end": 294.0,
+      "audio_text": "得 放 好 啊 他 奶 奶 的 谁 让 你 啊 在 潘 家 园 摆 摊 赚 钱 的 乖 吃 潘 家 园",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 294.0,
+      "end": 295.0,
+      "audio_text": "得 放 好 啊 他 奶 奶 的 谁 让 你 啊 在 潘 家 园 摆 摊 赚 钱 的 乖 吃 潘 家 园",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 295.0,
+      "end": 296.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 296.0,
+      "end": 297.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 297.0,
+      "end": 298.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    }
+  ],
+  "highlights": [
+    {
+      "start": 17.0,
+      "end": 24.0,
+      "peak_score": 0.522,
+      "reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ],
+      "reason_text": "用词激烈(0.80), 剧情反转(0.80)"
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "peak_score": 0.2,
+      "reasons": [
+        "表情感染(0.80)"
+      ],
+      "reason_text": "表情感染(0.80)"
+    },
+    {
+      "start": 77.0,
+      "end": 94.0,
+      "peak_score": 0.64,
+      "reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ],
+      "reason_text": "用词激烈(1.00), 剧情反转(1.00)"
+    },
+    {
+      "start": 106.0,
+      "end": 129.0,
+      "peak_score": 0.522,
+      "reasons": [
+        "用词激烈(0.70)",
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ],
+      "reason_text": "用词激烈(0.70), 用词激烈(0.80), 剧情反转(0.80)"
+    },
+    {
+      "start": 147.0,
+      "end": 210.0,
+      "peak_score": 0.55,
+      "reasons": [
+        "剧情反转(0.50)",
+        "用词激烈(1.00)",
+        "剧情反转(1.00)",
+        "用词激烈(0.90)"
+      ],
+      "reason_text": "剧情反转(0.50), 用词激烈(1.00), 剧情反转(1.00), 用词激烈(0.90)"
+    }
+  ],
+  "stats": {
+    "total_segments": 298,
+    "highlights_count": 5,
+    "avg_highlight_score": 0.1184,
+    "peak_highlight": 0.64
+  }
+}

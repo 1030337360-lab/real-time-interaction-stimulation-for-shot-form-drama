@@ -1,0 +1,212 @@
+[
+  {
+    "scene_description": "Indoor scene of a Chinese domestic vertical web short drama, a domineering man stands in the foreground, with a blurred out-of-focus figure in the background",
+    "characters": [
+      {
+        "name": "unknown (coercive villain role)",
+        "action": "Looking down at the direction below the frame, holding a black stick-shaped object in his right hand, speaking to force others to eat",
+        "expression": "Eyes closed, showing arrogant and overbearing look while speaking"
+      },
+      {
+        "name": "unknown (background onlooker)",
+        "action": "Standing behind the leading man",
+        "expression": "Facial features are fully blurred, no clear expression can be identified"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The villain wearing leather jacket, thick gold chain and printed shirt issues a coercive order, forcing the target person to eat all the specified items, launching a coercive conflict plot",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Close-up indoor shot extracted from a Chinese vertical short drama clip",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Facing the direction of the camera, reacting to something in front of them",
+        "expression": "Laughing heartily with mouth wide open, eyes squinted, showing obvious strong amused and delighted feeling"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Indoor residential setting, foreground is blurred showing the back of the person the young man is confronting, the frame focuses on the indignant young man",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Standing in front of the other party, speaking out his dissatisfaction",
+        "expression": "Furious and indignant, eyes wide open, mouth open while speaking angrily"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The young man angrily accuses the opposite party of being overly bullying, the direct conflict between the two sides breaks out at this moment",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Warm indoor residential environment, background is blurred with wooden door frame and interior wall, the shot focuses on the young man at the center of the frame",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Stands facing the camera, freezes after seeing something unexpected ahead",
+        "expression": "Stunned and shocked, eyes wide open, mouth slightly parted, showing a completely caught-off-guard dazed look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man has just encountered a sudden unexpected situation, and shows a strong surprised reaction to the incident",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Indoor domestic setting, a man in a decorated black leather jacket and printed scarf is in a confrontational state",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Grips a black long stick tightly, pointing it towards the direction outside the frame",
+        "expression": "Furrowed brows, half-opened mouth, showing a fierce aggressive and intimidating expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "This is an intimidation confrontation segment of a short drama, the bottom text reminds the audience that the plot is purely fictional and to establish correct values",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "A frame captured from a domestic vertical short drama, set in a warm-toned indoor space, showing an injured man in severe pain next to a standing accompanying person",
+    "characters": [
+      {
+        "name": "Unknown injured young man",
+        "action": "Hunched over, presses his head hard with one hand, tightly grabs the wrist of the standing person with his other hand",
+        "expression": "Eyes squeezed shut, teeth gritted, face twisted in great pain, fake blood trickles down from his face"
+      },
+      {
+        "name": "Unknown standing person",
+        "action": "Stands beside the injured man, rests his hand on the injured man's wrist to attend to him",
+        "expression": "Most of the body is out of the frame, no clear complete facial expression is visible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man suffers a head injury, shows obvious severe headache reaction, the accompanying person stays beside him to check his condition after the injury",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Indoor soft lit space, shot focuses on a teenage girl wearing casual school sports uniform",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "raises her hand to stare at the tiny red fragment on her fingertip, her other fingers are smudged with red substance",
+        "expression": "frowning, eyes lowered/closed, showing a distressed and pained look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The girl notices the small red fragment (likely a knocked out broken tooth) on her stained fingers, reacting to a recent injury that just occurred",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Bright indoor residential space, this is a screenshot of a domestic vertical short drama",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "leans slightly forward, opening mouth to respond to other people in the plot",
+        "expression": "frowns tightly, eyes are red with welling tears, looks aggrieved and indignant, holding back surging sad emotions"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The girl in high school sports uniform makes a difficult compromise under intense negative emotion, says the line \"hao (okay)\" to reluctantly accept the harsh request she cannot refuse",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Warm retro domestic dining room setting, indoor residential scene",
+    "characters": [
+      {
+        "name": "unknown female student",
+        "action": "Bends over the dining table, holds red saucy food with her hands and shovels it into her mouth to eat hurriedly",
+        "expression": "Furrows brows, looks focused and eager, devouring the food quickly"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A young girl in vintage high school uniform eats hot saucy food directly using her hands at the table, showing a very ravenous, hurried state",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Close-up shot in a blurred warm indoor space with wooden interior decorations, focusing on an injured young man",
+    "characters": [
+      {
+        "name": "Unknown injured young man",
+        "action": "Sits still, another person's hand rests gently on the top of his head, with a long fresh bleeding scratch running down his left cheek",
+        "expression": "Reddish teary eyes, tensed jaw, mixed emotion of aggrievement and unyielding stubbornness"
+      },
+      {
+        "name": "Unknown comforter",
+        "action": "Gently holds and pats the young man's head to soothe him",
+        "expression": "Not visible, only the arm and hand are presented in the frame"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A young man who suffered facial injury is being comforted, showing his suppressed strong emotion after encountering unfair treatment or harm",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Retro style indoor residential scene, a young man is restrained and leans over a table placed with red stained paper",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Being held down at the shoulders and neck by the person behind, bending forward facing the tabletop",
+        "expression": "Head drooping, looks strained and unwilling, staring at the red stained paper on the table"
+      },
+      {
+        "name": "Unknown person behind",
+        "action": "Restraining the young man by pressing both hands firmly on his shoulder and neck",
+        "expression": "Face is not fully visible within the frame"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man is being coerced to sign or press his fingerprint on the blood-like red stained paper against his own will",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Indoor interior setting, a young man is being restrained by two other people who grab his arms to force him to bend over, presenting a tense confrontation scenario",
+    "characters": [
+      {
+        "name": "unknown detained young man",
+        "action": "held by two people on both arms, forced to bend forward with his head lowered",
+        "expression": "strained, showing obvious painful and resisting look"
+      },
+      {
+        "name": "unknown man 1",
+        "action": "gripping the detained man's left arm to control his movement",
+        "expression": "partially out of frame, facial expression not visible"
+      },
+      {
+        "name": "unknown man 2",
+        "action": "gripping the detained man's right arm to control his movement",
+        "expression": "partially out of frame, facial expression not visible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The restrained young man is roughly forced to submit or be escorted away by two other men in a violent conflict scene",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第74集.mp4\\第74集\\scene_012.jpg",
+    "frame_index": 11
+  }
+]

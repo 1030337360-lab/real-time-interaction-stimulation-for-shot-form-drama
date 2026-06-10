@@ -1,0 +1,517 @@
+[
+  {
+    "scene_description": "民国复古风格的传统中式建筑前的户外场景，一名持烟斗的灰发长须老者转头面向身前多名背对镜头的黑衣男子",
+    "characters": [
+      {
+        "name": "未知年长老者",
+        "action": "手托雕花烟斗，转头紧盯身前背对的男子",
+        "expression": "眉头紧锁，眼神锐利严肃，神情严厉愠怒"
+      },
+      {
+        "name": "多名黑衣男子",
+        "action": "背对镜头面向老者站立",
+        "expression": "面部完全被遮挡，无法观测面部表情"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "老者当场揭穿对方售卖的全是假货，正直面对方发难，是揭露核心矛盾的关键剧情节点",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Outdoor courtyard scene with traditional Chinese cultural decor, belonging to a short drama about antique trading",
+    "characters": [
+      {
+        "name": "Unknown bald man",
+        "action": "Holding and tilting a blue-and-white porcelain jar to closely inspect the ceramic artifact",
+        "expression": "Concentrated, eyes lowered, fully focused on checking the details of the porcelain"
+      },
+      {
+        "name": "Unidentified person",
+        "action": "Standing beside the bald man, most of their figure is out of the frame at the right edge",
+        "expression": "Not visible in this screenshot"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The bald character, likely an antique appraiser or merchant, is carefully examining the blue and white porcelain ware to assess its authenticity, age and value for the antique transaction plot",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Retro period winter outdoor scene from a Chinese drama, featuring a young man in thick vintage warm clothing with another person's arm holding a thermos extended towards him",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Stands still, looking down at the thermos being offered to him",
+        "expression": "Downcast, somber, dejected with lowered eyes, showing a sad heavy mood"
+      },
+      {
+        "name": "Unknown person",
+        "action": "Extends their arm to hold out a thermos towards the young man",
+        "expression": "Face is fully out of frame, no observable facial expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "An upset young man is offered a drink from the thermos by another person at this emotional pivotal plot beat",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Blurred outdoor winter setting from a vertical Chinese web micro-drama, the scene is shot in bright daylight",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "turns his head to the left, speaking with his mouth open",
+        "expression": "wide-eyed, emphatic surprised expression with open agape mouth"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The character delivers an exposition line, saying the content he references is recorded in ancient texts, as shown by the on-screen subtitle",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Outdoor Republican-style street scene in front of vintage traditional Chinese buildings, it is a frame clipped from a domestic short drama, with blurred onlookers in the background",
+    "characters": [
+      {
+        "name": "Unknown Elderly Senior",
+        "action": "stands with arms crossed, grips a tobacco pipe in one hand, faces forward",
+        "expression": "astonished and impressed, mouth slightly open, staring intently ahead"
+      },
+      {
+        "name": "Unidentified Bystanders",
+        "action": "stand behind the elderly man, looking towards the same direction off-screen",
+        "expression": "curious and focused"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The senior observes the unseen young protagonist demonstrating outstanding capability, and expresses his amazement that the young man is extraordinarily intelligent",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Traditional old narrow alley beside a brick-walled antique shop, scattered antique scrolls and storage boxes are placed on the stone paved ground",
+    "characters": [
+      {
+        "name": "Unknown bald man",
+        "action": "Standing in the alley, pointing his finger directly at the young man seated on the ground",
+        "expression": "Furious, mouth wide open while shouting aggressively"
+      },
+      {
+        "name": "Unknown young man",
+        "action": "Slumped against the right side brick wall, sitting on the ground facing the bald man",
+        "expression": "Frightened, in a vulnerable passive state"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The angry bald man is issuing a violent death threat to the cornered young man, the two are in a sharp tense confrontation conflict.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Republic of China era old street scene from a fictional short drama, blurred passersby are visible in the background",
+    "characters": [
+      {
+        "name": "unknown elderly man",
+        "action": "holds a vintage smoking pipe in his right hand, leans forward towards the person opposite, extends a finger to gesture at them",
+        "expression": "stern, furrowed brows, intense focused gaze, looks angry and serious"
+      },
+      {
+        "name": "unknown person",
+        "action": "faces the elderly man, only partial head is visible in the foreground right",
+        "expression": "not visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The dignified elderly man with vintage pince-nez glasses is seriously confronting, rebuking or interrogating the person in front of him publicly on the street",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Outdoor courtyard of a traditional Chinese antique shop, scattered broken porcelain shards lay on the paved ground, various antique wares are displayed in the foreground.",
+    "characters": [
+      {
+        "name": "Unknown elderly man",
+        "action": "Stands face to face with the bald man, one fist clenched at his side",
+        "expression": "Furious and angry during the confrontation"
+      },
+      {
+        "name": "Unknown bald man",
+        "action": "Leans very close to the elderly man, holds a pipe in hand, takes an aggressive posture towards the elder",
+        "expression": "Menacing and confrontational"
+      },
+      {
+        "name": "Unknown young woman",
+        "action": "Stands still with her back facing the camera, watching the two men confront each other",
+        "expression": "Facial expression is not visible from this shooting angle"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "A fierce conflict has broken out at the antique stall, the broken porcelain on the ground implies prior scuffle over disputed antique items, the young woman is witnessing the tense confrontation between the two men.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "A vertical screenshot of retro period short drama, set in outdoor winter environment with old grey brick wall as background",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "Standing in front of the brick wall, gazing at the person opposite him, slung with a grey cloth bag, dressed in thick winter cotton coat and knitted scarf",
+        "expression": "Serious, tense and slightly stunned, with sharp, incredulous eyes"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The on-screen subtitle reveals all the target vacancies the man wants have already been pre-occupied, the metaphor of 'radish pits' means all spots are taken, leading to his intense shocked reaction",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Close-up shot of a dignified elderly man with Republican-era styling, set against a blurred vintage street backdrop, with an out-of-focus partial figure in the foreground facing him",
+    "characters": [
+      {
+        "name": "Unknown elderly man",
+        "action": "Holds and smokes a carved wooden pipe, with curling smoke around his face, facing the person in front of him",
+        "expression": "Furrowed brows, head slightly lowered, showing a solemn, pensive and serious demeanor"
+      },
+      {
+        "name": "Unknown blurred figure",
+        "action": "Stands opposite the elderly man, back to the camera, out of focus in the foreground",
+        "expression": "Not visible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The pensive elderly man appears to be preparing to respond or deliver an important serious statement to the person he is facing in this period drama plot beat.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Retro winter style close-up of a young man, with blurred old brick wall background, this is a vertical short drama shot",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Holding cash in hands, gazing to the side off camera",
+        "expression": "Stunned, confused with a slight shocked expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The on-screen line tells the young man that the old elder refuses to accept the other party's money, he shows a corresponding stunned reaction, which advances the plot",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Close-up portrait of an elderly man in retro Republican-era style, set outdoors in front of a traditional Chinese architecture",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "holds a carved wooden pipe to his mouth, arms crossed over his chest, wears vintage round glasses with a retaining cord",
+        "expression": "frowns slightly, looks solemn and serious, gazing towards the left of the frame"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "No explicit key plot event is shown in this still, it only presents the solemn status of the elderly male character",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_012.jpg",
+    "frame_index": 11
+  },
+  {
+    "scene_description": "A vertical screenshot of retro Republican-era styled short drama, centering on a dignified elderly man, a partial hand holding eyeglasses appears in the foreground facing the man",
+    "characters": [
+      {
+        "name": "unknown (addressed as 'Ba Tou/Head')",
+        "action": "holding a wooden smoking pipe close to his mouth",
+        "expression": "stern and serious, slightly furrowed brows, gazing intently forward"
+      },
+      {
+        "name": "unknown partial character",
+        "action": "holding a pair of glasses out towards the central elderly man, only the hand is captured in frame",
+        "expression": "no complete facial expression is visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The on-screen dialogue refers to the person the 'Head' character intended to recruit into the group, laying plot groundwork for subsequent story, the bottom text marks the whole story is fictional and reminds audience to establish correct values",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_013.jpg",
+    "frame_index": 12
+  },
+  {
+    "scene_description": "Close-up portrait of a dignified elderly man in retro Republican-era style clothing, against a blurred out-of-focus indoor background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "holding a wooden tobacco pipe close to his mouth, wearing vintage round gold-rimmed glasses with hanging chains",
+        "expression": "stern, frowning slightly with a grave, determined, thoughtful look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The elderly character delivers a serious plot line that reads '假以时日 (Given enough time)', making a weighty, resolute declaration about subsequent plot developments, with the standard fictional drama disclaimer printed at the bottom of the frame",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_014.jpg",
+    "frame_index": 13
+  },
+  {
+    "scene_description": "Retro old street outdoor still frame from a domestic short drama, two characters stand side by side gazing at content outside the frame",
+    "characters": [
+      {
+        "name": "Unknown elderly man",
+        "action": "Wears long dark wool overcoat and hanging-chain round glasses, holds a lit smoking pipe, crosses his other arm over his chest",
+        "expression": "Frowning, stern and serious, staring intently ahead off-screen"
+      },
+      {
+        "name": "Unknown young woman",
+        "action": "Wears orange cropped jacket and jeans, holds a pair of sunglasses in her right hand, rests her left hand near her jeans pocket",
+        "expression": "Wide-eyed, looking surprised towards the off-screen direction"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_015.jpg",
+    "frame_index": 14
+  },
+  {
+    "scene_description": "Close-up portrait of a retro-styled elderly man, against a softly blurred vintage dark background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "holding a wooden smoking pipe in his hand, staying static for the character showcase shot",
+        "expression": "stern and solemn, with slightly furrowed brows, looking straight ahead with a serious focused gaze"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "This is a character establishing still frame, the bottom on-screen text states that the drama plot is purely fictional and reminds viewers to establish correct values",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_016.jpg",
+    "frame_index": 15
+  },
+  {
+    "scene_description": "Outdoor street antique stall market, with scattered antique items placed on the ground, pedestrians stand in the out-of-focus background, and partial figures of a customer appear in the blurred foreground",
+    "characters": [
+      {
+        "name": "unknown middle-aged stall vendor",
+        "action": "squatting on the ground, holding a blue and white porcelain vase to show it to the customer",
+        "expression": "sly, gazing intently at the prospective customer in front of him"
+      },
+      {
+        "name": "unknown prospective customer",
+        "action": "holding cash and a mobile phone, preparing to trade for the porcelain ware",
+        "expression": "not visible outside the focus range"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The antique street stall owner is exhibiting his porcelain item to the customer who intends to make a payment, for the subsequent transaction or antique scam related plot",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_017.jpg",
+    "frame_index": 16
+  },
+  {
+    "scene_description": "Daytime sunlit old alley paved with stone tiles in a traditional residential block",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "Just tumbled down onto the ground, propping one palm against the pavement to support his body and steady himself",
+        "expression": "His head is bowed down, facial expression is not clearly visible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man trips and falls on the street, this incident acts as a plot trigger for follow-up story developments",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_018.jpg",
+    "frame_index": 17
+  },
+  {
+    "scene_description": "The scene is set in a traditional old Chinese antique commercial alley, with many period-dressed residents and onlookers gathered in the daytime",
+    "characters": [
+      {
+        "name": "Unknown leading man",
+        "action": "Stands with his back fully to the camera, facing the crowd in a thick tattered long cotton coat",
+        "expression": "No visible facial expression from this perspective"
+      },
+      {
+        "name": "Unknown bald local man",
+        "action": "Stands right in front of the crowd, facing the back-facing man",
+        "expression": "Smiling with a confident, arrogant look"
+      },
+      {
+        "name": "Group of resident onlookers",
+        "action": "Line up on the side of the alley, watching the two men in the center of the street",
+        "expression": "Most show curious, focused attention on the ongoing face-off"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "A public confrontation between the newcomer and the local dominant street figure unfolds openly in front of all gathered townsfolk",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_019.jpg",
+    "frame_index": 18
+  },
+  {
+    "scene_description": "Retro winter outdoor setting, blurred old-style building in the background, cold atmosphere",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing, looking towards the left side of the frame",
+        "expression": "Tense and heavy look, sharp eyes with shocked and agitated emotion, lips slightly parted"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man has just witnessed an unexpected incident that greatly impacts him, and is currently in a moment of intense emotional shock and fluctuation",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Retro winter outdoor setting, blurred old-style building in the background, cold atmosphere",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing, looking towards the left side of the frame",
+        "expression": "Tense and heavy look, sharp eyes with shocked and agitated emotion, lips slightly parted"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man has just witnessed an unexpected incident that greatly impacts him, and is currently in a moment of intense emotional shock and fluctuation",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "A historic tiled rooftop at warm golden sunset, with blurred ancient imperial palace architecture and autumn foliage in the hazy background",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Stepping on the rooftop stone parapet steps, gazing towards the distance on his right side",
+        "expression": "Pensive, somber, with a slightly stunned worried look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man stands lost in thought on the rooftop, processing heavy related plot emotions and events",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_022.jpg",
+    "frame_index": 21
+  },
+  {
+    "scene_description": "Warm sunset illuminates the rooftop of an old city, with blurry traditional Chinese ancient buildings in the distant background",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Standing on the rooftop, gazing at the side area outside the frame",
+        "expression": "Dazed, emotionally affected, with a slightly grieved shocked look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man is hit by certain bad news, stays on the rooftop in emotional daze",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_023.jpg",
+    "frame_index": 22
+  },
+  {
+    "scene_description": "Low-angle outdoor shot under pale clear cool sky, autumn orange-leaved trees in the far background",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Standing over the older person while his arm is being held",
+        "expression": "Stern, cold, gazing seriously downward at the other person"
+      },
+      {
+        "name": "Unknown elderly gray-haired person",
+        "action": "Facing away from the camera, holding black leather gloves and clutching the young man's arm, with a green jade ring on his hand",
+        "expression": "Face is not visible from this rear perspective"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly person shows full deference or makes a desperate plea to the powerful young man, offering the leather gloves as a gesture of submission",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_024.jpg",
+    "frame_index": 23
+  },
+  {
+    "scene_description": "Outdoor rooftop scene on a cool hazy day, with blurred traditional Chinese palace-style buildings, autumnal trees and distant misty mountains as the retro period backdrop",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing facing the person he is talking to, one hand tucked in his coat pocket",
+        "expression": "Slightly wide-eyed, mouth half open, looks serious and intently focused on the person opposite"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The young man tells the person in front of him that he has been observing them for a long time, advancing the plot interaction between the two characters",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_025.jpg",
+    "frame_index": 24
+  },
+  {
+    "scene_description": "Outdoor golden hour scene, with a blurred traditional Chinese ancient architecture in the background, close-up shot of a young man in vintage winter outfit",
+    "characters": [
+      {
+        "name": "Unknown young male lead",
+        "action": "Stands still, gazing towards the right side off the camera",
+        "expression": "Somber, distracted, with a heavy melancholic look on his face"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The male character is preoccupied with the matter related to the 4000 yuan mentioned in the on-screen text, advancing this core plot point of the story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_026.jpg",
+    "frame_index": 25
+  },
+  {
+    "scene_description": "Daytime outdoor close-up shot, the background is a traditional Chinese ancient architecture with red pillars and white stone railings",
+    "characters": [
+      {
+        "name": "Unknown elderly man",
+        "action": "Raises his right index finger pointing at the camera, speaking directly to the audience",
+        "expression": "Stern and serious, furrowed thick brows, staring intently at the camera"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man claims he can help the audience earn 20000, this is a classic opening hook of a vertical web short drama to attract viewers, the bottom of the frame also displays a disclaimer that the plot is purely fictional and reminds viewers to establish correct values",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_027.jpg",
+    "frame_index": 26
+  },
+  {
+    "scene_description": "Outdoor real scene next to traditional Chinese ancient buildings, with retro Republic of China style atmosphere",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Closing eyes, raising the right hand and extending the index finger to touch the hanging chain of the round vintage glasses",
+        "expression": "Furrowing brows, eyes tightly shut, showing a heavy, grief-stricken intense emotional state"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly man dressed as a modern intellectual presents a high-tension emotional performance, it is the core emotional expression clip of the vertical short drama",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_028.jpg",
+    "frame_index": 27
+  },
+  {
+    "scene_description": "Outdoor autumn setting with hazy distant mountains, warm soft daylight and reddish autumn foliage in the blurred background",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "standing still, facing the pointing hand stretched out from the foreground",
+        "expression": "shocked and dazed, eyes reddened, showing obvious disbelief"
+      },
+      {
+        "name": "unseen character",
+        "action": "extending a hand, pointing one index finger at the young man",
+        "expression": "face is not visible within this frame"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The unseen person points at the young man, who is hit by extremely unexpected unacceptable information and utters a stunned 'ah' reaction sound.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第64集.mp4\\第64集\\scene_029.jpg",
+    "frame_index": 28
+  }
+]

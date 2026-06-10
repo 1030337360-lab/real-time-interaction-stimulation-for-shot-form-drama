@@ -1,0 +1,637 @@
+[
+  {
+    "scene_description": "Close-up shot of a middle-aged ancient Chinese imperial character, seated in front of an intricately carved dark wooden throne backdrop",
+    "characters": [
+      {
+        "name": "Unknown (Imperial Ruler)",
+        "action": "Sits upright facing the camera, dressed in plain white cross-collar traditional Hanfu and an ornate golden topknot crown",
+        "expression": "Somber, frowning, with a grave heavy look, mouth slightly open as if speaking"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The royal ruler is delivering an important edict or reacting to a critical major court affair",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Interior of an ancient Chinese imperial palace hall, with carved wooden lattice screens and traditional court furnishings, the emperor is seated behind the imperial desk under the dragon carved screen, multiple court personnel stand before the throne",
+    "characters": [
+      {
+        "name": "Emperor",
+        "action": "Sits behind the brocade-covered imperial desk, facing the people standing in front of him",
+        "expression": "Solemn, serious"
+      },
+      {
+        "name": "Noble Imperial Lady (white robe)",
+        "action": "Stands with back to the camera, facing the emperor to receive audience",
+        "expression": "Not visible from current viewing angle"
+      },
+      {
+        "name": "Palace Maid (left)",
+        "action": "Stands deferentially at the side of the hall, hands folded in front of abdomen waiting for orders",
+        "expression": "Calm, respectful"
+      },
+      {
+        "name": "Palace Maid (right rear)",
+        "action": "Stands respectfully next to the throne area",
+        "expression": "Attentive and deferential"
+      },
+      {
+        "name": "Palace Attendant (male outfit)",
+        "action": "Leans slightly to communicate with the adjacent maid",
+        "expression": "Focused on the ongoing interaction"
+      },
+      {
+        "name": "Palace Maid (foreground right)",
+        "action": "Stands with back to the camera, accompanying the noble lady to face the emperor",
+        "expression": "Not visible from current viewing angle"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The emperor holds a formal audience with the imperial noble lady in the private palace chamber, to conduct important plot-related conversations, with all attendants standing by on duty.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Ancient Chinese imperial palace interior, decorated with carved wooden furnishings, lattice window screens and lit candles, a man sits at a table stacked with ancient books and scrolls",
+    "characters": [
+      {
+        "name": "Unknown Ancient Imperial Noble",
+        "action": "Leans slightly forward, looking down at the stacked books and documents on the table",
+        "expression": "Wears a gentle faint smile, appears relaxed and pleased"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Ornate inner chamber of an ancient Chinese royal palace, historical costume drama setting with intricately carved traditional wooden furnishings",
+    "characters": [
+      {
+        "name": "Unknown (royal male, likely emperor)",
+        "action": "Standing facing the two women, seemingly speaking to them",
+        "expression": "Relaxed, with a faint gentle smile"
+      },
+      {
+        "name": "Unknown (noble female, likely imperial consort)",
+        "action": "Standing with back to the camera, facing the man and listening",
+        "expression": "Not visible (face turned away)"
+      },
+      {
+        "name": "Unknown (palace maid)",
+        "action": "Standing behind the noble woman, attending her and facing the man",
+        "expression": "Not visible (face turned away)"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The imperial sovereign converses with the high-ranking imperial lady in the private inner palace room, with her personal maid in attendance",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Ancient-style indoor palace scene, blurred ornate carved decorative background",
+    "characters": [
+      {
+        "name": "unknown (ancient imperial figure)",
+        "action": "Standing, turning head to the right of the frame, mouth open as if speaking to an off-screen person",
+        "expression": "Calm and relaxed, with a faint mild smile"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The costumed ancient monarch character is communicating with people outside the current frame",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "A still frame from a Chinese historical costume short drama, set inside a traditional ancient palace hall",
+    "characters": [
+      {
+        "name": "Unknown Princess",
+        "action": "Standing facing the crowd in front of her, being addressed by surrounding people",
+        "expression": "Stunned and flustered, eyes wide looking downward, mouth slightly open showing a surprised shocked look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The princess is formally addressed as 'Princess Your Highness' by others, showing an unexpected surprised reaction after hearing the address",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Indoor ancient Chinese palace/mansion interior scene from a vertical costume short drama, with soft ambient light and traditional silk curtain background",
+    "characters": [
+      {
+        "name": "Unknown noble lady/imperial concubine",
+        "action": "Standing upright with both hands folded over her lower abdomen, gazing at the off-screen target in front of her right side",
+        "expression": "Serious, slightly displeased, with a pensive and heavy look"
+      },
+      {
+        "name": "Unknown maid",
+        "action": "Standing behind the leading lady as a accompanying attendant",
+        "expression": "Neutral, blurred in the out-of-focus background"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The leading lady in elegant off-white patterned hanfu is having a tense serious conversation with the off-screen character, pushing the plot forward",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Ancient costume indoor hall scenario, two people interact facing each other",
+    "characters": [
+      {
+        "name": "Unknown man in black ancient robes",
+        "action": "Puts one hand on his chest, leans slightly forward towards the opposite person",
+        "expression": "Extremely excited and delighted, wide-eyed with a bright joyful smile"
+      },
+      {
+        "name": "Unknown man in white robes",
+        "action": "Stands with back to the camera, facing the man in black",
+        "expression": "Not visible from this viewing angle"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The black-clad man is reacting to newly delivered information, showing intense excitement as he talks to the white-clad person, seemingly having received long-awaited good news.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Indoor ancient Chinese imperial palace setting, with blurred elaborate carved wooden decorative structure in the background, framing the central character.",
+    "characters": [
+      {
+        "name": "unknown (imperial/royal figure)",
+        "action": "standing, appearing to speak to an off-screen counterpart",
+        "expression": "solemn, serious, with a focused gaze and slightly parted lips"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "A senior royal character wearing traditional white Hanfu and a golden dragon-pattern hair crown delivers a serious, important line of dialogue in the palace interior.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Interior ancient palace-style setting, vertical screenshot captured from a costume Chinese micro drama",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "faces the person in white, rests one hand on his own chest",
+        "expression": "extremely exaggerated astonished and overjoyed expression, eyes wide open, mouth agape"
+      },
+      {
+        "name": "unknown",
+        "action": "faces the man in black with his back fully towards the camera",
+        "expression": "not visible from this shooting angle"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man in black shows a highly dramatic excited and shocked reaction after receiving unexpected big news from the person in white opposite him",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Indoor ancient Chinese palace-style scene for a historical costume short drama, two men in traditional ancient noble costumes interact face to face",
+    "characters": [
+      {
+        "name": "Unknown (man in black ancient robe)",
+        "action": "leans slightly forward, places one hand on his own chest, faces the opposite man in white",
+        "expression": "extremely overjoyed and surprised, eyes wide open, grinning broadly with obvious excited delight"
+      },
+      {
+        "name": "Unknown (man in white ancient robe)",
+        "action": "stands with his back to the camera, facing the man in black",
+        "expression": "not visible from this perspective"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man in black shows an extreme ecstatic reaction after receiving unexpected great good news from the man in white",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Indoor ancient Chinese noble residence or palace scene, two men in traditional ancient costumes face each other",
+    "characters": [
+      {
+        "name": "Unknown (man in black ancient robe with golden hair crown)",
+        "action": "presses one hand on his own chest, faces the man opposite him",
+        "expression": "extremely shocked, eyes wide open, full of astonishment and disbelief"
+      },
+      {
+        "name": "Unknown (man in white ancient robe)",
+        "action": "stands back to the camera, facing the man in black",
+        "expression": "facial expression is not visible from this perspective"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man in black just received highly unexpected astonishing news from the opposite man, and is impacted strongly by the information he just learned",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_012.jpg",
+    "frame_index": 11
+  },
+  {
+    "scene_description": "Ancient Chinese carved wooden palace interior scene, two people in ancient style costumes are in the frame",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing in the foreground, mouth open as if speaking to someone outside the frame",
+        "expression": "Relaxed, with a slight proud smile on his face"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing behind the elderly man, looking in the same off-frame direction",
+        "expression": "Astonished, with a surprised look on his face"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The elderly man in white robe says a line that makes the younger man behind him feel shocked",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_013.jpg",
+    "frame_index": 12
+  },
+  {
+    "scene_description": "Interior of a traditional ancient Chinese palace hall for a historical costume drama, with carved lattice window decoration in the blurred background",
+    "characters": [
+      {
+        "name": "Unknown (senior royal figure)",
+        "action": "Standing in the foreground, wearing plain white cross-collar hanfu and an ornate golden topknot crown",
+        "expression": "Soft faint smile, mouth slightly open, looking towards his left side off-screen"
+      },
+      {
+        "name": "Unknown",
+        "action": "Standing behind the foreground man, partially out of focus in the background",
+        "expression": "Solemn and attentive, looking forward towards the off-screen target"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The senior royal character is mid-speech addressing an unseen person outside the frame",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_014.jpg",
+    "frame_index": 13
+  },
+  {
+    "scene_description": "Indoor ancient Chinese palace interior scene, with traditional lattice window decoration in the background, from a costume short drama",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Standing sideways facing left, wearing loose plain white ancient robe and exquisitely carved golden hair crown",
+        "expression": "Faint relaxed smile, looking towards the off-screen left side"
+      },
+      {
+        "name": "Unknown",
+        "action": "Standing behind the man in white, wearing black ancient robe and golden hair crown, one hand resting near his chest",
+        "expression": "Serious, staring intently in the same off-screen direction"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "Two high-status imperial figures are having a palace conversation, focusing on target outside the left edge of the frame",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_015.jpg",
+    "frame_index": 14
+  },
+  {
+    "scene_description": "Ancient Chinese imperial palace interior, decorated with traditional lattice windows, carved wooden ornaments and vintage patterned carpet, it is a clip of a costume short drama.",
+    "characters": [
+      {
+        "name": "Unknown elder royal man in white robe",
+        "action": "Standing in the palace foreground, turning his head to one side while speaking",
+        "expression": "Mouth open to narrate, solemn and earnest"
+      },
+      {
+        "name": "Unknown man in black ancient costume",
+        "action": "Standing behind the white-robed elder, one hand placed on his chest",
+        "expression": "Focused and slightly grave, looking at the speaking elder"
+      },
+      {
+        "name": "Partial unknown court attendants",
+        "action": "Standing on the side waiting for arrangement",
+        "expression": "Facial expressions are not clearly presented"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The speaking noble character is introducing the two sons of the founding general, the Marquis of Zhenbei, delivering important plot-related character background information.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_016.jpg",
+    "frame_index": 15
+  },
+  {
+    "scene_description": "High-angle overhead shot of a traditional ancient Chinese aristocrat's residential courtyard, showing a formal costume drama ceremonial scene",
+    "characters": [
+      {
+        "name": "Lead imperial envoy",
+        "action": "Advancing towards the hosts while holding an imperial scroll, preparing to deliver the edict",
+        "expression": "Solemn, formal and serious"
+      },
+      {
+        "name": "Accompanying civilian officials",
+        "action": "Following the lead envoy forward with ceremonial steps",
+        "expression": "Focused, deferential and stern"
+      },
+      {
+        "name": "Escort armored guards",
+        "action": "Marching behind the envoys to perform escort security duty",
+        "expression": "Alert, vigilant and stern"
+      },
+      {
+        "name": "Host noble couple",
+        "action": "Rising from their seats at the courtyard steps to greet the incoming envoys",
+        "expression": "Respectful, solemn and courteous"
+      },
+      {
+        "name": "Residence servant attendants",
+        "action": "Standing scattered around the courtyard waiting in attendance",
+        "expression": "Quiet, deferential and neutral"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The imperial envoy team escorted by guards arrives at the noble's private residence, the host couple is about to formally receive the imperial edict in the courtyard, with all household staff standing by respectfully.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_017.jpg",
+    "frame_index": 16
+  },
+  {
+    "scene_description": "High-angle overlook of a classical ancient Chinese aristocratic courtyard in daytime, with traditional wooden ancient buildings, green lawns and paved stone paths across the view.",
+    "characters": [
+      {
+        "name": "unknown male servant",
+        "action": "kneeling and bowing low towards the edict holder",
+        "expression": "reverent and submissive, face partially hidden"
+      },
+      {
+        "name": "unknown male servant",
+        "action": "prostrating on the stone ground to receive the imperial edict",
+        "expression": "respectful, face pressed to ground and not visible"
+      },
+      {
+        "name": "unknown female maid",
+        "action": "kneeling beside a gift box with head bowed",
+        "expression": "solemn and deferential"
+      },
+      {
+        "name": "unknown household member",
+        "action": "lying fully prostrate face down on the ground",
+        "expression": "no visible facial expression, face pressed to ground"
+      },
+      {
+        "name": "unknown household member",
+        "action": "prostrating low to show respect for the imperial edict",
+        "expression": "facial expression hidden, not visible"
+      },
+      {
+        "name": "unknown female family member",
+        "action": "lying face down performing the kowtow ritual for the edict",
+        "expression": "face hidden, no visible expression"
+      },
+      {
+        "name": "unknown male servant",
+        "action": "kneeling and bowing his head very low",
+        "expression": "submissive, face not visible"
+      },
+      {
+        "name": "unknown imperial guard",
+        "action": "standing by the steps to keep order and watch the crowd",
+        "expression": "stern and serious"
+      },
+      {
+        "name": "unknown imperial guard",
+        "action": "standing next to the eunuch on ground level to stand guard",
+        "expression": "grim and vigilant"
+      },
+      {
+        "name": "imperial eunuch",
+        "action": "standing on the stone steps holding the imperial edict to announce the emperor's order",
+        "expression": "formal, solemn and official"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The imperial eunuch is about to publicly read out the emperor's official edict, all residents of the mansion are kowtowing to respectfully receive the imperial decree.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_018.jpg",
+    "frame_index": 17
+  },
+  {
+    "scene_description": "Sunny outdoor stone courtyard of a traditional ancient Chinese wooden historical manor/palace complex",
+    "characters": [
+      {
+        "name": "unknown ancient Chinese official or noble",
+        "action": "Performing a full formal reverent kowtow, fully prostrated with palms flat on the stone pavement, head lowered completely toward the ground",
+        "expression": "Face is fully obscured facing downward, no visible facial expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The man shows extreme formal deference to an unseen off-screen high-ranking superior, most likely an imperial/royal authority, in a formal ceremonial setting",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_019.jpg",
+    "frame_index": 18
+  },
+  {
+    "scene_description": "A scene set in a traditional ancient Chinese noble mansion courtyard, showing the occasion of receiving an imperial decree",
+    "characters": [
+      {
+        "name": "Armored imperial guard",
+        "action": "Stands next to the stone steps, holding a long sword and facing the mansion residents",
+        "expression": "Face fully covered by helmet, no visible expression"
+      },
+      {
+        "name": "Eunuch envoy 1",
+        "action": "Stands on the steps with back to camera, holding a court whisk",
+        "expression": "Face is not visible from this shooting angle"
+      },
+      {
+        "name": "Eunuch envoy 2",
+        "action": "Stands beside the other eunuch, holding the yellow imperial edict",
+        "expression": "Face is not visible from this shooting angle"
+      },
+      {
+        "name": "Male master of the mansion",
+        "action": "Stands beside his wife, facing the envoys, slightly extends one hand",
+        "expression": "Looks respectful and slightly nervous"
+      },
+      {
+        "name": "Madam of the mansion",
+        "action": "Stands in front of her husband, facing the imperial envoys",
+        "expression": "Looks excited and expectant"
+      },
+      {
+        "name": "Mansion servants",
+        "action": "Kneel on the ground far behind the masters, bowing heads low",
+        "expression": "Heads are fully lowered, no visible expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "Imperial envoys arrive at the noble residence to deliver the imperial decree, all servants kowtow as a sign of respect while the master and madam prepare to formally receive the imperial order.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_020.jpg",
+    "frame_index": 19
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese courtyard scene, blurred traditional wooden buildings and green foliage in the background, taken as a side profile close-up",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing still and gazing towards the right side of the frame",
+        "expression": "Wearing a soft faint smile, looks calm and gentle"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Still frame from a vertical Chinese historical costume short drama, set in front of a traditional ancient Chinese wooden building with lattice patterned windows",
+    "characters": [
+      {
+        "name": "Unknown Eunuch",
+        "action": "Standing facing a partially visible character on the left, hands clasped in front of his abdomen, with a traditional eunuch's whisk tucked under his arm",
+        "expression": "Eyes fully closed, mouth wide open in a hearty, overjoyed laugh, appearing very pleased and obsequious"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The eunuch is happily interacting and speaking to the other person he is facing",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_022.jpg",
+    "frame_index": 21
+  },
+  {
+    "scene_description": "Bright outdoor ancient Chinese courtyard, with green foliage and traditional wooden architecture in the blurred background",
+    "characters": [
+      {
+        "name": "Unknown ancient noble man",
+        "action": "Staring directly at the shoe being held out towards him",
+        "expression": "Bewildered, shocked, mouth slightly open, fully caught off guard by the sight"
+      },
+      {
+        "name": "Unknown partial figure",
+        "action": "Holding a traditional black-and-white cloth shoe forward to present it to the noble man",
+        "expression": "Facial features not visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "An unexpected comedic interaction where a person presents a shoe to the surprised noble man, who is not prepared for this bizarre gesture",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_023.jpg",
+    "frame_index": 22
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese palace courtyard scene from a historical costume drama, two men in traditional Hanfu interact face to face",
+    "characters": [
+      {
+        "name": "Unknown white-robed noble man",
+        "action": "Stretching out his open palm to request the item held by the opposite man",
+        "expression": "Serious, firmly staring straight at the other man"
+      },
+      {
+        "name": "Unknown dark patterned-robed man",
+        "action": "Facing the white-robed man, holding a yellow object in hands, with his back to the camera",
+        "expression": "Facial expression is not visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The white-robed noble man is formally demanding the yellow token-like object from the man facing him, which is the core plot of this segment.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_024.jpg",
+    "frame_index": 23
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese costume drama scene, background is a blurred traditional courtyard with green foliage and classical ancient buildings",
+    "characters": [
+      {
+        "name": "Unknown ancient noble/royal male",
+        "action": "Stands with hands clasped in front of his waist, gazing towards the off-screen direction at his right",
+        "expression": "Slightly furrowed brows, half-open mouth, showing a confused, concerned or focused listening expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The character has just received unexpected information and is about to speak or respond to the off-screen character",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_025.jpg",
+    "frame_index": 24
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese courtyard with blurred greenery and building in the background, close-up shot of a man in ancient official attire",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "stands facing slightly to the right, gazing towards the lower right direction",
+        "expression": "brows furrowed tightly, appears shocked, anxious and overwhelmed, with visible sweat on his forehead"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man has just received unexpected devastating bad news, reacting with utter disbelief and deep distress at the situation he just learned",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_026.jpg",
+    "frame_index": 25
+  },
+  {
+    "scene_description": "Close-up shot in the outdoor courtyard of a traditional ancient Chinese wooden building",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "stands still, with one hand resting near his waist, gazing at something outside the frame",
+        "expression": "brows furrowed, facial expression is solemn, troubled and full of unease"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This elder ancient official character shows a distressed grim expression, implying he has just received unexpected bad news that makes him greatly upset",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_027.jpg",
+    "frame_index": 26
+  },
+  {
+    "scene_description": "Vertical screenshot from a historical Chinese costume drama, the scene is set in a courtyard in front of a traditional ancient Chinese wooden building with lattice panel doors",
+    "characters": [
+      {
+        "name": "unknown ancient aristocrat/official",
+        "action": "stands with his back mostly facing the camera, holds a yellow decorative scroll behind his back, looks towards the side of the courtyard",
+        "expression": "only a small part of his side face is visible, he appears calm and solemn"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The character is speaking to other off-screen people, stating that his second brother was born with a weak constitution",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_028.jpg",
+    "frame_index": 27
+  },
+  {
+    "scene_description": "Vertical close-up of a young man in light white ancient-style traditional clothing, against a blurred lush green outdoor background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "bows his head and gazes downwards with half-lidded eyes",
+        "expression": "soft, quiet and slightly melancholic expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_029.jpg",
+    "frame_index": 28
+  },
+  {
+    "scene_description": "An outdoor public scene of a Chinese ancient-style short drama, multiple people in ancient servant uniforms stand in the blurred background, the core figure wears elegant white embroidered wide-sleeve Hanfu",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Holds another person's hand, wipes the hand with a white silk handkerchief, and is speaking his lines",
+        "expression": "Dismissive and slightly annoyed, presenting a complaining look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The male character publicly complains that the related person or thing he refers to is boring and uninteresting, matching the displayed subtitle",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第7集.mp4\\第7集\\scene_030.jpg",
+    "frame_index": 29
+  }
+]

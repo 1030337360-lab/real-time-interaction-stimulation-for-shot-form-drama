@@ -1,0 +1,132 @@
+[
+  {
+    "scene_description": "Dim dark background illuminated with cool blue toned lighting, a man wearing flowing white ancient-style robes faces an unseen off-frame counterpart",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing, facing the direction of the opposite unseen person and appearing to speak to the other party",
+        "expression": "Mouth slightly open, eyes gazing forward, with a mild faint melancholy look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The costumed ancient style male character is communicating with the off-screen opposite character in the dark space",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Confrontational wuxia/xianxia scene set against a solid pitch-black background, centered on a mysterious robed figure, with a partial person's hand pointing at him from the upper right",
+    "characters": [
+      {
+        "name": "Unknown Masked Man",
+        "action": "Standing facing the person pointing at him, holding a Taoist whisk in his right hand and gripping the hilt of a sword at his waist with his left hand",
+        "expression": "Stern, cold and intimidating, with a faint imperious look"
+      },
+      {
+        "name": "Unknown Opposing Character",
+        "action": "Pointing directly at the masked man, only the hand and a small portion of white sleeve are visible",
+        "expression": "Not visible in frame"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The powerful masked character speaks a threatening line during a standoff, indicating disrespectful people who dare speak to him this way will face harsh repercussions",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Low-angle close-up shot of a tiny dark fragment resting on the edge of a car window, lit by dim cool blue tone, a black gloved hand holding a light tissue/paper appears in the upper part of the frame",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "holding a light-colored paper, seemingly inspecting the small fragment on the car window edge",
+        "expression": "no visible facial expression, the face is not captured in this frame"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A potential crime scene physical evidence fragment left on the car window is being checked by the gloved personnel",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Close-up shot of a figure wearing pale traditional Hanfu, with an open palm stretched above a small white porcelain wine cup on a smooth table, floating water droplets suspended between the hand and cup.",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Using supernatural water-manipulation power to control levitating water droplets to flow into the empty wine cup below their outstretched palm",
+        "expression": "not visible (face is completely out of frame and blurred)"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "An unknown character demonstrates their special supernatural ability to gather scattered water particles from the air to fill the small white porcelain cup under their hand",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Low-lit cool blue toned dark enclosed indoor scene, this is a vertical short drama screenshot with compliance reminder text printed on the left edge",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Dressed in black hooded cloak, leans forward, grips a sharp bladed weapon to launch an assault on the target in the foreground",
+        "expression": "Eyes wide staring forward, mouth slightly parted, showing a fierce and frantic aggressive expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A mysterious silver-masked hooded assailant is carrying out a sudden violent attack in a dim hidden space",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Dim cool blue-tinted dark indoor wuxia/xianxia short drama scene, a hooded all-black robed masked man confronts a partially visible opponent",
+    "characters": [
+      {
+        "name": "Unknown masked man",
+        "action": "Stares at the opposite party, neck muscles tensed, preparing for imminent confrontation",
+        "expression": "Sharp, fierce and alert, eyes locked on the opponent, pursed lips showing obvious tension"
+      },
+      {
+        "name": "Unidentified partial figure",
+        "action": "Raises an ornamented long staff towards the masked man from the left edge of the frame",
+        "expression": "Facial features are not visible outside the frame"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The two sides are in a tense standoff, this is a crucial confrontation turning point scene in the plot",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Dim misty dark night scene, lit by cool blue side backlighting with traditional Chinese ancient aesthetic",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Stands gracefully, raises one arm high to hold a traditional silk whisk (fuchen)",
+        "expression": "Eyes closed, serene and otherworldly ethereal expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This is the debut shot of the immortal-style character, holding the whisk in a ceremonial-like pose to show his extraordinary identity",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Dim dark night low-angle shot, cool blue lighting illuminates a person in flowing white ancient costume next to a dark casket-like object",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "holding a tasseled jade ornament, leaning over to look down at the dark casket in front of him",
+        "expression": "eyes half closed, with a faint bitter sorrowful look on his face"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The ancient-robed character grieves for the deceased inside the casket, holding a jade keepsake as he looks down at the coffin",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第6集.mp4\\第6集\\scene_008.jpg",
+    "frame_index": 7
+  }
+]

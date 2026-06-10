@@ -3,6 +3,14 @@
 支持多模型：通义千问 / 豆包 Doubao (火山方舟 Ark)
 """
 import os
+import sys
+from pathlib import Path
+
+# 从项目根目录加载 api_config (不进入版本控制)
+_project_root = Path(__file__).resolve().parent.parent.parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+import api_config
 
 
 class Config:
@@ -24,10 +32,10 @@ class Config:
 
     # ========== 豆包 Doubao (火山方舟 Ark) 配置 ==========
     # OpenAI兼容格式, 端点: https://ark.cn-beijing.volces.com/api/v3
-    DOUBAO_API_KEY = os.getenv("DOUBAO_API_KEY", "")
+    DOUBAO_API_KEY = api_config.DOUBAO_API_KEY
     DOUBAO_BASE_URL = "https://ark.cn-beijing.volces.com/api/v3"
-    DOUBAO_VL_MODEL = os.getenv("DOUBAO_EP", "")
-    DOUBAO_LLM_MODEL = os.getenv("DOUBAO_EP", "")
+    DOUBAO_VL_MODEL = api_config.DOUBAO_MODEL
+    DOUBAO_LLM_MODEL = api_config.DOUBAO_MODEL
 
     # ========== 抽帧配置 ==========
     FRAMES_PER_EPISODE = 30

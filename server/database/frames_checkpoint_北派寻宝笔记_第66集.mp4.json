@@ -1,0 +1,322 @@
+[
+  {
+    "scene_description": "A close-up shot from a Chinese vertical web short drama, the blurred background shows a retro style daily living setting",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "She raises her hand with extra long sharp red manicures to cover her mouth, translucent frame sunglasses rest on top of her dark curly hair, and she wears a glittery wine red long-sleeve top",
+        "expression": "She lowers her gaze, showing a playful, sly smirk full of teasing amused feeling"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "The female character shows a crafty amused reaction, seemingly responding to an interesting teasing thing that happened off the frame",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Vintage 1990s style residential indoor doorway scene, two people stand face to face in the room",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Holds a vintage duffel bag in his right hand, grips his jacket zipper with his left hand, looks directly at the woman in front of him",
+        "expression": "Serious, solemn and focused"
+      },
+      {
+        "name": "Unknown curly-haired woman",
+        "action": "Faces away from the camera, holds a cigarette in her right hand, grips the strap of the man's bag with her left hand, facing the young man",
+        "expression": "Face is not visible at this shooting angle"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man who just returned home stands face to face with the stylish curly-haired woman, the two are in a tense pre-confrontation interactive moment",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Warm nostalgic indoor scene, a woman sits beside a sofa with brown curtains in the background, soft side lighting creates a gentle retro atmosphere",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "sits sideways, gazing towards the right outside the frame",
+        "expression": "has a soft gentle smile, looks relaxed and calm"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Warm sunlit indoor space next to a frosted glass window, a man sits comfortably on a wooden armchair",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Leans back lazily in the chair, holds a piece of orange peel in his left hand, rests his right hand casually on his thigh, bathed in soft sunlight",
+        "expression": "Calm, faintly smug, gazing sideways away from the camera"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Warm sunlit retro domestic interior with wooden half-wall paneling, vintage old-fashioned furniture, a small side table with placed fruits, presenting typical late 1990s residential room style",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "standing, holding a lit cigarette with rising smoke in her raised hand, wearing fashionable vintage outfit, sunglasses resting on top of her curly hair",
+        "expression": "smiling cheerfully, looking directly towards the camera direction"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "The bold casual female character shows her free personality in this vintage home scene, the disclaimer at the bottom reminds the audience that the plot is fictional and to establish correct values",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Vintage residential indoor setting, with wooden wall paneling and a woven rattan sofa in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Leaning back seated on the sofa, arms crossed over his chest, holding a carved solid object in one hand",
+        "expression": "Pensive and solemn, eyes half-lidded behind retro round glasses with hanging decorative chains"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elegantly dressed elderly man is deep in thought, apparently deliberating over an important related matter",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Vintage style home living room, with a framed decorative carved artwork on the wall and rattan furniture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, holding a smoking pipe in his left hand, his right hand resting by his side with a green jade ring on the finger",
+        "expression": "Solemn and serious, with slightly furrowed brows, gazing forward with a stern dignified look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The elderly family patriarch is showing a serious reaction to a plot-related event unfolding in this domestic drama story",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第66集.mp4\\第66集\\scene_021.jpg",
+    "frame_index": 20
+  }
+]

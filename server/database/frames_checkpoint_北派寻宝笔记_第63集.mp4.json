@@ -1,0 +1,557 @@
+[
+  {
+    "scene_description": "Low-angle partial shot of a moving stainless steel sliding gate installed on rough outdoor cement ground, only lower body fragments of people are visible around the gate",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "standing next to the moving gate, partial hand, leg and shoe with yellow outsole are exposed outside the gate",
+        "expression": "facial expression is not visible"
+      },
+      {
+        "name": "unknown",
+        "action": "standing behind the vertical slats of the moving gate, only a black leather shoe is visible through the gap",
+        "expression": "facial expression is not visible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "The sliding gate is in motion, seemingly to separate the two parties on its opposite sides",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Medium close-up side profile shot of a young man in casual workwear, against a blurred hazy urban outdoor background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing upright, facing left and gazing out towards the distant scenery",
+        "expression": "Pensive and calm, eyes half-lidded as if deep in thought"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "The character is in a quiet reflective moment, looking out at the distant city view lost in his own thoughts",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Low-angle shot of a young man standing in front of a large slatted metal facility gate under warm soft daylight",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Raises his left hand to wave, holds an olive green canvas bag in his right hand",
+        "expression": "Calm and neutral, looking forward towards the direction he is waving to"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This scene shows the man walking out of the facility gate and waving to say goodbye, implying he has just completed his sentence and been released from the detention institution",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "户外场景，背景是老旧的金属竖格大门，采用浅景深虚化前景人物，整体氛围凝重紧绷",
+    "characters": [
+      {
+        "name": "项爷",
+        "action": "站立在金属大门前，面向对面的对话对象",
+        "expression": "神情严肃沉郁，面色凝重"
+      },
+      {
+        "name": "未知",
+        "action": "处于画面前景的虚化区域，面向项爷开口搭话",
+        "expression": "脸部完全被虚化，无法辨认神态"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "他人对着刚出狱的项爷开口问候，说出台词“项爷 听说您出来了”，是主角刑满释放后和相关人物碰面的关键剧情开场",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Outdoor rural setting with farmland in the distant background, a woman stands in front of a parked black luxury sedan facing an interlocutor",
+    "characters": [
+      {
+        "name": "Unknown wealthy woman",
+        "action": "holds a lit cigarette in her left hand, crosses her right arm over her chest, facing the person in front of her",
+        "expression": "haughty and slightly disdainful, eyes lowered with an indifferent, arrogant look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A rich woman dressed in luxury furwear displays her haughty high-status bearing while interacting with a local person next to her luxury car in the countryside",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Wide shot of a sunny countryside residential concrete path, a plainly dressed young man with luggage faces a group of well-dressed people parked with two luxury vehicles, rural farmland and hills stretch in the distant background",
+    "characters": [
+      {
+        "name": "unknown returning protagonist",
+        "action": "stands on the path holding a worn duffel bag, facing the crowd across the road",
+        "expression": "quiet, slightly stunned with low mood"
+      },
+      {
+        "name": "unknown bodyguard 1",
+        "action": "stands straight beside the black sedan with sunglasses on",
+        "expression": "stern, poker-faced"
+      },
+      {
+        "name": "unknown bodyguard 2",
+        "action": "stands in formation next to the first bodyguard",
+        "expression": "serious, solemn"
+      },
+      {
+        "name": "unknown elegant lady",
+        "action": "stands next to the bodyguards holding a black parasol",
+        "expression": "looks at the young man with expectant complicated gaze"
+      },
+      {
+        "name": "unknown entourage pair by jeep",
+        "action": "stand beside the blue off-road car, the woman holds a metal briefcase",
+        "expression": "very respectful and solemn"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "This is the iconic core scene of a typical domestic short drama: the low-profile ordinary young man returning to rural hometown is greeted by a full luxury entourage, to reveal his hidden top wealthy status that no one in the village expected.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "A frame captured from a vertical-screen domestic short drama, taken outdoors in soft side daylight, centered on a young man in casual vintage jacket",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "has a cigarette hanging in his mouth, holds a cigarette pack in one hand, rests his other hand on his jacket while looking down",
+        "expression": "eyes lowered, pensive and quiet, lost in thought"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The on-screen subtitle indicates the character got what he pursued, but also paid a corresponding price, with the official disclaimer reminding audience to establish correct values appended at the bottom",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Bright daytime outdoor close-up shot of a man's side profile, with blurred pale sky and out-of-focus distant scenery in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "holding a lit cigarette to his mouth and smoking",
+        "expression": "eyes half lowered, showing a thoughtful, pensive and somber look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "The man smokes alone outdoors while deep in thought, the bottom on-screen text reminds the audience this drama is fictional and guides viewers to establish correct values",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Retro old-fashioned late 20th century Chinese domestic kitchen, shot with shallow depth of field, foreground kitchenware is blurred while focus falls on the elderly woman behind the low half wall.",
+    "characters": [
+      {
+        "name": "unknown elderly grandma",
+        "action": "sits behind the kitchen half partition, speaking to the person in the blurred foreground",
+        "expression": "eyes closed, frowning, with obvious indignation and disappointment"
+      },
+      {
+        "name": "Xiang Yunfeng",
+        "action": "stays in the foreground kitchen area with his back facing the camera, being scolded",
+        "expression": "unrecognizable due to out-of-focus blur"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The elderly woman angrily berates Xiang Yunfeng, calling him an ungrateful white-eyed wolf, unfolding a domestic family conflict plot.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Retro late 20th century Chinese residential interior, foreground cluttered with old kitchen utensils, enamel basins and firewood, an elderly woman sits behind a low half-wall partition",
+    "characters": [
+      {
+        "name": "unknown elderly woman",
+        "action": "Sits behind the half-height partition, facing the off-screen person in the kitchen area",
+        "expression": "Serious, somber, in the middle of speaking to the other person"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The elderly woman cites content she claims was announced on television as the evidence to support her argument against the off-screen party",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Vintage northern Chinese winter outdoor scene with falling snow, a crowd of local residents gather for a public confrontation",
+    "characters": [
+      {
+        "name": "unknown middle-aged woman",
+        "action": "standing in the snow, shouting at the off-screen target of her complaint",
+        "expression": "brows furrowed tightly, mouth wide open mid-yell, full of angry questioning emotion"
+      },
+      {
+        "name": "other background residents",
+        "action": "standing behind the foreground woman watching the ongoing conflict",
+        "expression": "indistinct, out of focus"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "An angry resident publicly confronts the debtor, demanding that the debtor pay back all the money they owe to the whole group of local residents",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Retro winter outdoor night scene with falling snow, all characters wear thick old-style cold-proof clothing",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing in foreground with arms crossed over chest",
+        "expression": "Eyes wide open, looks shocked and wary, staring straight ahead"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing out of focus in left rear background",
+        "expression": "Stern, gazing towards the front"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing out of focus in right rear background",
+        "expression": "Serious and displeased, looking towards the foreground"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The woman in the foreground speaks the line \"你干嘛 (What are you doing)\", appearing to confront others, with other villagers standing behind her",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_012.jpg",
+    "frame_index": 11
+  },
+  {
+    "scene_description": "Dimly lit indoor close-up shot, with vintage retro styling for the character's clothing, belonging to a period family drama setting",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Stands still, gazing towards the off-screen left direction",
+        "expression": "Shocked and concerned, mouth slightly parted, eyes wide as he processes unexpected new information"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The young man is captured mid-reaction to a surprising, unanticipated comment delivered by an unseen person off-camera",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_013.jpg",
+    "frame_index": 12
+  },
+  {
+    "scene_description": "Snowy cold outdoor night scene with dim blue ambient light, falling snow, blurred foreground figure, and faint blurred trees in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Stand with back facing the camera, face the woman opposite",
+        "expression": "Face is fully obscured by foreground blur, no visible expression"
+      },
+      {
+        "name": "unknown rural middle-aged woman",
+        "action": "Stand in falling snow facing the foreground person, snow covers her padded coat and red scarf",
+        "expression": "Mouth slightly open, looks stunned and worried, staring at the person in front of her"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The snow-covered woman reacts with shock to the message from the person opposite, it is a critical emotional turning point plot scene of a domestic short drama",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_014.jpg",
+    "frame_index": 13
+  },
+  {
+    "scene_description": "Frigid snowy outdoor setting, cold blue color tone, snowflakes fall and cover the character's worn thick cotton-padded clothes",
+    "characters": [
+      {
+        "name": "Unknown elderly rural woman",
+        "action": "Crosses arms in front of chest to keep out the cold, opens mouth as she is speaking",
+        "expression": "Frowns, looks unconvinced and slightly agitated"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The woman speaks the northeastern Chinese colloquial line '那咋的了 (So what / What's the problem)', expressing a questioning, unconvinced attitude to the ongoing discussed matter",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_015.jpg",
+    "frame_index": 14
+  },
+  {
+    "scene_description": "Outdoor retro old residential courtyard scene at snowy winter night, heavy snow is falling, old brick house with festive red decorations in the background",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Standing still in the falling snow, facing the person opposite him, snow has accumulated on his hair and jacket",
+        "expression": "Solemn, stunned and full of suppressed painful emotion after hearing the hurtful words"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The person off-screen cruelly informs the young man that his parents died of poverty, which is a critical conflict plot revealing the protagonist's sad backstory and brings huge emotional impact to him.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_016.jpg",
+    "frame_index": 15
+  },
+  {
+    "scene_description": "Dim outdoor setting on a heavy snowy frigid winter night, a group of middle-aged women dressed in vintage thick winter clothes gather to face the person outside the frame",
+    "characters": [
+      {
+        "name": "unknown leading woman",
+        "action": "Stand with arms crossed over chest, wearing a pink head scarf, with snowflakes resting on her thick coat",
+        "expression": "Furrowed brows, squint one eye, showing obvious suspicious and inquisitive look"
+      },
+      {
+        "name": "unknown woman at rear left",
+        "action": "Stand with arms crossed, wearing a green scarf and striped cotton-padded coat",
+        "expression": "Serious, staring intently at the opposite person"
+      },
+      {
+        "name": "unknown women partially visible on the right",
+        "action": "Stand with arms crossed behind the leading woman",
+        "expression": "Stern, focusing on the target person opposite"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "This group of villagers block other residents outdoors in cold heavy snow, and start to inquire about the target family's deposit, which sets off the subsequent neighborhood conflict plot of this short period drama",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_017.jpg",
+    "frame_index": 16
+  },
+  {
+    "scene_description": "Heavy snow falls on a rural courtyard at night, the old brick farm house is decorated with New Year fu character, red paper cuttings and strings of hanging garlic on the exterior wall, villagers gather around a young man at the house entrance.",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "standing at the wooden house door, facing the gathered crowd of villagers",
+        "expression": "serious, speaking to the surrounding villagers"
+      },
+      {
+        "name": "group of unknown villagers",
+        "action": "standing on the snowy ground facing the young man, surrounding him closely",
+        "expression": "focused, appearing to question and demand for the related matter"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The gathered villagers confront the young man at his home on snowy winter night, discussing and demanding the return of the antique.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_018.jpg",
+    "frame_index": 17
+  },
+  {
+    "scene_description": "A young man stands in falling snow, with snowflakes resting on his hair and coat, against a blurred warm dim doorway background",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Standing in the snow, gazing towards the right off-screen",
+        "expression": "Serious and focused, slightly stern"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The character is delivering the line related to a sum of money, launching a relevant plot conflict, with official tip reminding viewers to establish correct values displayed at the bottom",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_019.jpg",
+    "frame_index": 18
+  },
+  {
+    "scene_description": "Winter snowy outdoor courtyard at night, a group of villagers in thick retro winter clothes gather and face an out-of-focus person in the foreground",
+    "characters": [
+      {
+        "name": "Unknown leading village woman",
+        "action": "Stands facing the foreground person, raises her right hand with the index finger pointing upward",
+        "expression": "Squints, looks firm and aggressive, appearing to make a serious demand"
+      },
+      {
+        "name": "Unknown woman with green scarf",
+        "action": "Stands behind the leading woman with arms crossed over her chest",
+        "expression": "Looks displeased, standing by in support of the leading woman"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "A village resident is putting forward an unreasonable claim related to the protagonist's house, launching a typical rural property conflict plot of the short drama",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_020.jpg",
+    "frame_index": 19
+  },
+  {
+    "scene_description": "Frigid snowy outdoor night, two women stay outside, snowflakes have covered their hair and coats",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Crosses both arms tightly over chest to resist cold, wears a bright red scarf and thick plaid coat",
+        "expression": "Brow furrowed, eyes closed tightly, shows an obvious uncomfortable look from the freezing low temperature"
+      },
+      {
+        "name": "unknown",
+        "action": "Stands behind the foreground woman, gazes ahead",
+        "expression": "Blurred by depth of field, appears dull and solemn"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The foreground woman complains that the weather is extremely cold when trapped outdoors in heavy falling snow",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_021.jpg",
+    "frame_index": 20
+  },
+  {
+    "scene_description": "Retro old residential area on a snowy night, faint warm light leaks from the house window in the blurred background",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Standing still outdoors in falling snow, snowflakes have covered his hair and the surface of his jacket",
+        "expression": "Dazed and pensive, staring sideways into the distance with a solemn, lost look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man is hit by huge emotional impact, so he stays motionless in the snow, not noticing snowflakes accumulating on his body",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_022.jpg",
+    "frame_index": 21
+  },
+  {
+    "scene_description": "Warm dimly lit wintry outdoor scene, soft falling snow with blurred background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Stands in the falling snow, facing right in side profile, snowflakes resting on his short hair and khaki jacket",
+        "expression": "Quiet and slightly pensive, no obvious intense emotion shown on his side face"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man gazes silently into the distance amid falling snow, building a nostalgic quiet winter emotional atmosphere",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_024.jpg",
+    "frame_index": 23
+  },
+  {
+    "scene_description": "Warm dimly lit wintry outdoor scene, soft falling snow with blurred background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Stands in the falling snow, facing right in side profile, snowflakes resting on his short hair and khaki jacket",
+        "expression": "Quiet and slightly pensive, no obvious intense emotion shown on his side face"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man gazes silently into the distance amid falling snow, building a nostalgic quiet winter emotional atmosphere",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_024.jpg",
+    "frame_index": 23
+  },
+  {
+    "scene_description": "Bustling retro Republican-era Chinese antique flea market, set in an old street lined with traditional grey brick buildings, vendors lay out antique pottery, calligraphy scrolls and old books on the ground for browsing and trading.",
+    "characters": [
+      {
+        "name": "Unidentified protagonist",
+        "action": "Walking towards the market stalls from the foreground, carrying two bags with his back facing the camera",
+        "expression": "Not visible from this angle"
+      },
+      {
+        "name": "Unknown ceramic stall vendor",
+        "action": "Sitting beside his ground stall of antique pottery and old metal wares",
+        "expression": "Calm, looking towards incoming pedestrians"
+      },
+      {
+        "name": "Unknown customer",
+        "action": "Standing to inspect an unfolded calligraphy scroll",
+        "expression": "Focused on evaluating the antique artwork"
+      },
+      {
+        "name": "Unknown antique book vendor",
+        "action": "Sitting on the pavement sorting and checking old thread-bound books",
+        "expression": "Concentrated on the goods he is handling"
+      },
+      {
+        "name": "Unknown stall owner",
+        "action": "Standing and gesturing to communicate with the customer browsing the scroll",
+        "expression": "Engaged in transaction negotiation"
+      },
+      {
+        "name": "Other unknown market visitors",
+        "action": "Browsing stalls and socializing at the far end of the street",
+        "expression": "Casual and relaxed"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The main character arrives at the crowded old town antique market, where local vendors run antique artifact stalls to trade traditional secondhand items with customers.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_025.jpg",
+    "frame_index": 24
+  },
+  {
+    "scene_description": "Republic of China style outdoor space in front of traditional Chinese architecture, with painted wooden screen and lattice window as background",
+    "characters": [
+      {
+        "name": "Unknown middle-aged man",
+        "action": "Side facing the camera, holding a brown leather briefcase in his left hand, seemingly preparing to move forward",
+        "expression": "Serious, preoccupied, looking down with a worried demeanour"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_026.jpg",
+    "frame_index": 25
+  },
+  {
+    "scene_description": "A retro-style short drama still, with a young man in thick winter attire, set against a blurred grey brick wall background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "leans slightly forward, hands loosely placed in front of him, looking towards a direction off the frame",
+        "expression": "wide-eyed, mouth slightly parted, showing a shocked, astonished look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The character questions or puts forward an offer of four thousand yuan, with on-screen text displaying the line \"How about four thousand yuan\"",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_027.jpg",
+    "frame_index": 26
+  },
+  {
+    "scene_description": "Outdoor old Republican-era street setting, the background architecture and street props are blurred with shallow depth of field",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "squatting on the ground, leaning forward, bowing his head to look down at the target in front of him",
+        "expression": "somber, brows furrowed, eyes lowered, looking visibly heavy-hearted"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The formally dressed bespectacled man focuses on the object or person on the ground in front of him, with obvious strong emotional fluctuations, implying an important dramatic plot development",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_028.jpg",
+    "frame_index": 27
+  },
+  {
+    "scene_description": "Outdoor retro winter scene, blurred grey brick wall as background, the character wears thick warm cold-weather clothing",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Using both hands to receive a stack of banknotes handed over by another person",
+        "expression": "Excited and grateful, looking at the other party with bright delighted eyes, mouth slightly open to speak"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The young man receives remuneration from his boss, repeatedly thanking the boss for the payment",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_029.jpg",
+    "frame_index": 28
+  },
+  {
+    "scene_description": "Retro period winter outdoor street scene of an old historic residential neighborhood",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "standing facing the partially visible person opposite, carrying a grey cloth bag",
+        "expression": "shocked and confused, mouth slightly open, staring at the opposite person"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The young man is harshly ordered to leave Panjiayuan immediately, triggering the core plot conflict",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第63集.mp4\\第63集\\scene_030.jpg",
+    "frame_index": 29
+  }
+]

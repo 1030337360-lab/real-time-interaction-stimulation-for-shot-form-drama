@@ -1,0 +1,187 @@
+[
+  {
+    "scene_description": "Close-up outdoor portrait of an elderly man in traditional period folk costume, from a licensed Chinese vertical web micro drama",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "leans slightly, looking sideways over his small vintage round tinted sunglasses, wearing a traditional topknot secured with a wooden hairpin",
+        "expression": "has a faint knowing smirk, looks shrewd and crafty"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Daytime outdoor urban riverside scene, the background is blurred with greenery and distant high-rise buildings, with soft natural ambient light",
+    "characters": [
+      {
+        "name": "Unknown young man",
+        "action": "Standing and facing the person in the blurred foreground of the frame",
+        "expression": "Serious and solemn, eyes focused on the opposite person, with a slightly heavy, thoughtful look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man stares at the person in front of him, and is about to launch an important conversation or confirm critical plot-related information",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Hazy outdoor waterside location, with blurred distant urban scenery in the background, two people facing each other for interaction",
+    "characters": [
+      {
+        "name": "Unknown elderly fortune-teller styled role",
+        "action": "Standing, holding the shoulder strap of his slung white canvas bag with one hand, facing the person in front of him",
+        "expression": "Gentle smiling, looks relaxed and amiable"
+      },
+      {
+        "name": "Unknown visitor character",
+        "action": "Standing opposite the elderly man, only blurred partial upper body clothing appears in the foreground",
+        "expression": "Facial features are completely obscured, cannot be observed"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The character dressed in traditional old-time folk costume wears modern round sunglasses, producing a humorous anachronistic effect during the interaction with the other person",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Soft daytime outdoor environment, blurred low-rise residential houses and greenery in the distant background",
+    "characters": [
+      {
+        "name": "Unknown young male",
+        "action": "Standing and gazing at the person in front of him",
+        "expression": "Serious, solemn, focused gaze with slightly pursed lips, looking concerned about the current situation"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Soft daytime outdoor environment, blurred low-rise residential houses and greenery in the distant background",
+    "characters": [
+      {
+        "name": "Unknown young male",
+        "action": "Standing and gazing at the person in front of him",
+        "expression": "Serious, solemn, focused gaze with slightly pursed lips, looking concerned about the current situation"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Soft daytime outdoor environment, blurred low-rise residential houses and greenery in the distant background",
+    "characters": [
+      {
+        "name": "Unknown young male",
+        "action": "Standing and gazing at the person in front of him",
+        "expression": "Serious, solemn, focused gaze with slightly pursed lips, looking concerned about the current situation"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Retro 1980s style domestic family dining scene, the room has vintage wall decor, the dining table is covered with a checkered tablecloth, placed with blue and white porcelain tableware and home-cooked dishes",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Sitting at the dining table, facing the front direction",
+        "expression": "Stunned and shocked, mouth slightly open, she looks like she just received very unexpected information"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The woman shows a shocked reaction after hearing unexpected news in the middle of a family mealtime conversation",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Warm sunlit retro 1990s style Chinese family dining room, three people sit around a dining table covered with pale plaid tablecloth",
+    "characters": [
+      {
+        "name": "Unknown middle-aged woman",
+        "action": "Sits on wooden chair facing the teenage girl across the table",
+        "expression": "Stern, serious and focused on the girl she is speaking to"
+      },
+      {
+        "name": "Unknown young man",
+        "action": "Sits right in the middle between the two women, looking towards the girl",
+        "expression": "Awkward, uneasy and at a loss for words"
+      },
+      {
+        "name": "Unknown teenage girl in school tracksuit",
+        "action": "Sits opposite the middle-aged woman, holds a spoon facing her",
+        "expression": "Unyielding, unconvinced as she responds"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The middle-aged mother is having a tense serious talk with her teenage daughter, while the young man is caught in the middle of this family confrontation, likely related to the girl's association with the boy",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Warm retro domestic dining scene, in a vintage style old residential home dining area with wood furniture",
+    "characters": [
+      {
+        "name": "Unknown middle-aged woman",
+        "action": "Seated at the dining table, arranging wooden chopsticks, preparing to eat the rice in front of her in a blue-and-white porcelain bowl",
+        "expression": "Soft and calm, looking down at the table food with a faint gentle smile"
+      },
+      {
+        "name": "Unidentified partial person",
+        "action": "Sitting opposite the woman at the same dining table, out of focus at the right edge of frame",
+        "expression": "No visible clear facial expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Indoor residential space with a blurred arched doorway in the background, focused on a man acting aggressively to demand debt repayment",
+    "characters": [
+      {
+        "name": "Unknown debt collector",
+        "action": "Grips a long black pole firmly, stands at the space and shouts to call out the debtor",
+        "expression": "Furrowed brows, tensed face, shows obvious angry and fierce aggressive mood"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The irate debt collector shouts loudly to force the person named Li Dequan to come out right away and return the money he owed",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Indoor setting of a retro domestic short drama, with a 1990s style residential interior background",
+    "characters": [
+      {
+        "name": "unknown (gangster role)",
+        "action": "Holds a short stick pointing toward the front, one hand in his pants pocket, with blurred followers holding weapons standing behind him",
+        "expression": "Furrowed brows, fierce aggressive look, mouth open while shouting threatening lines"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The aggressive gangster leads his men to break into the space, threatening the people in front of him by saying the line 'I'll let you eat', launching a confrontation and intimidation scene",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第73集.mp4\\第73集\\scene_011.jpg",
+    "frame_index": 10
+  }
+]

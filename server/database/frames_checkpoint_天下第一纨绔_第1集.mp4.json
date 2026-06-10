@@ -1,0 +1,602 @@
+[
+  {
+    "scene_description": "An establishing shot at night focusing on an ornate gilded name plaque of a traditional ancient Chinese venue, with the hazy, bustling interior filled with red lanterns, lit candles and crowds visible through the doorway below the plaque",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "gathering and moving about inside the busy venue, appearing mostly as indistinct distant silhouettes",
+        "expression": "no clear discernible facial expression due to blurriness and long viewing distance"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "Establishes the story's main setting, the Yi Xiang Yuan (Yi Xiang Courtyard) venue, as a bustling night-time location",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Dimly lit ancient Chinese indoor room, with dark hanging curtains, wooden window frames and a burning candle in the blurred background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "adjusting the front of his robe with both hands while looking down",
+        "expression": "flustered and troubled, mouth slightly open, showing obvious uneasy and worried emotion"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The plump man in ancient traditional costume shows a distressed reaction after getting unexpected bad news",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Ancient style indoor scene at night, with lit candelabra and traditional wooden lattice partitions in the background, from a vertical Chinese short drama",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Leans his body sideways, stretches out an open palm towards the person outside the frame on the left",
+        "expression": "Eyes wide staring, mouth fully agape, showing an extremely shocked and flabbergasted expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man reacts to sudden unexpected news, blurting out in great astonishment to the counterpart in front of him",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Ancient style indoor scene at night, with lit candelabra and traditional wooden lattice partitions in the background, from a vertical Chinese short drama",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Leans his body sideways, stretches out an open palm towards the person outside the frame on the left",
+        "expression": "Eyes wide staring, mouth fully agape, showing an extremely shocked and flabbergasted expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man reacts to sudden unexpected news, blurting out in great astonishment to the counterpart in front of him",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Dim ancient-style Chinese indoor space illuminated by candle stands, with wooden lattice windows in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing, gaze cast downwards",
+        "expression": "Frowning, somber and serious, looking down with a heavy mood"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man is speaking, pointing out that the matter can only be resolved fairly by competing openly and squarely on a martial arena",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Indoor ancient Chinese-style drama setting at night, lit by candles, with traditional antique furnishings in the blurred background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Seated, hands resting on his lap while delivering a speech",
+        "expression": "Furrowed brows, serious and earnest, mouth open as he emphasizes his statement"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man solemnly asserts that the mentioned woman is fated to be the future female emperor of the Great Yan dynasty",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Night ancient Chinese styled interior hall lit by candles, with traditional wooden lattice doors and patterned fabric curtains in background, costume short drama setting",
+    "characters": [
+      {
+        "name": "Unknown woman in red ancient robe",
+        "action": "Holds hands with the man on the right, faces him",
+        "expression": "Soft calm side-facing expression"
+      },
+      {
+        "name": "Unknown crowned noble man",
+        "action": "Stands behind observing the hand-holding pair",
+        "expression": "Wide-eyed, shocked and stunned"
+      },
+      {
+        "name": "Unknown plump court attendant",
+        "action": "Stands beside the noble, gestures with fingers while speaking",
+        "expression": "Thoughtful and confused"
+      },
+      {
+        "name": "Unknown elder man",
+        "action": "Holds the red dressed woman's hands",
+        "expression": "Smiling contentedly"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The on-going voiceover narration states the female lead can soothe the emperor when he is irritable, while the noble man witnesses the woman being held hands by another man showing obvious shock.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Close-up frame of ancient Chinese costume drama scene, blurred burning candles in the background create a dim traditional interior atmosphere, this is a shot from a vertical short drama",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "only partial face is shown, one hand pinches the other man's neck to coerce him",
+        "expression": "visible part of the face shows a stern, aggressive manner"
+      },
+      {
+        "name": "unknown",
+        "action": "head tilts backward, is restrained by neck pinching, opening his mouth to speak",
+        "expression": "painful and flustered, brows furrowed, eyes half closed, appears frightened and wronged"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man under coercion speaks the line that he would have long given the relevant woman a formal legitimate status, being threatened by the other man holding his neck",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Ancient Chinese costume short drama character introduction still, background is blurred traditional ancient courtyard architecture, with warning text on the left side of the frame",
+    "characters": [
+      {
+        "name": "Su Yu (苏羽)",
+        "action": "Holds an unfolded paper scroll, rests his arm around the woman beside him",
+        "expression": "Grins widely, showing a smug, dissolute overjoyed look"
+      },
+      {
+        "name": "unknown",
+        "action": "Leans against Su Yu, raises one hand near her face",
+        "expression": "Part of face is hidden, presents a shy demeanor"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "Marks the official appearance of the core character Su Yu, introduces his identity as the second son of Zhenbei Marquis, and shows his initial dissolute rich young master persona",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Group of people in ancient Chinese traditional costumes stand on a carved wooden elevated corridor, lit by warm candlelight, gazing towards the off-screen space down the stairs",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing at the left end of the queue facing forward",
+        "expression": "Focused, solemn"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing in the queue gazing off-screen",
+        "expression": "Serious and displeased"
+      },
+      {
+        "name": "unknown",
+        "action": "Partially obscured, standing behind others looking ahead",
+        "expression": "Shocked, slightly squinted"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing in the middle of the queue in red embroidered hanfu",
+        "expression": "Upset, indignant with a slight frown"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing while holding a calligraphy printed paper fan",
+        "expression": "Speaking angrily, indignant"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing at the right end of the queue looking ahead",
+        "expression": "Serious, frowning"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The group witnesses an unseen person behaving extremely arrogantly and tyrannically, and collectively express indignation and shock at this unreasonable behavior",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Indoor scene of a Chinese ancient costume short drama, with traditional wooden lattice window as background, multiple characters in ancient official/aristocratic costumes gathering and looking towards the same off-screen direction",
+    "characters": [
+      {
+        "name": "Unknown central noble man",
+        "action": "Standing in the middle of the crowd, turning his head to look at the right off-screen direction",
+        "expression": "Shocked and stunned, with a surprised wide-eyed look"
+      },
+      {
+        "name": "Unknown man with golden headwear",
+        "action": "Standing behind the central character, gazing towards the right off-screen",
+        "expression": "Serious, with a scrutinizing cautious look"
+      },
+      {
+        "name": "Unknown lady with folding fan",
+        "action": "Holding a paper fan to partially cover her face, standing on the right side of the frame",
+        "expression": "Part of her face is blocked, presenting a typical onlooker state"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "All the characters focus their attention after the plot mentions the famously well-known prodigal son in the imperial city, which paves the way for the core protagonist to appear next",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Warm candle-lit interior of a traditional ancient Chinese styled chamber, from a historical short drama production",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "standing gracefully next to a partially visible person in dark ancient formal attire",
+        "expression": "soft faint demure smile, eyes lowered gazing toward her lower right side"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_012.jpg",
+    "frame_index": 11
+  },
+  {
+    "scene_description": "Indoor scene of a Chinese ancient-style short drama, located in a traditional wooden decorated ancient room, the partial figure of a woman in traditional costume with floral hair ornaments appears on the right edge",
+    "characters": [
+      {
+        "name": "Unknown ancient noble/official",
+        "action": "Stands still, rests his arm around the adjacent woman, looks towards the off-screen side",
+        "expression": "Solemn, with a scrutinizing thoughtful look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The high status ancient man notices a previously unfamiliar new face, corresponding to the on-screen dialogue subtitle",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_013.jpg",
+    "frame_index": 12
+  },
+  {
+    "scene_description": "Warm lit indoor scene of ancient Chinese noble residence, from a vertical costume short drama",
+    "characters": [
+      {
+        "name": "Marquis of Zhenbei",
+        "action": "Stands and looks towards his right side",
+        "expression": "Frowning, looks shocked and worried, with visible sweat on his neck"
+      },
+      {
+        "name": "unknown female character",
+        "action": "Stands partially behind the man",
+        "expression": "Full face is not shown, expression unrecognizable"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The on-screen line clarifies that the previously mentioned dissolute noble youth is the son of the Marquis of Zhenbei, revealing this core character identity background setting",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_014.jpg",
+    "frame_index": 13
+  },
+  {
+    "scene_description": "Intimate indoor scene from a Chinese ancient costume short drama, lit by soft warm ambient candle light, two period-costumed characters interact closely.",
+    "characters": [
+      {
+        "name": "unknown male",
+        "action": "gently touches the female character's chin, looking up at her",
+        "expression": "soft calm focused gaze towards the woman"
+      },
+      {
+        "name": "unknown female",
+        "action": "leans slightly towards the male, faces him",
+        "expression": "eyes gently closed, with a soft sweet happy smile"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The romantic couple share an intimate close moment while plot exposition states that the man's mother passed away during his childhood.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_015.jpg",
+    "frame_index": 14
+  },
+  {
+    "scene_description": "An interior ancient Chinese costume drama scene, located in a traditionally decorated space with wooden lattice partitions, multiple people in traditional historical attire are gathered.",
+    "characters": [
+      {
+        "name": "Unknown central man",
+        "action": "Holding a damaged calligraphy folding fan, speaking to the man on his right side",
+        "expression": "Frowning, mouth slightly open, showing obvious incredulity and disagreement"
+      },
+      {
+        "name": "Unknown man on the right",
+        "action": "Standing facing the central man, listening to his speech",
+        "expression": "Partially visible profile, focused on the speaker"
+      },
+      {
+        "name": "Unknown woman in red Hanfu",
+        "action": "Standing in the background, with a hand resting on her shoulder",
+        "expression": "Eyes half closed, subdued and calm"
+      },
+      {
+        "name": "Unknown man on far left",
+        "action": "Standing behind the woman, facing away from the core conversation",
+        "expression": "Only partial side of his face is visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The central man publicly refutes the previous claim that the treatment of a third person counts as being kind, speaking the line shown on the subtitle: 'This is being good to him?'",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_016.jpg",
+    "frame_index": 15
+  },
+  {
+    "scene_description": "Warmly lit interior of a traditional ancient Chinese aristocrat's residence, with vintage wooden interior decor in the blurred background",
+    "characters": [
+      {
+        "name": "Unknown (middle-aged ancient high-ranking noble/official)",
+        "action": "Standing beside a partially visible formally dressed ancient female character",
+        "expression": "Frowning heavily, clearly enraged, mouth slightly open as he shouts angrily"
+      },
+      {
+        "name": "Unknown (ancient dressed female)",
+        "action": "Standing to the right of the man, her full face is cropped out of the frame",
+        "expression": "No fully visible facial expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The furious high-status ancient character snarls the Chinese curse phrase \"混账\" (scoundrel / worthless fool) after being upset by bad news",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_017.jpg",
+    "frame_index": 16
+  },
+  {
+    "scene_description": "Warm candle-lit traditional ancient Chinese interior, with wooden lattice window as the backdrop, featuring two men in ancient period costumes",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing, turning his gaze to the off-screen area on his right side",
+        "expression": "Serious, alert, with focused gaze directed to the right"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing partially visible at the right edge of the frame next to the first man, facing right",
+        "expression": "Stern and calm"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "Two men in ancient martial/official attire react to an unseen person or event that appears off-screen to their right",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_018.jpg",
+    "frame_index": 17
+  },
+  {
+    "scene_description": "Intimate scene from a Chinese ancient-themed short drama, set in a soft draped traditional interior with people in background wearing period clothing",
+    "characters": [
+      {
+        "name": "Unknown Male Character",
+        "action": "Only his hand is visible, gently lifting and holding the young woman's chin",
+        "expression": "Face is out of frame, no visible facial expression"
+      },
+      {
+        "name": "Unknown Female Character",
+        "action": "Looking up at the man directly in front of her",
+        "expression": "Wide-eyed, soft and earnest, conveying deep affectionate devotion"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The female character expresses absolute extreme devotion to the man, stating he is permitted to take her very life if that is what he wants, showing her full commitment to him.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_019.jpg",
+    "frame_index": 18
+  },
+  {
+    "scene_description": "Softly lit indoor ancient Chinese palace chamber with traditional wooden window frames and candles in the background",
+    "characters": [
+      {
+        "name": "Unknown court official",
+        "action": "Gestures with raised open palms facing forward, speaking to the off-screen emperor",
+        "expression": "Worried, anxious, mouth open mid-speech, looking towards the emperor"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The concerned official cautions the emperor to move carefully and avoid injuring his imperial dragon body",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_020.jpg",
+    "frame_index": 19
+  },
+  {
+    "scene_description": "Warm toned ancient Chinese style indoor hall scene, blurred lit candle holders in the background, set for a historical short drama",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Facing the conversation partner off the left side of the frame, standing in the ancient mansion hall",
+        "expression": "Helpless, frustrated and speechless, showing a look of utter disappointment about the competition result"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man remarks that the gap of the ongoing competition is far too large, so there is no necessity to continue the match at all",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_022.jpg",
+    "frame_index": 21
+  },
+  {
+    "scene_description": "Warm toned ancient Chinese style indoor hall scene, blurred lit candle holders in the background, set for a historical short drama",
+    "characters": [
+      {
+        "name": "Unknown",
+        "action": "Facing the conversation partner off the left side of the frame, standing in the ancient mansion hall",
+        "expression": "Helpless, frustrated and speechless, showing a look of utter disappointment about the competition result"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man remarks that the gap of the ongoing competition is far too large, so there is no necessity to continue the match at all",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_022.jpg",
+    "frame_index": 21
+  },
+  {
+    "scene_description": "Dim warm-lit traditional interior from a historical short drama, shallow depth of field blurs the background lattice window structure",
+    "characters": [
+      {
+        "name": "Unknown bearded man",
+        "action": "Grips the woman's neck with both hands to restrain her, his partial figure is out of focus in the foreground",
+        "expression": "Facial expression is not fully visible as most of his face is out of frame"
+      },
+      {
+        "name": "Unknown woman",
+        "action": "Her head tilts backward while being choked by the man",
+        "expression": "Eyes fully closed, appears unconscious and completely helpless"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This is a critical violent plot moment where a man assaults and chokes an incapacitated defenceless woman in the period drama",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_023.jpg",
+    "frame_index": 22
+  },
+  {
+    "scene_description": "A frame from a Chinese ancient costume short drama, set in a traditional ancient Chinese wooden building street scene with warm ambient lighting",
+    "characters": [
+      {
+        "name": "Unknown ancient noble dressed man",
+        "action": "Points his right hand forcefully at an off-screen target, clenches his left hand into a fist near his waist",
+        "expression": "Wide-eyed, mouth open, looking extremely indignant and shouting to accuse others"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The man publicly denounces the opposing party for the crime of forcibly snatching a civilian woman in broad daylight, launching a public confrontation",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_024.jpg",
+    "frame_index": 23
+  },
+  {
+    "scene_description": "Indoor setting of a traditional ancient Chinese wooden hall, all attendees wear ancient style traditional costumes",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing at the center, holding a decorative round fan and two large rolled scrolls in arms, raising one hand to make a unified gesture",
+        "expression": "Serious, staring firmly straight ahead"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing at the left rear, holding a folded green umbrella, raising a clenched fist upwards",
+        "expression": "Solemn, gazing forward"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing on the right, raising one hand forward with pointing fingers",
+        "expression": "Serious, looking towards the front"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A group of people dressed in ancient costumes are collectively performing a unified oath or public declaration gesture together",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_025.jpg",
+    "frame_index": 24
+  },
+  {
+    "scene_description": "Costume short drama scene set on a traditional ancient Chinese street at night, with ancient style shops and red festive decorations in the blurred background",
+    "characters": [
+      {
+        "name": "Unknown civilian man",
+        "action": "Holds a thin stick, stretches his arm forward to point ahead, keeps his other hand clenched at his side",
+        "expression": "Extremely enraged, tense facial muscles, yelling loudly with mouth wide open"
+      },
+      {
+        "name": "Unknown background woman",
+        "action": "Stands behind the leading man watching the ongoing conflict",
+        "expression": "Indistinct, looks flustered and astonished"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The bullied civilian shouts angrily the line 'You are deceiving people far too much' to express his strong indignation towards unfair treatment and bullying, the plot conflict reaches its outbreak point.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_026.jpg",
+    "frame_index": 25
+  },
+  {
+    "scene_description": "Evening ancient Chinese traditional market street, decorated with various shaped hanging lanterns, lined with old wooden shops, a group of people in ancient costumes gathering on the open street",
+    "characters": [
+      {
+        "name": "Unknown foreign styled leader",
+        "action": "Stands in the center of the confrontation crowd facing local people",
+        "expression": "Overbearing and stern"
+      },
+      {
+        "name": "Unknown long-bearded follower",
+        "action": "Points his finger at the opposite crowd of locals",
+        "expression": "Fierce and aggressive"
+      },
+      {
+        "name": "Unknown young woman in pink-white ancient dress",
+        "action": "Is detained in the arm of the strong man beside her",
+        "expression": "Fearful and flustered"
+      },
+      {
+        "name": "Unknown detaining strong man",
+        "action": "Holds the young woman hostage",
+        "expression": "Smiles arrogantly"
+      },
+      {
+        "name": "Group of local townspeople",
+        "action": "Stand around watching the confrontation",
+        "expression": "Worried and focused on the situation"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "Foreign troublemakers detain a local woman to confront local residents in the public ancient market, drawing a crowd of onlookers, forming a sudden public conflict scene",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_027.jpg",
+    "frame_index": 26
+  },
+  {
+    "scene_description": "Framed by a blurred traditional ancient Chinese wooden window, a group of people in period costumes gather outside a historic building under dim evening lighting",
+    "characters": [
+      {
+        "name": "Unknown burly armed man",
+        "action": "Stands facing right looking towards the distance, with a blade tucked at his waist",
+        "expression": "Alert and wary"
+      },
+      {
+        "name": "Unknown man restraining the girl",
+        "action": "Controls the young woman by holding her shoulder, looks outward following the lead man",
+        "expression": "Tense"
+      },
+      {
+        "name": "Unknown abducted young woman",
+        "action": "Keeps her head bowed, arms folded in front of her torso",
+        "expression": "Timid and distressed"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A group of armed rogue characters hold the young civilian woman as a hostage, monitoring their surroundings near the ancient residence",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_028.jpg",
+    "frame_index": 27
+  },
+  {
+    "scene_description": "Close-up shot centered on a small pale ceramic wine cup placed on a patterned table surface, with a blurred person wearing ancient-style light robe extending their hand above the cup, their full body and face out of frame and out of focus.",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "hovering their hand over the small wine cup, preparing to pick up the cup",
+        "expression": "facial features are not visible in this frame"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_029.jpg",
+    "frame_index": 28
+  },
+  {
+    "scene_description": "Dynamic shot from a wuxia costume drama, set inside a traditional ancient Chinese wooden building, warm backlight filters through lattice wooden windows",
+    "characters": [
+      {
+        "name": "Unknown male martial character",
+        "action": "Losing balance and staggering backward while falling, one arm fully outstretched, the other hand gripping a half-drawn sword",
+        "expression": "Shocked, strained and flustered, looking like he has just been incapacitated mid-fight"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The male character is defeated in combat, losing his footing and falling backwards, failing to even fully draw his sword during the conflict",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第1集.mp4\\第1集\\scene_030.jpg",
+    "frame_index": 29
+  }
+]

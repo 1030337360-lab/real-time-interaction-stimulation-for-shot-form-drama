@@ -1,0 +1,327 @@
+[
+  {
+    "scene_description": "Warmly lit traditional ancient Chinese interior hall, furnished with wooden lattice windows, ink painting decorative screens, and multiple tall candle holders all around the space",
+    "characters": [
+      {
+        "name": "Unknown ancient male character",
+        "action": "Strike a formal martial arts stance, raising one open palm forward facing the two maids",
+        "expression": "Stern, focused and vigilant"
+      },
+      {
+        "name": "Unknown maid 1",
+        "action": "Stand with back to the camera, facing the male character",
+        "expression": "Not visible from the rear view"
+      },
+      {
+        "name": "Unknown maid 2",
+        "action": "Stand next to the other maid, facing the male character",
+        "expression": "Not visible from the rear view"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The male character assumes a combat-ready martial arts stance, appearing to confront or prepare to demonstrate his martial ability in front of the two court maids",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Dim traditional ancient-style chamber decorated with sheer white hanging curtains and multiple lit ornate multi-candle metal candelabras, filled with hazy dim ambient light, setting a tense secretive atmosphere",
+    "characters": [
+      {
+        "name": "Unknown masked man",
+        "action": "Standing and facing the other person, gripping a short blade in his right hand",
+        "expression": "Facial features are mostly hidden under hood shadow and mask, appears stern and imposing"
+      },
+      {
+        "name": "Unknown man",
+        "action": "Standing and facing the masked man, partially blocked by the candelabra on the right",
+        "expression": "Facial expression is not visible from this camera angle"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A cloaked hooded armed masked figure confronts another person in the enclosed candle-lit space, indicating an impending secret reveal or conflict standoff",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Close-up shot of a mysterious masked hooded figure, set in a dim ancient-style indoor space with blurred warm glowing lantern lights in the background, from a vertical costume short drama",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "tilts his head slightly, stares towards the off-screen direction",
+        "expression": "stern, sharp and intense, with a piercing focused gaze"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The mysterious hidden core masked character makes his appearance, conveying a strong oppressive sense as he observes the target off-screen",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "A partial close-up of a character's traditional ancient costume, showing dark fabric with light diamond grid patterns, a wide black waist belt trimmed with red edges, plus vertical red decorative strips on the garment, with a content warning text on the left side of the frame.",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Only the torso and partial arm are visible, the figure is in motion with motion blur at the lower right of the frame indicating ongoing movement",
+        "expression": "No face is presented in the shot, facial expression cannot be observed"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Dimly lit night ancient Chinese costume scene, out-of-focus traditional historical tiled-roof building in the background",
+    "characters": [
+      {
+        "name": "Unknown masked man",
+        "action": "Wearing full black hooded robe with half face covered by carved silver mask, holding an old traditional notebook and writing with a brush pen, a sheathed ancient sword rests on his shoulder",
+        "expression": "Eyes half closed, calm and focused on the notebook"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The cloaked masked man is recording information on his notebook, the on-screen subtitle shows he is confirming his next target, noted as \"Next one\"",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Vertical screenshot from a historical ancient Chinese costume short drama, middle-aged noble man in traditional imperial-era attire, against a blurred background of festive decorative hangings",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "standing, one hand placed gently in front of his chest, looking forward ahead",
+        "expression": "carries a faint confident slight smile, looks calm and assured"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "A character explicitly declares his ambition that he will surely win first place in the selection competition and become the prince consort (imperial son-in-law/驸马)",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Outdoor night scene from a Chinese ancient costume short drama, with blurred flowering tree backdrop, soft dim ambient lighting",
+    "characters": [
+      {
+        "name": "Unknown (addressed as Niang/Mother)",
+        "action": "Stand with hands clasped in front of her waist, a person off-screen holds her arm",
+        "expression": "Soft gentle smile, looking toward the person who is speaking to her"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "A character off-screen calls this noble dressed woman 'Mother', marking a tender reunion moment between the two",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Night scene from a Chinese ancient costume short drama, blurred floral vegetation makes up the background, only half of a man in blue traditional Hanfu shows on the left frame, a formally dressed noble ancient Chinese woman stands in the center",
+    "characters": [
+      {
+        "name": "Unknown noble lady",
+        "action": "Standing facing the partially visible man at left, hands folded and tucked in her wide robe sleeves",
+        "expression": "Calculating, with a faint crafty smirk as she glances at the man opposite her"
+      },
+      {
+        "name": "Unknown man in blue Hanfu",
+        "action": "Stands face to face with the lady, most of his body is out of the shot",
+        "expression": "Not visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The lady proposes that their family father directly beat the targeted person to death instead of taking other redundant complicated measures",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Close-up shot of a lady in traditional ancient Chinese Hanfu, against a blurred dimly lit retro courtyard background, taken from a historical short drama",
+    "characters": [
+      {
+        "name": "Unknown Su household noble lady",
+        "action": "Stands gazing off to the side while speaking",
+        "expression": "Wide-eyed with slightly parted lips, showing a tense, stunned and focused expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The character raises the topic of the Su family's family assets, starting plot conflict related to the inheritance and control of the Su family business",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Night scene of ancient Chinese costume short drama, with dim blurred flowering plants as background, two people in traditional historical outfits interact with each other",
+    "characters": [
+      {
+        "name": "Unknown noble woman",
+        "action": "Stand with hands clasped in front of her belly, face the man on the left side and speak",
+        "expression": "Solemn, slightly anxious while gazing at the opposite person"
+      },
+      {
+        "name": "Unknown man",
+        "action": "Partially visible on the left frame, face the woman and listen to her",
+        "expression": "Facial area is blocked and not visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The noble woman in traditional formal hanfu asks the man about how many days are left for their pending planned event",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Night scene of Chinese ancient costume short drama, with blurred flowering plants as background, vertical reminder text printed on the left side of the frame",
+    "characters": [
+      {
+        "name": "Unknown noble lady",
+        "action": "Stand with hands gently folded in front of her abdomen, turn head to look at the person on her left",
+        "expression": "Warm sweet smile, soft gentle gaze at the opposite person"
+      },
+      {
+        "name": "Unknown person",
+        "action": "Stand opposite the lady, only partial figure in blue ancient robe is exposed",
+        "expression": "Expression is not visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The noble lady is having a pleasant friendly conversation with the opposite character",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Night scene at a traditional multi-story Chinese wooden waterside pavilion, warm light glows from the interior lattice windows, the building structure reflects on the calm green water surface below, two people in ancient costumes stand on the open waterfront platform of the pavilion",
+    "characters": [
+      {
+        "name": "Unknown female",
+        "action": "Standing on the wooden platform, facing the male character beside her",
+        "expression": "Not visible as she is mostly turned away from the camera"
+      },
+      {
+        "name": "Unknown male",
+        "action": "Standing close to the female character, facing her direction",
+        "expression": "Solemn and serious"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The two ancient costumed characters are having a private important conversation on the quiet waterside pavilion at night",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_012.jpg",
+    "frame_index": 11
+  },
+  {
+    "scene_description": "Nighttime historical drama scene of a traditional ancient Chinese carved wooden waterside pavilion courtyard, with warm lit interior windows, wooden rail walkway bridges over a lotus pond, dark quiet night sky",
+    "characters": [
+      {
+        "name": "Unknown ancient costume male",
+        "action": "Standing on the wooden bridge, slowly moving towards the black cloaked figure across the pond",
+        "expression": "Solemn, pensive"
+      },
+      {
+        "name": "Unknown hooded black-robed figure",
+        "action": "Standing motionless on the opposite side of the pond facing the pavilion",
+        "expression": "Face fully concealed, no visible expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "Two parties are about to have a secluded secret meeting in this private quiet waterside mansion courtyard at night",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_013.jpg",
+    "frame_index": 12
+  },
+  {
+    "scene_description": "Blurry motion capture of a night ancient costume combat scene, set in a traditional courtyard with vibrant red foliage trees in the background",
+    "characters": [
+      {
+        "name": "Unknown protagonist in light traditional robes",
+        "action": "Mid motion, wielding a long weapon to fight off attackers",
+        "expression": "Strained, fully focused on the ongoing combat"
+      },
+      {
+        "name": "Unknown hooded assailant",
+        "action": "Positioned in the foreground facing the protagonist, participating in the ambush attack",
+        "expression": "Face completely hidden by hood, no visible facial expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The protagonist is ambushed by hooded assassins, the two sides are in the middle of a close-quarters weapon fight at night",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_014.jpg",
+    "frame_index": 13
+  },
+  {
+    "scene_description": "Night scene of ancient Chinese courtyard wooden terrace, with out-of-focus foreground figure, classical outdoor tea table and stools, ornamental tree with red foliage in the background",
+    "characters": [
+      {
+        "name": "unknown foreground person",
+        "action": "standing at the left side of the frame facing the fallen man, completely out of focus",
+        "expression": "unidentifiable due to blurring"
+      },
+      {
+        "name": "ancient robed male",
+        "action": "reclining on the wooden floor of the terrace, one hand raised near his head, with a partially drawn sword beside his body",
+        "expression": "stunned, dazed with a bewildered, lost look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The male character collapses on the terrace after experiencing a shocking incident, gazing towards the standing person in front of him in a state of mental shock",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_015.jpg",
+    "frame_index": 14
+  },
+  {
+    "scene_description": "An ancient Chinese courtyard at night, with illuminated decorative red foliage in the background, dramatic contrasting warm and cool mood lighting over the wooden plank floor",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Stands on the wooden deck, holding a drawn long sword in his right hand, looking upwards toward something outside the frame",
+        "expression": "Shocked and stunned, eyes wide open, mouth slightly agape showing obvious disbelief"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This swordsman has just witnessed an unforeseen, shocking scene outside the frame, and shows a clear alarmed, disbelieving reaction at this critical plot moment",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_016.jpg",
+    "frame_index": 15
+  },
+  {
+    "scene_description": "Dim dusk exterior shot of a traditional ancient Chinese wooden architecture, warm candlelight glows from the inner room behind sheer curtains through the open main doorway",
+    "characters": [
+      {
+        "name": "unknown maid",
+        "action": "holding a round tray and walking out from the inner room towards the camera",
+        "expression": "calm, head slightly lowered"
+      },
+      {
+        "name": "unknown servant woman",
+        "action": "staying inside the inner room behind the leading maid",
+        "expression": "not clearly discernible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_017.jpg",
+    "frame_index": 16
+  },
+  {
+    "scene_description": "Low-light dark moody scene with cool blue toned lighting, set in a pitch black isolated shadowy space",
+    "characters": [
+      {
+        "name": "unknown masked man",
+        "action": "sits in shadow, holds and reads a small traditional thread-bound book, a long sword is strapped to his back",
+        "expression": "calm and focused, eyes lowered towards the book pages"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This mysterious hooded half-masked hidden character reviews an ancient manuscript alone in a secluded dark space, setting up his secretive identity.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第4集.mp4\\第4集\\scene_018.jpg",
+    "frame_index": 17
+  }
+]

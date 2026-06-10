@@ -1,0 +1,382 @@
+[
+  {
+    "scene_description": "古装剧室外公开活动场景，数位古代装束人物围坐在摆放青瓷盖碗茶具的桌旁，背景是装饰有红色绸带的古风官署/市井陈设",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "身着紫色暗纹传统官服、头戴黑色唐代制式官帽，端坐在桌旁，侧脸朝向画面左侧望向前方",
+        "expression": "神色肃穆沉静，没有明显的情绪波动"
+      },
+      {
+        "name": "unknown",
+        "action": "身着白色古装坐在紫衣男子的右侧，仅半侧身体和脸部边缘入镜",
+        "expression": "完全不可见"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Historical ancient Chinese palace ceremony scene, located in a royal courtyard with traditional red decorative backdrop",
+    "characters": [
+      {
+        "name": "Unknown senior court official",
+        "action": "Sits upright formally, gazing towards the left off-screen",
+        "expression": "Stern, solemn and wary, with a frowning grave look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The high-ranking official watches the ongoing palace ceremony with a tense heavy demeanor, suggesting he is confronting a serious unfavorable situation",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese imperial palace setting, court officials in traditional official robes gathered beside red carpeted palace steps",
+    "characters": [
+      {
+        "name": "unknown senior court official",
+        "action": "standing facing an off-screen person and speaking",
+        "expression": "dubious, slightly frowning, skeptical"
+      },
+      {
+        "name": "unknown court official in background",
+        "action": "standing behind the foreground official",
+        "expression": "faint smile, eyes half closed"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The senior court official expresses his skeptical doubt, questioning whether a specific unexpected third party will also participate in the event the group is assembled for",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese palace ceremonial venue laid with red carpets and decorated with red ceremonial drapes, a group of court officials in traditional historical official costumes gather together",
+    "characters": [
+      {
+        "name": "unknown elder court official",
+        "action": "Stands among other officials, speaks to his peers and makes a slight hand gesture",
+        "expression": "Mouth open, looks surprised and a little disapproving as he talks"
+      },
+      {
+        "name": "unknown young court official",
+        "action": "Stands behind the elder official, watching the crowd of officials",
+        "expression": "Has a faint amused smile, eyes half closed"
+      },
+      {
+        "name": "unknown partial court official",
+        "action": "Stands at the right edge of the frame as part of the official group",
+        "expression": "Half of his face is visible, gazing towards the speaking elder official"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The elder court official voices his surprise that a certain person is also attending this ongoing palace event",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Formal ancient Chinese imperial palace stone steps, with patterned ceremonial flags, an ornate imperial throne on the hall platform, and red carpet laid on a section of the stairs",
+    "characters": [
+      {
+        "name": "Unknown Emperor",
+        "action": "Standing under the imperial yellow ceremonial canopy on the palace platform, gazing out forward",
+        "expression": "Solemn, slightly frowning with a serious demeanor"
+      },
+      {
+        "name": "Unknown Armored General",
+        "action": "Standing next to the emperor, turning his head to face the emperor",
+        "expression": "Attentive and respectful"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The emperor and his trusted military general are observing and discussing a critical formal state ceremony or major public event at the palace entrance",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Outdoor scene of a historical short drama, the leading man in plain white traditional ancient Chinese robe stands in the center, partial figures of other characters appear at the frame edges, with blurred ancient building wall as the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "stands with hands clasped together in front of his lower abdomen",
+        "expression": "eyes closed, looks calm and gentle with a faint soft expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The character is delivering his line, conveying the meaning that the following arrangement can be regarded as bringing the person named Yu'er along",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese costume drama scene, set at a traditional official/palace venue entrance, with a table holding celadon teaware and dim sum in the foreground.",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "seated at the table, shifting his gaze to look at the surrounding people",
+        "expression": "wide-eyed, looks surprised and wary, mouth slightly parted"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The ancient official in purple patterned robe and black winged official hat shows a shocked, alert reaction to content he just heard during his conversation with surrounding people.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "An ancient costume scene located in a traditional palace or noble mansion hall, a person in heavy carved armor stands indoors",
+    "characters": [
+      {
+        "name": "unknown military officer",
+        "action": "Talking to the person standing opposite him",
+        "expression": "Solemn, with a serious and cautious warning look on his face"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The armored officer warns the other party not to commit the offense of deceiving the monarch",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Two armored imperial guards stand on the terrace of a traditional ancient Chinese palace, holding ceremonial wind instruments",
+    "characters": [
+      {
+        "name": "Unknown Guard 1",
+        "action": "Hold a large ornate carved bronze horn aloft with both hands, facing upward",
+        "expression": "Solemn, focused, gazing upwards seriously"
+      },
+      {
+        "name": "Unknown Guard 2",
+        "action": "Position a smaller red-decorated wind instrument at his mouth to prepare for blowing",
+        "expression": "Concentrated, fully focused on getting ready to play his instrument"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The guards are about to sound the ceremonial signal horns to mark the start of a major royal event or key plot announcement",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Close-up shot of a man in traditional ancient Chinese imperial ceremonial costume, set against a blurred palace architectural background",
+    "characters": [
+      {
+        "name": "Unknown (Ancient Chinese Emperor)",
+        "action": "Standing, facing to the right with mouth open, seemingly addressing an off-screen audience",
+        "expression": "Solemn and calm, looking towards the direction he is facing off-camera"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The emperor wearing the traditional beaded imperial crown (mianliu) and golden dragon embroidered formal robes is delivering a public address at a formal palace ceremony",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Outdoor still from a Chinese ancient costume historical short drama, with blurred distant greenery and pathway as background",
+    "characters": [
+      {
+        "name": "Unknown Young Noble",
+        "action": "Stands and gazes at something happening off-screen to his left",
+        "expression": "Mouth slightly parted, with a shocked, astonished focused expression"
+      },
+      {
+        "name": "Unknown Attendant",
+        "action": "Stands blurred in the background behind the leading character",
+        "expression": "Indistinct, no clear observable facial expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The foreground young man reacts with obvious surprise to an unexpected event unfolding outside the frame",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Warm toned ancient style scene, the right side of the frame is covered by a hanging bright red long curtain, the background is a dark ancient wooden lattice window, only part of the costume character's figure is exposed, and vertical compliance prompt text is displayed on the left side of the picture",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Wearing light-colored ancient costume with faint embroidered patterns, holding two thin branches decorated with red ornaments, most of the body is blocked by the red curtain on the right",
+        "expression": "The face is blocked and out of focus, so the specific expression cannot be identified"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "It is only an atmosphere paving shot related to ancient style wedding, no clear core plot event is presented",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_012.jpg",
+    "frame_index": 11
+  },
+  {
+    "scene_description": "Indoor scene with dark curtain background, warm bright backlight outlines the figure of a woman in traditional ancient Chinese costume, creating a soft hazy cinematic atmosphere",
+    "characters": [
+      {
+        "name": "Unknown ancient noble female character",
+        "action": "Stands upright, one hand gently rests near her chest holding the edge of her wide embroidered sleeve",
+        "expression": "Dignified and calm, gazing straight ahead"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This is the character's grand formal debut shot, showcasing her elegant royal-style full appearance",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_013.jpg",
+    "frame_index": 12
+  },
+  {
+    "scene_description": "A frame from a Chinese historical costume short drama, taken on the stone entrance platform of a traditional ancient palace building",
+    "characters": [
+      {
+        "name": "Unknown (high status imperial noble female)",
+        "action": "Standing on the front step, spreading arms slightly to adjust her wide formal ceremonial robe sleeves",
+        "expression": "Regal, solemn, eyes lowered with a calm dignified look"
+      },
+      {
+        "name": "Unknown (personal maid)",
+        "action": "Standing behind the noble lady with hands folded at her waist, accompanying her",
+        "expression": "Respectful, calm, looking straight ahead"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "An elaborately dressed imperial noble lady makes a stately formal public entrance out of the palace, escorted by her personal maid.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_014.jpg",
+    "frame_index": 13
+  },
+  {
+    "scene_description": "Ancient Chinese style outdoor courtyard scene, the background is blurred traditional ancient building and green vegetation",
+    "characters": [
+      {
+        "name": "Unknown maid",
+        "action": "Stand with hands folded on abdomen, look to the side and speak",
+        "expression": "Looks surprised and confused, mouth slightly open"
+      },
+      {
+        "name": "Unknown noble lady/princess",
+        "action": "Partially appears at the right of the frame, stands with head lowered",
+        "expression": "Downcast, eyes lowered"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The maid raises a doubt, wondering if the man they are talking about also intends to marry the princess, paving the way for follow-up plot conflict",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_015.jpg",
+    "frame_index": 14
+  },
+  {
+    "scene_description": "Screenshot of a vertical ancient Chinese costume short drama, set in a traditional ancient building scene, with vertical compliance reminder text on the left side of the frame",
+    "characters": [
+      {
+        "name": "Unknown noble female character",
+        "action": "Sits upright, gazing downward toward the lower direction",
+        "expression": "Somber, melancholic, with obvious helpless regret and a heavy look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "This noble dressed lady says the line that the situation counts as a family misfortune, pushing forward the plot related to her family's unfortunate incident",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_016.jpg",
+    "frame_index": 15
+  },
+  {
+    "scene_description": "A man in formal ancient Chinese noble costume stands outdoors, with a blurred traditional ancient palace building as the background",
+    "characters": [
+      {
+        "name": "Unknown ancient aristocrat",
+        "action": "Clasps both hands together in front of his lower abdomen, gazing at the character out of the frame in front of him",
+        "expression": "Calm, with a faint gentle smile"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_017.jpg",
+    "frame_index": 16
+  },
+  {
+    "scene_description": "Vertical frame from a historical Chinese short drama, outdoor formal ceremonial setting with red festive drapery overhead, blurred stone walls and out-of-focus armored guards in the background",
+    "characters": [
+      {
+        "name": "Unknown (leading ancient warrior noble)",
+        "action": "Standing upright, holding the hilt of his sheathed sword, turning his head to look at something off-frame",
+        "expression": "Stern, sharp, wary and alert facial expression"
+      },
+      {
+        "name": "Unknown (secondary male character)",
+        "action": "Standing beside the lead character, facing downward",
+        "expression": "Calm, neutral low-gaze expression"
+      },
+      {
+        "name": "Unknown (armored guard extra)",
+        "action": "Standing on guard duty in the blurred background",
+        "expression": "Indistinct, no clear visible expression"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The noble warrior protagonist attending the public formal ceremony spots an unexpected unplanned development off-screen and directs his full attention to it",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_018.jpg",
+    "frame_index": 17
+  },
+  {
+    "scene_description": "Still frame from a Chinese historical short drama, set at a traditional ancient Chinese ceremonial venue with dark wooden architecture and red ceremonial drapes in the background",
+    "characters": [
+      {
+        "name": "Unknown (Imperial Noble Female)",
+        "action": "Seated on a wooden chair, holding two thin red-tipped ceremonial sticks, head bowed looking down at the items in her hands",
+        "expression": "Solemn, subdued and quiet, eyes lowered demurely"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The female protagonist in full formal royal ceremonial attire is preparing to take part in an important imperial ritual, most likely a royal wedding ceremony",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_019.jpg",
+    "frame_index": 18
+  },
+  {
+    "scene_description": "Outdoor courtyard scene of an ancient Chinese costume short drama, the blurred background shows traditional ancient buildings and ceremonial weapons decorated with red tassels",
+    "characters": [
+      {
+        "name": "Unknown aristocratic male",
+        "action": "Stand with hands folded in front of the lower abdomen, look down to the side while speaking",
+        "expression": "Mouth is open, eyes droop downward, looks like speaking in a deliberate critical or teasing tone"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The character is talking and hinting that he will specifically target a certain person in the following plot",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_020.jpg",
+    "frame_index": 19
+  },
+  {
+    "scene_description": "High-angle overlooking view of a large ancient imperial palace courtyard, with red carpet, ceremonial drums printed with character 'Yan', ritual lamp stands, and traditional Chinese palace buildings backed by dense green forest, all personnel are in place for a formal royal ceremony.",
+    "characters": [
+      {
+        "name": "Monarch and close attendants",
+        "action": "Sit on the high steps of the main hall, overlooking the whole courtyard",
+        "expression": "Solemn and dignified"
+      },
+      {
+        "name": "Court officials and nobles",
+        "action": "Sit or stand in designated areas on both sides of the courtyard, waiting for the ceremony to start",
+        "expression": "Serious and focused"
+      },
+      {
+        "name": "Imperial guards",
+        "action": "Stand on guard around the venue with weapons",
+        "expression": "Alert and formal"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The formal royal ceremony of the Yan dynasty is about to officially start, all relevant participants have taken their designated positions.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第8集.mp4\\第8集\\scene_021.jpg",
+    "frame_index": 20
+  }
+]

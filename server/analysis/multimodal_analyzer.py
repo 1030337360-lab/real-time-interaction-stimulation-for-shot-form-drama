@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import List, Dict, Optional
 
 from openai import OpenAI
-
+import json
 
 import hashlib
 
@@ -36,17 +36,29 @@ class FrameCache:
         with open(self.cache_file, "w", encoding="utf-8") as f:
             json.dump(self._data, f, ensure_ascii=False, indent=2)
 
+    def flush_and_release(self):
+        """写回磁盘并释放内存中的 dict"""
+        if self._data is not None:
+            self._save()
+            self._data = None
+
+    def clear(self):
+        """清空所有缓存（内存 + 磁盘）"""
+        self._data = {}
+        self._save()
+
     @staticmethod
     def hash_frame(image_path: str) -> str:
         with open(image_path, "rb") as f:
             return hashlib.sha256(f.read()).hexdigest()[:16]
 
-    def get(self, frame_path: str, model: str) -> dict | None:
-        key = f"{self.hash_frame(frame_path)}:{model}"
+    def get(self, frame_path: str, model: str, tag: str = "scene") -> dict | None:
+        """tag 区分分析目的: scene / speaker / ... 防止不同类型覆盖"""
+        key = f"{self.hash_frame(frame_path)}:{model}:{tag}"
         return self._load().get(key)
 
-    def set(self, frame_path: str, model: str, result: dict):
-        key = f"{self.hash_frame(frame_path)}:{model}"
+    def set(self, frame_path: str, model: str, result: dict, tag: str = "scene"):
+        key = f"{self.hash_frame(frame_path)}:{model}:{tag}"
         self._load()[key] = result
         self._save()
 
@@ -95,9 +107,9 @@ class MultimodalAnalyzer:
         Returns:
             分析结果字典
         """
-        # 缓存检查
+        # 缓存检查 (tag="scene" 区分于 speaker identification)
         if use_cache and self.cache:
-            cached = self.cache.get(image_path, self.model)
+            cached = self.cache.get(image_path, self.model, tag="scene")
             if cached:
                 print(f"    [缓存命中] {Path(image_path).name}")
                 return cached
@@ -105,14 +117,16 @@ class MultimodalAnalyzer:
         with open(image_path, "rb") as f:
             img_base64 = base64.b64encode(f.read()).decode("utf-8")
 
-        prompt = """分析这张截图，提取以下信息:
-1. 场景描述（简短）
-2. 出现的人物（名字、动作、表情）
-3. 是否有对话
-4. 是否是关键场景（剧情转折、重要事件等）
-5. 关键事件描述（若无则填null）
+        prompt = """Analyze this screenshot. Return ONLY JSON with these English keys:
+{
+    "scene_description": "brief scene description",
+    "characters": [{"name": "name or unknown", "action": "what they are doing", "expression": "facial expression"}],
+    "has_dialogue": true/false,
+    "is_key_scene": true/false,
+    "key_event": "key event description or null"
+}
 
-请用JSON格式输出，只输出JSON，不要其他内容。"""
+只输出JSON，不要其他内容。"""
 
         response = self.client.chat.completions.create(
             model=self.model,
@@ -139,6 +153,7 @@ class MultimodalAnalyzer:
         content = response.choices[0].message.content
         # Extract first complete JSON object (brace-counting, avoids greedy match)
         json_start = content.find('{')
+        result = None
         if json_start >= 0:
             brace_count = 0
             json_end = json_start
@@ -155,36 +170,53 @@ class MultimodalAnalyzer:
                 result = json.loads(json_str)
             except json.JSONDecodeError:
                 result = None
+        
+        if result is not None and self.cache:
+            self.cache.set(image_path, self.model, result)
+        
+        if result:
+            return result
         else:
-            result = None
-        json_match = result
-
-        if json_match is not None:
-            if use_cache and self.cache:
-                self.cache.set(image_path, self.model, json_match)
-            return json_match
-        return {"error": f"无法解析响应: {content}"}
+            return {"error": f"无法解析响应: {content}"}
 
     def analyze_frames_batch(
         self,
         frame_paths: List[str],
         delay: float = 0.5,
-        retry_times: int = 3
+        retry_times: int = 3,
+        checkpoint_path: str = None
     ) -> List[Dict]:
         """
-        批量分析帧（带限流避免限流）
+        批量分析帧（带限流避免限流 + 增量保存）
 
         Args:
             frame_paths: 帧路径列表
             delay: 请求间隔（秒）
             retry_times: 失败重试次数
+            checkpoint_path: 增量保存路径，每分析一帧就写入，中断不丢数据
 
         Returns:
             分析结果列表
         """
-        results = []
+        import json as _json
 
-        for i, frame_path in enumerate(frame_paths):
+        # 检查是否有断点可恢复
+        results = []
+        start_idx = 0
+        if checkpoint_path:
+            cp = Path(checkpoint_path)
+            if cp.exists():
+                try:
+                    with open(cp, "r", encoding="utf-8") as f:
+                        results = _json.load(f)
+                    start_idx = len(results)
+                    if start_idx > 0:
+                        print(f"[断点恢复] 已有 {start_idx}/{len(frame_paths)} 帧，从第 {start_idx+1} 帧继续")
+                except Exception:
+                    pass
+
+        for i in range(start_idx, len(frame_paths)):
+            frame_path = frame_paths[i]
             print(f"分析帧 {i+1}/{len(frame_paths)}: {Path(frame_path).name}")
 
             for retry in range(retry_times):
@@ -196,6 +228,13 @@ class MultimodalAnalyzer:
 
                     if "error" in result:
                         print(f"  警告: {result['error']}")
+
+                    # 增量保存：每分析完一帧立即写入
+                    if checkpoint_path:
+                        cp_dir = Path(checkpoint_path).parent
+                        cp_dir.mkdir(parents=True, exist_ok=True)
+                        with open(checkpoint_path, "w", encoding="utf-8") as f:
+                            _json.dump(results, f, ensure_ascii=False, indent=2)
 
                     break
                 except Exception as e:
@@ -209,6 +248,10 @@ class MultimodalAnalyzer:
                             "frame_path": frame_path,
                             "frame_index": i
                         })
+                        # 失败帧也要保存
+                        if checkpoint_path:
+                            with open(checkpoint_path, "w", encoding="utf-8") as f:
+                                _json.dump(results, f, ensure_ascii=False, indent=2)
 
             if i < len(frame_paths) - 1:
                 time.sleep(delay)
@@ -275,6 +318,12 @@ class MultimodalAnalyzer:
         Returns:
             {"speaker_name": "张三", "confidence": 0.9, "description": "..."}
         """
+        # 缓存检查 (tag="speaker" 区分于 scene analysis)
+        if self.cache:
+            cached = self.cache.get(image_path, self.model, tag="speaker")
+            if cached:
+                return cached
+
         with open(image_path, "rb") as f:
             img_base64 = base64.b64encode(f.read()).decode("utf-8")
 
@@ -322,11 +371,64 @@ class MultimodalAnalyzer:
                         json_end = k + 1
                         break
             try:
-                return json.loads(content[json_start:json_end])
+                result = json.loads(content[json_start:json_end])
+                if self.cache:
+                    self.cache.set(image_path, self.model, result, tag="speaker")
+                return result
             except json.JSONDecodeError:
                 pass
         return {"speaker_name": "unknown", "confidence": 0.0, "evidence": "parse failed"}
 
+
+    def analyze_expression(self, image_path: str) -> Dict:
+        """分析画面中人物的表情感染力 (0-5)
+
+        Returns:
+            {"intensity": 3, "emotion": "震惊", "evidence": "双眼圆睁嘴巴大张"}
+        """
+        with open(image_path, "rb") as f:
+            img_base64 = base64.b64encode(f.read()).decode("utf-8")
+
+        prompt = """分析这张截图中人物的表情感染力，打分0-5。
+
+0-面无表情: 人物面部平静，无明显情绪。例: "男子面无表情直视前方"
+1-微表情: 轻微情绪流露，嘴角微动或眉头轻皱。例: "女子轻皱眉头，若有所思"
+2-明显情绪: 清晰的情绪表达，微笑/皱眉/瞪眼。例: "男子露出微笑，眼神温和"
+3-强烈情绪: 夸张的面部表情，大笑/愤怒/悲伤。例: "女子怒目圆睁，咬牙切齿"
+4-极端情绪: 面部扭曲，大哭/暴怒/极度恐惧。例: "男子面目狰狞，青筋暴起"
+5-失控: 崩溃大哭、歇斯底里、面部完全失控。例: "女子瘫坐地上掩面嚎啕，面部扭曲"
+
+返回JSON: {"intensity":0-5,"emotion":"情绪类型","evidence":"引用画面关键特征"}
+只输出JSON。"""
+
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[{
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img_base64}"}},
+                    {"type": "text", "text": prompt}
+                ]
+            }],
+            max_tokens=256
+        )
+
+        content = response.choices[0].message.content
+        import json as _json
+        start = content.find('{')
+        if start >= 0:
+            brace_count = 0
+            for k in range(start, len(content)):
+                if content[k] == '{': brace_count += 1
+                elif content[k] == '}':
+                    brace_count -= 1
+                    if brace_count == 0:
+                        try:
+                            return _json.loads(content[start:k+1])
+                        except _json.JSONDecodeError:
+                            pass
+                        break
+        return {"intensity": 0, "emotion": "unknown", "evidence": "parse failed"}
     def test_connection(self) -> bool:
         """测试API连接"""
         try:

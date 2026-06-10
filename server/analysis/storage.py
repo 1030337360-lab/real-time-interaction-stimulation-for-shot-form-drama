@@ -9,8 +9,13 @@ from typing import Optional, Dict
 class AnalysisStorage:
     """分析结果存储 - 使用独立文件，video_url作为key"""
 
-    def __init__(self, json_path: str):
-        self.path = Path(json_path)
+    def __init__(self, json_path: str, drama_name: str = None):
+        # 支持按剧名分文件: analysis_{drama}.json
+        base_path = Path(json_path)
+        if drama_name:
+            self.path = base_path.parent / f"analysis_{drama_name}.json"
+        else:
+            self.path = base_path
         self.path.parent.mkdir(parents=True, exist_ok=True)
 
         if not self.path.exists():
@@ -68,13 +73,6 @@ class AnalysisStorage:
         data = self._load_data()
         return video_url in data
 
-    def delete_analysis(self, video_url: str):
-        """删除剧集分析结果"""
-        data = self._load_data()
-        if video_url in data:
-            del data[video_url]
-            self._save_data(data)
-            print(f"已删除 {video_url} 的分析结果")
     def delete_analysis(self, video_url: str):
         """删除剧集分析结果"""
         data = self._load_data()

@@ -1,0 +1,1574 @@
+{
+  "episode_title": "北派寻宝笔记",
+  "video_url": "北派寻宝笔记/第73集.mp4",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Close-up outdoor portrait of an elderly man in traditional period folk costume, from a licensed Chinese vertical web micro drama",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "audio_text": "您 算 出 什 么 了",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "audio_text": "您 算 出 什 么 了",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Daytime outdoor urban riverside scene, the background is blurred with greenery and distant high-rise buildings, with soft natural ambient light",
+      "visual_characters": [
+        "Unknown young man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.05,
+      "highlight_reasons": []
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "Hazy outdoor waterside location, with blurred distant urban scenery in the background, two people facing each other for interaction",
+      "visual_characters": [
+        "Unknown elderly fortune-teller styled role",
+        "Unknown visitor character"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.415,
+      "highlight_reasons": [
+        "表情感染(0.40)",
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "Soft daytime outdoor environment, blurred low-rise residential houses and greenery in the distant background",
+      "visual_characters": [
+        "Unknown young male"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.345,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "Retro 1980s style domestic family dining scene, the room has vintage wall decor, the dining table is covered with a checkered tablecloth, placed with blue and white porcelain tableware and home-cooked dishes",
+      "visual_characters": [
+        "Unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "audio_text": "水 浅 池 子 深 池 浅 王 八 多 呀 你 呢 就 是 这 池 子 里 最 值 钱 的 王 八 哼 可 惜 了 逃 不 过 命 运 最 后 让 人 宰 了 做 成 王 八 蛋 你 骂 谁 王 八 蛋 呢 老 东 西 啊 你 就 别 着 急 嘛 以 后 你 就 全 知 道 了 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "Warm sunlit retro 1990s style Chinese family dining room, three people sit around a dining table covered with pale plaid tablecloth [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown middle-aged woman",
+        "Unknown young man",
+        "Unknown teenage girl in school tracksuit"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.345,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.8,
+      "visual_description": "Warm retro domestic dining scene, in a vintage style old residential home dining area with wood furniture [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown middle-aged woman",
+        "Unidentified partial person"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.522,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.44,
+      "highlight_reasons": [
+        "用词激烈(0.80)",
+        "剧情反转(0.80)"
+      ]
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "Indoor residential space with a blurred arched doorway in the background, focused on a man acting aggressively to demand debt repayment",
+      "visual_characters": [
+        "Unknown debt collector"
+      ],
+      "visual_change": 0.8,
+      "highlight_score": 0.555,
+      "highlight_reasons": [
+        "表情感染(0.80)",
+        "剧情反转(0.50)",
+        "音画联动(0.40)"
+      ]
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": "Indoor setting of a retro domestic short drama, with a 1990s style residential interior background [剧情转折:critical]",
+      "visual_characters": [
+        "unknown (gangster role)"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.64,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.55,
+      "highlight_reasons": [
+        "用词激烈(1.00)",
+        "剧情反转(1.00)"
+      ]
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "audio_text": "跟 我 走 我 都 说 了 我 不 是 了 哦 时 隔 多 年 后 我 才 明 白 他 的 那 些 话 可 谓 是 字 字 珠 呀 请 他 何 去 何 从",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "audio_text": "还 不 给 人 道 歉",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "audio_text": "还 不 给 人 道 歉",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "audio_text": "你 连 问 都 没 问 清 楚 怎 么 就 能 断 定 他 会 电 鱼 呢 我 这 不 是 怕 他 抓 白 江 豚 吗",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "audio_text": "你 连 问 都 没 问 清 楚 怎 么 就 能 断 定 他 会 电 鱼 呢 我 这 不 是 怕 他 抓 白 江 豚 吗",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "audio_text": "你 连 问 都 没 问 清 楚 怎 么 就 能 断 定 他 会 电 鱼 呢 我 这 不 是 怕 他 抓 白 江 豚 吗",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "audio_text": "你 连 问 都 没 问 清 楚 怎 么 就 能 断 定 他 会 电 鱼 呢 我 这 不 是 怕 他 抓 白 江 豚 吗",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "audio_text": "你 连 问 都 没 问 清 楚 怎 么 就 能 断 定 他 会 电 鱼 呢 我 这 不 是 怕 他 抓 白 江 豚 吗",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "audio_text": "抓 一 个 悬 赏 有 五 百 块 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "audio_text": "抓 一 个 悬 赏 有 五 百 块 呢",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "audio_text": "咱 家 现 在 缺 钱 啊 那 也 不 能 冤 枉 人",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "audio_text": "咱 家 现 在 缺 钱 啊 那 也 不 能 冤 枉 人",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "audio_text": "咱 家 现 在 缺 钱 啊 那 也 不 能 冤 枉 人",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "audio_text": "好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "audio_text": "知 道 了",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "audio_text": "对 不 起 啊",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "audio_text": "来 小 同 学",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "audio_text": "吃 菜 哦",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "audio_text": "李 大 臣",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "audio_text": "给 的 钱",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "audio_text": "赶 紧 出 来 还 钱",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "audio_text": "赶 紧 出 来 还 钱",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "audio_text": "再 不 出 来 还 钱",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "audio_text": "我 就 把 你 老 头 孩 子 全 部 干",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "audio_text": "我 就 把 你 老 头 孩 子 全 部 干",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "audio_text": "他 妈 的 有 钱 吃 鸡 蛋 没 钱 还 老 子",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "audio_text": "他 妈 的 有 钱 吃 鸡 蛋 没 钱 还 老 子",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "audio_text": "他 妈 的 有 钱 吃 鸡 蛋 没 钱 还 老 子",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "audio_text": "他 妈 的 有 钱 吃 鸡 蛋 没 钱 还 老 子",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "audio_text": "让 你 们 吃",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "audio_text": "有 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "audio_text": "你",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    }
+  ],
+  "highlights": [
+    {
+      "start": 7.0,
+      "end": 83.0,
+      "peak_score": 0.64,
+      "reasons": [
+        "剧情反转(0.80)",
+        "音画联动(0.40)",
+        "剧情反转(0.50)",
+        "用词激烈(1.00)",
+        "剧情反转(1.00)",
+        "用词激烈(0.80)",
+        "表情感染(0.80)",
+        "表情感染(0.40)"
+      ],
+      "reason_text": "剧情反转(0.80), 音画联动(0.40), 剧情反转(0.50), 用词激烈(1.00), 剧情反转(1.00), 用词激烈(0.80), 表情感染(0.80), 表情感染(0.40)"
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "peak_score": 0.275,
+      "reasons": [
+        "剧情反转(0.50)"
+      ],
+      "reason_text": "剧情反转(0.50)"
+    }
+  ],
+  "stats": {
+    "total_segments": 113,
+    "highlights_count": 2,
+    "avg_highlight_score": 0.2152,
+    "peak_highlight": 0.64
+  }
+}

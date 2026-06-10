@@ -1,0 +1,2832 @@
+{
+  "episode_title": "天下第一纨绔",
+  "video_url": "天下第一纨绔/第3集.mp4",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Tense conflict scene set in a traditional ancient Chinese noble family courtyard, from a historical costume short drama",
+      "visual_characters": [
+        "Unknown (Household Patriarch)",
+        "Unknown (Kneeling female family member)",
+        "Unknown (Background servants)"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.08,
+      "highlight_reasons": [
+        "画面变化(0.40)"
+      ]
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Outdoor ancient palace courtyard setting, two people in matching pale white embroidered traditional Chinese hanfu are having a close tense interaction",
+      "visual_characters": [
+        "Unknown male royal/noble",
+        "Unknown female character"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Ancient palace courtyard scene from a historical Chinese short drama, two characters in traditional imperial-style hanfu stand closely together",
+      "visual_characters": [
+        "Unknown Noble Palace Woman",
+        "Unknown Royal Man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Outdoor ancient Chinese costume garden setting, with red autumn maple foliage in the background, two formally dressed nobility in traditional hanfu face an off-screen character",
+      "visual_characters": [
+        "Unknown (Noble Madam)",
+        "Unknown (Young Noble Heir)"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Outdoor ancient Chinese courtyard, blurred traditional vintage palace-style buildings in the background, two characters wear light-colored embroidered ancient costumes",
+      "visual_characters": [
+        "Unknown female concubine",
+        "Unknown noble male"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Blurred outdoor courtyard setting from an ancient Chinese costume drama, centered on a middle-aged man in elaborate traditional noble robes",
+      "visual_characters": [
+        "unknown senior ancient noble/official"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Blurred outdoor ancient Chinese courtyard setting, with traditional wooden architecture and green plants in the background [剧情转折:high(重要推进)]",
+      "visual_characters": [
+        "Unknown man in grey ancient Hanfu",
+        "Unknown partially visible character"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Outdoor ancient Chinese costume short drama scene, the background shows blurred distant yard and weapon stands, presenting a traditional historical setting",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Ancient Chinese style outdoor courtyard scene, the background is blurred with traditional buildings and green plants, vertical text on the left side reminds the plot is fictional and guides the audience to establish correct values",
+      "visual_characters": [
+        "Unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Close-up shot of two characters in ancient Chinese historical/xianxia costume, set against a blurred warm outdoor background [剧情转折:high(重要推进)]",
+      "visual_characters": [
+        "Unknown male noble",
+        "Unknown female character (partial view)"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "古装题材短剧的背影镜头，三人行走在中式古宅旁的木质栈道上，前景有模糊的旁观者虚影，画面侧边附带剧情合规提示文字",
+      "visual_characters": [
+        "中年古装女子（疑似母亲）",
+        "中年古装男子（疑似父亲）",
+        "年轻古装男子"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.418,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "画面变化(0.40)",
+        "音视同步(0.34)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "An ancient Chinese historical drama scene at the open porch of a traditional wooden aristocratic residence, framed by red flowering branches and light beige curtains.",
+      "visual_characters": [
+        "Unknown son of the family",
+        "Unknown female family member",
+        "Unknown senior male family head",
+        "Unknown servants"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "An ancient Chinese costume mourning scene, pink flower petals are falling all around, two characters kneel in front of a white-covered bier [剧情转折:high(重要推进)]",
+      "visual_characters": [
+        "Unknown Imperial Noble Lady",
+        "Unknown Young Prince"
+      ],
+      "visual_change": 0.6,
+      "highlight_score": 0.484,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "画面变化(0.60)",
+        "音视同步(0.51)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Close-up frame of an ancient Chinese costume drama, with soft hazy lighting, showing a traditionally dressed woman hugging a crying little child [剧情转折:high(重要推进)]",
+      "visual_characters": [
+        "Unknown ancient noble lady",
+        "Unknown young child"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.418,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "画面变化(0.40)",
+        "音视同步(0.34)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Tense scene set in a softly lit traditional ancient Chinese wooden courtyard, it is a historical short drama shot with plot disclaimer text displayed on the left edge",
+      "visual_characters": [
+        "unknown noble woman"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Softly lit blurred setting of a traditional ancient Chinese wooden building corridor",
+      "visual_characters": [
+        "Unknown young ancient noble boy"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "Warm sunlit ancient Chinese traditional wooden courtyard corridor, from a costume short drama",
+      "visual_characters": [
+        "Unknown noble lady"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "A softly blurred classical ancient Chinese interior, a little boy in noble ancient costume leans against a carved wooden pillar",
+      "visual_characters": [
+        "Unknown young noble child"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.353,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 117.0,
+      "end": 118.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 118.0,
+      "end": 119.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 120.0,
+      "end": 121.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 121.0,
+      "end": 122.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 124.0,
+      "end": 125.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 125.0,
+      "end": 126.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 126.0,
+      "end": 127.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 127.0,
+      "end": 128.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 128.0,
+      "end": 129.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 129.0,
+      "end": 130.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 130.0,
+      "end": 131.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 131.0,
+      "end": 132.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 132.0,
+      "end": 133.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 133.0,
+      "end": 134.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 134.0,
+      "end": 135.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 135.0,
+      "end": 136.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 136.0,
+      "end": 137.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 137.0,
+      "end": 138.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 138.0,
+      "end": 139.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 139.0,
+      "end": 140.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 140.0,
+      "end": 141.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 141.0,
+      "end": 142.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 142.0,
+      "end": 143.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 143.0,
+      "end": 144.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 144.0,
+      "end": 145.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 145.0,
+      "end": 146.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 147.0,
+      "end": 148.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 148.0,
+      "end": 149.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 150.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 150.0,
+      "end": 151.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 151.0,
+      "end": 152.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 152.0,
+      "end": 153.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 153.0,
+      "end": 154.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 154.0,
+      "end": 155.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 155.0,
+      "end": 156.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 156.0,
+      "end": 157.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 157.0,
+      "end": 158.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 158.0,
+      "end": 159.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 159.0,
+      "end": 160.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 160.0,
+      "end": 161.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 161.0,
+      "end": 162.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 162.0,
+      "end": 163.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 163.0,
+      "end": 164.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 164.0,
+      "end": 165.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 165.0,
+      "end": 166.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 167.0,
+      "end": 168.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 168.0,
+      "end": 169.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 169.0,
+      "end": 170.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 170.0,
+      "end": 171.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 171.0,
+      "end": 172.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 172.0,
+      "end": 173.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 173.0,
+      "end": 174.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 174.0,
+      "end": 175.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 175.0,
+      "end": 176.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 176.0,
+      "end": 177.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 177.0,
+      "end": 178.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 178.0,
+      "end": 179.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 180.0,
+      "end": 181.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 181.0,
+      "end": 182.0,
+      "audio_text": "跪 下 爹 以 是 把 你 的 个 你 你 你 你 你 你 你 的 的 爹 你 娘 他 娘 的 的 弟 你 你 你 你 你 是 你 娘 的 亲 你 一 定 你 能 你 你 你 你 你 只 是 你 娘 你 的 弟 你 才 能 把 他 一 个 动 弟 必 会 得 到 老 爷 的 怀 物 你 你 小 你 主 你 是 他 娘 亲 的 原 因 不 受 老 爷 的 宠 爱 娘 只 有 把 她 养 成 一 个 废 物 才 能 保 把 你 继 承 人 的 废 物 娘 你 放 心 娘 是 是 把 朝 成 相 之 弟 便 告 告 你 你 爹 娘 杀 了 娘 你 能 你 你 你 我 你 只 只 能 待 待 一 个 你 你 你 你 会 是 你 你 他 老 亲 这 样 的",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.85,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.287,
+      "highlight_reasons": [
+        "音频情绪(0.85)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 182.0,
+      "end": 183.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 183.0,
+      "end": 184.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    }
+  ],
+  "highlights": [
+    {
+      "start": 3.0,
+      "end": 182.0,
+      "peak_score": 0.484,
+      "reasons": [
+        "画面变化(0.40)",
+        "音频情绪(0.85)",
+        "画面变化(0.60)",
+        "关键词触发",
+        "音视同步(0.34)",
+        "音视同步(0.51)"
+      ],
+      "reason_text": "画面变化(0.40), 音频情绪(0.85), 画面变化(0.60), 关键词触发, 音视同步(0.34), 音视同步(0.51)"
+    }
+  ],
+  "stats": {
+    "total_segments": 184,
+    "highlights_count": 1,
+    "avg_highlight_score": 0.2864,
+    "peak_highlight": 0.484
+  }
+}

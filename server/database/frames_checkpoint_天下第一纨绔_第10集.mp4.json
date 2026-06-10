@@ -1,0 +1,192 @@
+[
+  {
+    "scene_description": "Screenshot of a historical Chinese costume short drama, a man wearing elaborate carved ancient general armor stands in front of a red palace-style background, with a partial figure in green robe visible at the right edge of the frame",
+    "characters": [
+      {
+        "name": "Unknown (Ancient Military General)",
+        "action": "Standing facing the person on his right side, speaking to the off-frame person",
+        "expression": "Solemn and calm, with a pre-cognizant look that shows he had foreseen this situation"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The armored general confirms that the person he had been anticipating has finally arrived, kicking off the follow-up plot that he expected to happen",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Outdoor ancient Chinese palace courtyard scene, with traditional vintage palace building as background, people in traditional ancient costumes gathered in the public area",
+    "characters": [
+      {
+        "name": "Unknown senior official",
+        "action": "Pointing his right index finger forward while speaking out loud",
+        "expression": "Stern and indignant, looks extremely severe and compelling"
+      },
+      {
+        "name": "Unknown civilian/attendant",
+        "action": "Standing right behind the senior official, opening his mouth and raising one hand",
+        "expression": "Aggrieved and excited, apparently echoing the official's demand"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The high-ranking purple-robed official publicly shouts the order to force the target person to get out of the Great Yan dynasty territory",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Outdoor scene of a Chinese ancient costume short drama, with hazy distant traditional ancient architecture in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Standing in the foreground, his head slightly turned to his own right side",
+        "expression": "Arrogant, with a smug and defiant demeanor"
+      },
+      {
+        "name": "unknown",
+        "action": "Standing still in the out-of-focus background as a guard/attendant",
+        "expression": "Face is blurry, no clear observable facial expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The character dressed in elaborate exotic/foreign noble robes makes an entrance, delivering the provocative line \"Why can't I come\" to challenge the other party who doubts his appearance",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Outdoor shot from a costume vertical short drama, with blurred green vegetation and a distant out-of-focus figure in purple traditional robe in the background",
+    "characters": [
+      {
+        "name": "unknown villain",
+        "action": "stands with arms crossed, a katana slung over his shoulder, making a demand to the opposing side",
+        "expression": "smug and arrogant, eyes half closed with a complacent defiant look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The armed antagonist publicly threatens the imperial party to hand over the princess, triggering an open confrontation conflict",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "Close-up shot of a fictional ancient Chinese imperial monarch from a costume short drama, framed by the hanging beaded strands of his traditional ceremonial emperor crown, with a red palace background",
+    "characters": [
+      {
+        "name": "Unknown Ancient Emperor",
+        "action": "Stands still, gazing off-camera to his left through the beaded tassels of his crown",
+        "expression": "Solemn, slightly stunned and serious, with a focused attentive gaze"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The emperor is reacting to a major, important development that has just unfolded in the imperial court",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Outdoor historical palace courtyard setting from a Chinese ancient costume drama, with blurred background figures including an armored guard",
+    "characters": [
+      {
+        "name": "Unknown Tang-style official",
+        "action": "Standing still in formal purple court official attire",
+        "expression": "Eyes closed, brows furrowed, showing a weary, exasperated and disapproving look"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": false,
+    "key_event": "The official expresses a negative, reluctant reaction to the ongoing court-related matter",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "An ancient Chinese palace ceremonial scene, the setting is decorated with red drapes and golden palace-style backdrop",
+    "characters": [
+      {
+        "name": "unknown ancient emperor",
+        "action": "sits upright formally, his hands rest on the scroll in front of him, speaking to the front",
+        "expression": "stern and solemn, with a serious focused gaze towards the audience"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The emperor proposes that the three parties can jointly divide and rule the realm, delivering a critical political statement in the court meeting",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Close-up shot of a grand formal ancient Chinese palace ceremony, with the central figure in full imperial ceremonial attire",
+    "characters": [
+      {
+        "name": "Unknown (Fictional Ancient Chinese Emperor)",
+        "action": "Seated on the throne, resting both hands on the edge of his imperial robe, gazing straight ahead",
+        "expression": "Solemn and dignified, mouth slightly open as he is mid-speech"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The emperor is issuing an official edict or formally addressing the assembled court personnel during a grand royal event",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "An ancient imperial palace open-air ceremonial platform, paved with red carpets, with traditional palace architecture and distant mountains in the background, belonging to a historical costume drama setting",
+    "characters": [
+      {
+        "name": "Unknown visiting prince (left)",
+        "action": "Standing on the foreground red carpet, holding a sheathed sword",
+        "expression": "Solemn and serious"
+      },
+      {
+        "name": "Unknown visiting prince (middle)",
+        "action": "Standing on the foreground red carpet in ornate golden ceremonial robe",
+        "expression": "Calm and composed"
+      },
+      {
+        "name": "Unknown visiting prince (right)",
+        "action": "Standing on the foreground red carpet in rugged heavy warrior armor",
+        "expression": "Stern and unsmiling"
+      },
+      {
+        "name": "Unknown royal host (white robe)",
+        "action": "Standing on the higher platform behind the three princes, facing the foreground",
+        "expression": "Calm, observing the reception scene"
+      },
+      {
+        "name": "Unknown attendant (dark blue robe)",
+        "action": "Standing beside the white-robed royal host",
+        "expression": "Serious"
+      },
+      {
+        "name": "Imperial armored guards",
+        "action": "Standing on the far perimeter of the platform on guard duty",
+        "expression": "Stoic and motionless"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The imperial court host party formally receives and greets the three foreign princes who have traveled far to arrive at the palace, as indicated by the on-screen subtitle",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Outdoor scene of a costume short drama, the foreground features a plump man in ornate exotic ancient attire, while another blurred man in traditional ancient costume stands in the defocused background",
+    "characters": [
+      {
+        "name": "Unknown foreign noble",
+        "action": "Standing and turning his head to look at the left side of the screen",
+        "expression": "Smiling smugly, with a proud, mocking and condescending delighted look"
+      },
+      {
+        "name": "Unknown attendant",
+        "action": "Standing in the background, gazing towards the foreground character",
+        "expression": "Face is blurry, no identifiable clear expression"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The arrogant foreign noble is provoking or taunting his off-screen opponent, performing as a domineering and overconfident antagonist",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\天下第一纨绔_第10集.mp4\\第10集\\scene_010.jpg",
+    "frame_index": 9
+  }
+]

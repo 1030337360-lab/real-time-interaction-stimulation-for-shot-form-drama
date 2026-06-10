@@ -29,6 +29,29 @@ interface PlayerError {
   recoverable: boolean;
 }
 
+// 高光区间类型定义
+interface HighlightInterval {
+  id?: string;
+  start: number;
+  end: number;
+  start_percent?: number | null;
+  end_percent?: number | null;
+  title?: string;
+  description?: string;
+  importance?: 'critical' | 'high' | 'medium' | 'low' | string;
+  tags?: string[];
+  created_at?: string;
+}
+
+// 高光完整响应格式
+interface FullHighlightsResponse {
+  episode_id: number;
+  type: 'full' | string;
+  points: number[];
+  intervals: HighlightInterval[];
+  updated_at?: string;
+}
+
 export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, onProgressChange, episodeId }: VideoPlayerProps) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const hlsRef = useRef<Hls | null>(null);
@@ -45,20 +68,36 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
   const [displayTime, setDisplayTime] = useState(0);
   const [userWantsToPlay, setUserWantsToPlay] = useState(false);
   const [showVolume, setShowVolume] = useState(false);
-  const [highlights, setHighlights] = useState<number[]>([]);
+  
+  // 向后兼容：同时存简易points数组和完整intervals数组
+  const [highlightsPoints, setHighlightsPoints] = useState<number[]>([]);
+  const [highlightsIntervals, setHighlightsIntervals] = useState<HighlightInterval[]>([]);
   const [animationEnabled, setAnimationEnabled] = useState(() => {
     const stored = localStorage.getItem('highlightAnimationEnabled');
     return stored === null ? true : stored === 'true';
   });
+  const [currentActiveInterval, setCurrentActiveInterval] = useState<HighlightInterval | null>(null);
+  const [showIntervalTooltip, setShowIntervalTooltip] = useState(false);
 
   const isMobile = typeof window !== 'undefined' && window.innerWidth < 768;
 
+  // 辅助函数：从intervals中提取所有start点，向后兼容
+  const derivedPoints = useMemo(() => {
+    if (highlightsPoints.length > 0) return highlightsPoints;
+    return highlightsIntervals.map(i => {
+      if (i.start_percent != null) return i.start_percent;
+      if (i.start > 0 && i.start <= 100) return i.start;
+      // i.start是秒数，转百分比
+      return duration > 0 ? (i.start / duration) * 100 : 0;
+    }).filter(p => p > 0 && p <= 100);
+  }, [highlightsPoints, highlightsIntervals, duration]);
+
   const highlightState = useHighlightSync(
-    highlights,
+    derivedPoints,
     displayTime,
     duration,
     playerState === 'paused',
-    { enabled: animationEnabled && highlights.length > 0 }
+    { enabled: animationEnabled && derivedPoints.length > 0 }
   );
   
   const currentTimeRef = useRef(0);
@@ -501,24 +540,75 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
     };
   }, [videoUrl]);
 
+  // 检测当前时间点是否落在某个高光区间内
+  useEffect(() => {
+    if (duration <= 0) return;
+    
+    const activeInterval = highlightsIntervals.find(iv => {
+      // 处理混合单位
+      let s = iv.start;
+      let e = iv.end;
+      
+      // 如果是百分比（0-100）转秒数
+      if (iv.start_percent != null) s = (iv.start_percent / 100) * duration;
+      else if (s >= 0 && s <= 100) s = (s / 100) * duration;
+      
+      if (iv.end_percent != null) e = (iv.end_percent / 100) * duration;
+      else if (e >= 0 && e <= 100) e = (e / 100) * duration;
+      
+      return displayTime >= s && displayTime <= e;
+    });
+    
+    if (activeInterval && activeInterval.id !== currentActiveInterval?.id) {
+      setCurrentActiveInterval(activeInterval);
+      if (activeInterval.title) {
+        setShowIntervalTooltip(true);
+        // 3秒后自动隐藏
+        setTimeout(() => setShowIntervalTooltip(false), 3000);
+      }
+    } else if (!activeInterval && currentActiveInterval) {
+      setCurrentActiveInterval(null);
+    }
+  }, [displayTime, duration, highlightsIntervals, currentActiveInterval]);
+
   useEffect(() => {
     const fetchHighlights = async () => {
       if (!episodeId) {
-        setHighlights([]);
+        setHighlightsPoints([]);
+        setHighlightsIntervals([]);
         return;
       }
       
       try {
-        const response = await fetch(`/api/episodes/${episodeId}/highlights`);
-        if (response.ok) {
-          const points = await response.json();
-          setHighlights(points);
-        } else {
-          setHighlights([]);
+        // 先试 full=true 获取完整区间数据
+        const fullResponse = await fetch(`/api/episodes/${episodeId}/highlights?full=true`);
+        if (fullResponse.ok) {
+          const fullData = await fullResponse.json();
+          if (fullData.type === 'full' && Array.isArray(fullData.intervals)) {
+            // 新的完整格式
+            setHighlightsIntervals(fullData.intervals);
+            if (fullData.points) {
+              setHighlightsPoints(fullData.points);
+            }
+            console.log('[Highlights] 加载完整区间数据:', fullData.intervals.length, '个');
+            return;
+          }
+        }
+        
+        // fallback 到简单 points 数组
+        const simpleResponse = await fetch(`/api/episodes/${episodeId}/highlights`);
+        if (simpleResponse.ok) {
+          const points = await simpleResponse.json();
+          if (Array.isArray(points)) {
+            setHighlightsPoints(points);
+            setHighlightsIntervals([]);
+            console.log('[Highlights] 加载简易点数组:', points.length, '个');
+          }
         }
       } catch (err) {
         console.error('Failed to fetch highlights:', err);
-        setHighlights([]);
+        setHighlightsPoints([]);
+        setHighlightsIntervals([]);
       }
     };
     
@@ -551,9 +641,10 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
   const progressPercent = duration > 0 ? (displayTime / duration) * 100 : 0;
 
   const glowIntensity = useMemo(() => {
-    if (highlights.length === 0 || duration <= 0) return 0;
+    const pointsToUse = derivedPoints;
+    if (pointsToUse.length === 0 || duration <= 0) return 0;
     const currentTimeSeconds = displayTime;
-    const upcoming = highlights
+    const upcoming = pointsToUse
       .map((p) => (p / 100) * duration)
       .filter((t) => t > currentTimeSeconds)
       .sort((a, b) => a - b);
@@ -563,7 +654,46 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
     if (timeToNext > 5) return 0;
     if (timeToNext <= 0) return 1;
     return 1 - timeToNext / 5;
-  }, [highlights, displayTime, duration]);
+  }, [derivedPoints, displayTime, duration]);
+
+  // 将所有高光区间渲染到进度条上
+  const renderedIntervals = useMemo(() => {
+    if (duration <= 0) return [];
+    return highlightsIntervals.map(iv => {
+      let sPct = 0;
+      let ePct = 100;
+      
+      // 计算区间在进度条上的百分比位置
+      if (iv.start_percent != null) {
+        sPct = iv.start_percent;
+      } else if (iv.start >= 0 && iv.start <= 100) {
+        sPct = iv.start;
+      } else {
+        sPct = (iv.start / duration) * 100;
+      }
+      
+      if (iv.end_percent != null) {
+        ePct = iv.end_percent;
+      } else if (iv.end >= 0 && iv.end <= 100) {
+        ePct = iv.end;
+      } else {
+        ePct = (iv.end / duration) * 100;
+      }
+      
+      // 根据importance选颜色
+      let colorClass = 'interval-highlight-normal';
+      if (iv.importance === 'critical') colorClass = 'interval-highlight-critical';
+      else if (iv.importance === 'high') colorClass = 'interval-highlight-high';
+      
+      return {
+        id: iv.id || Math.random().toString(),
+        left: sPct,
+        width: Math.max(ePct - sPct, 0.5),
+        colorClass,
+        title: iv.title || ''
+      };
+    }).filter(r => r.width > 0);
+  }, [highlightsIntervals, duration]);
 
   const showProgressGlow = glowIntensity > 0;
 
@@ -635,11 +765,27 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
         </div>
       )}
 
-      {console.log('[VideoPlayer render] highlights.length=%d phase=%s', highlights.length, highlightState.phase)}
+      {/* 调试信息已移除 */}
+      {/* 进入高光区间时的标题提示 */}
+      {showIntervalTooltip && currentActiveInterval && currentActiveInterval.title && (
+        <div className="interval-tooltip-popup">
+          <div className="interval-tooltip-content">
+            <h4 className="interval-tooltip-title">
+              {currentActiveInterval.title}
+            </h4>
+            {currentActiveInterval.description && (
+              <p className="interval-tooltip-desc">
+                {currentActiveInterval.description}
+              </p>
+            )}
+          </div>
+        </div>
+      )}
+      
       <ReactionOverlay
         phase={highlightState.phase}
         timeToNext={highlightState.timeToNext}
-        highlights={highlights}
+        highlights={derivedPoints}
         isMobile={isMobile}
       />
 
@@ -681,6 +827,19 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
               '--glow-intensity': glowIntensity,
             } as React.CSSProperties}
           >
+            {/* 高光区间色块 - 新功能 */}
+            {renderedIntervals.map((iv) => (
+              <div
+                key={iv.id}
+                className={`progress-interval-block ${iv.colorClass}`}
+                style={{
+                  left: `${iv.left}%`,
+                  width: `${iv.width}%`,
+                }}
+                title={iv.title || ''}
+              />
+            ))}
+            
             {bufferedRanges.map((range, index) => (
               <div
                 key={index}
@@ -696,7 +855,7 @@ export function VideoPlayer({ videoUrl, poster, onEnded, initialProgress = 0, on
               style={{ width: `${progressPercent}%` }}
             />
             <HighlightWarning
-              highlights={highlights}
+              highlights={derivedPoints}
               currentTime={displayTime}
               duration={duration}
             />

@@ -646,34 +646,120 @@ app.get('/api/scan', async (req, res) => {
 });
 
 app.post('/internal/highlights', async (req, res) => {
-  const { episode_id, points } = req.body;
+  const { episode_id, points, intervals } = req.body;
   
-  if (!episode_id || !points || !Array.isArray(points)) {
-    return res.status(400).json({ error: 'Invalid request: episode_id and points array are required' });
+  if (!episode_id) {
+    return res.status(400).json({ error: 'Invalid request: episode_id is required' });
   }
   
-  const validPoints = points.filter(p => 
-    typeof p === 'number' && p >= 0 && p <= 100
-  );
-  
-  if (validPoints.length === 0) {
-    return res.status(400).json({ error: 'Invalid points: must be array of numbers between 0 and 100' });
+  // 模式1: 兼容旧版 - 纯百分比点数组 [5.2, 23.5, ...]
+  if (points && Array.isArray(points)) {
+    const validPoints = points.filter(p => 
+      typeof p === 'number' && p >= 0 && p <= 100
+    );
+    
+    if (validPoints.length === 0) {
+      return res.status(400).json({ error: 'Invalid points: must be array of numbers between 0 and 100' });
+    }
+    
+    try {
+      // 写 Redis 缓存 + lowdb 持久化
+      await redisModule.setHighlights(episode_id, validPoints);
+      await db.write();
+      res.json({ success: true, episode_id, type: 'points', count: validPoints.length, data: validPoints });
+    } catch (err) {
+      res.status(500).json({ error: err.message });
+    }
+    return;
   }
   
-  try {
-    // 写 Redis 缓存 + lowdb 持久化（redis.setHighlights 双写）
-    await redisModule.setHighlights(episode_id, validPoints);
-    await db.write();
-    res.json({ success: true, episode_id, count: validPoints.length });
-  } catch (err) {
-    res.status(500).json({ error: err.message });
+  // 模式2: 新增 - 完整高光时间区间数组
+  if (intervals && Array.isArray(intervals)) {
+    const validIntervals = [];
+    
+    for (const interval of intervals) {
+      if (typeof interval === 'object' && interval !== null) {
+        // 支持三种格式：带秒的、带百分比的、混合的
+        let item = {
+          id: interval.id || `hl_${Date.now()}_${Math.random().toString(36).substr(2, 5)}`,
+          start: typeof interval.start === 'number' ? interval.start : 0,
+          end: typeof interval.end === 'number' ? interval.end : (interval.start || 5) + 5,
+          start_percent: typeof interval.start_percent === 'number' ? interval.start_percent : null,
+          end_percent: typeof interval.end_percent === 'number' ? interval.end_percent : null,
+          title: interval.title || '',
+          description: interval.description || '',
+          importance: interval.importance || 'high',
+          tags: Array.isArray(interval.tags) ? interval.tags : [],
+          created_at: interval.created_at || new Date().toISOString()
+        };
+        validIntervals.push(item);
+      }
+    }
+    
+    if (validIntervals.length === 0) {
+      return res.status(400).json({ error: 'Invalid intervals: must be non-empty array of highlight interval objects' });
+    }
+    
+    try {
+      // 保存到 lowdb 的 highlights 表
+      if (!db.data.highlights) db.data.highlights = [];
+      
+      const existingIndex = db.data.highlights.findIndex(h => h.episode_id === parseInt(episode_id));
+      
+      if (existingIndex >= 0) {
+        db.data.highlights[existingIndex].intervals = validIntervals;
+        db.data.highlights[existingIndex].updated_at = new Date().toISOString();
+      } else {
+        db.data.highlights.push({
+          episode_id: parseInt(episode_id),
+          intervals: validIntervals,
+          points: validIntervals.map(i => i.start_percent || i.start),  // 自动兼容老的points字段
+          created_at: new Date().toISOString(),
+          updated_at: new Date().toISOString()
+        });
+      }
+      
+      // 同时更新Redis兼容缓存（用start_percent当points值）
+      const fallbackPoints = validIntervals.map(i => i.start_percent || (typeof i.start === 'number' ? i.start : 0)).filter(p => p >=0 && p <=100);
+      await redisModule.setHighlights(episode_id, fallbackPoints.length > 0 ? fallbackPoints : validIntervals.map(i => i.start));
+      
+      await db.write();
+      res.json({ success: true, episode_id, type: 'intervals', count: validIntervals.length, data: validIntervals });
+    } catch (err) {
+      res.status(500).json({ error: err.message });
+    }
+    return;
   }
+  
+  res.status(400).json({ error: 'Invalid request: either points array or intervals array is required' });
 });
 
 app.get('/api/episodes/:episodeId/highlights', async (req, res) => {
   const { episodeId } = req.params;
+  const full = req.query.full === 'true';  // ?full=true 返回完整区间数据
   
   try {
+    // 优先从 lowdb 查完整区间数据
+    if (db.data.highlights) {
+      const record = db.data.highlights.find(h => h.episode_id === parseInt(episodeId));
+      if (record) {
+        if (full) {
+          // 返回完整版本，含所有区间详情
+          return res.json({
+            episode_id: parseInt(episodeId),
+            type: 'full',
+            points: record.points || [],
+            intervals: record.intervals || [],
+            updated_at: record.updated_at || ''
+          });
+        } else {
+          // 兼容模式，只返回简单points数组
+          return res.json(record.points || record.intervals?.map(i => i.start_percent || i.start) || []);
+        }
+      }
+    }
+    
+    // fallback 到纯 Redis 缓存的简易 points
     const points = await redisModule.getHighlights(parseInt(episodeId));
     res.json(points);
   } catch (err) {

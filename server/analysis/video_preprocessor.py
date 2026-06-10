@@ -242,3 +242,13 @@ class VideoPreprocessor:
         if episode_path.exists():
             shutil.rmtree(episode_path)
             print(f"已清理帧目录: {episode_path}")
+
+    def cleanup_temp_audio(self, audio_path: str):
+        """清理临时音频文件"""
+        audio_file = Path(audio_path)
+        if audio_file.exists():
+            try:
+                audio_file.unlink()
+                print(f"已清理临时音频: {audio_file}")
+            except Exception as e:
+                print(f"清理音频文件失败: {e}")

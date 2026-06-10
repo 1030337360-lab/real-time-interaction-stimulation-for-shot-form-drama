@@ -1281,3 +1281,73 @@ header nav a:hover {
     width: auto;
   }
 }
+
+/* ========== 高光区间色块新样式 ========== */
+.progress-interval-block {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  border-radius: 2px;
+  pointer-events: none;
+  opacity: 0.65;
+  transition: opacity 0.2s ease;
+}
+.progress-track:hover .progress-interval-block {
+  opacity: 0.9;
+}
+
+.interval-highlight-normal {
+  background: rgba(46, 213, 115, 0.7); /* 绿色 */
+  box-shadow: 0 0 4px rgba(46, 213, 115, 0.5);
+}
+
+.interval-highlight-high {
+  background: rgba(255, 165, 2, 0.8); /* 橙色 */
+  box-shadow: 0 0 6px rgba(255, 165, 2, 0.6);
+}
+
+.interval-highlight-critical {
+  background: rgba(255, 71, 87, 0.9); /* 红色 */
+  box-shadow: 0 0 8px rgba(255, 71, 87, 0.7);
+}
+
+/* ========== 高光区间标题提示 ========== */
+.interval-tooltip-popup {
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(12px);
+  border-radius: var(--border-radius-md);
+  padding: 16px 24px;
+  z-index: 100;
+  animation: tooltip-fade-in 0.3s ease forwards;
+  border: 1px solid rgba(255, 71, 87, 0.3);
+  box-shadow: var(--shadow-lg);
+  max-width: 80%;
+}
+
+@keyframes tooltip-fade-in {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+.interval-tooltip-content .interval-tooltip-title {
+  color: #ff4757;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.interval-tooltip-content .interval-tooltip-desc {
+  color: var(--text-secondary);
+  font-size: 14px;
+  line-height: 1.4;
+}

@@ -1,0 +1,513 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "drama_id": 1
+  },
+  "nodes": [
+    {
+      "name": "苏羽",
+      "role": "protagonist",
+      "description": "镇北侯次子，对外以放荡不羁的京城纨绔少爷形象示人，是本剧核心主角",
+      "first_appearance": 9,
+      "episodes": [
+        "天下第一纨绔/第1集.mp4",
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第5集.mp4",
+        "天下第一纨绔/第6集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第8集.mp4",
+        "天下第一纨绔/第9集.mp4",
+        "天下第一纨绔/第10集.mp4",
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "id": "char_001"
+    },
+    {
+      "name": "镇北侯",
+      "role": "supporting",
+      "description": "当朝高阶贵族，苏羽的生父，地位尊贵",
+      "first_appearance": 14,
+      "episodes": [
+        "天下第一纨绔/第1集.mp4",
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第5集.mp4",
+        "天下第一纨绔/第6集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第8集.mp4",
+        "天下第一纨绔/第9集.mp4",
+        "天下第一纨绔/第10集.mp4",
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "id": "char_002"
+    },
+    {
+      "name": "大燕未来女帝",
+      "role": "supporting",
+      "description": "被人断言命中注定将成为大燕王朝的女帝，身份特殊",
+      "first_appearance": 6,
+      "episodes": [
+        "天下第一纨绔/第1集.mp4",
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第5集.mp4",
+        "天下第一纨绔/第6集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第8集.mp4",
+        "天下第一纨绔/第9集.mp4",
+        "天下第一纨绔/第10集.mp4",
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "id": "char_003"
+    },
+    {
+      "name": "大燕皇帝",
+      "role": "supporting",
+      "description": "大燕当朝君主，性情易怒，有特殊女子可安抚其情绪",
+      "first_appearance": 20,
+      "episodes": [
+        "天下第一纨绔/第1集.mp4",
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第5集.mp4",
+        "天下第一纨绔/第6集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第8集.mp4",
+        "天下第一纨绔/第9集.mp4",
+        "天下第一纨绔/第10集.mp4",
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "id": "char_004"
+    },
+    {
+      "name": "黑衣武者",
+      "role": "supporting",
+      "description": "身着黑色武道劲装的习武之人",
+      "first_appearance": 3,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第6集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第8集.mp4",
+        "天下第一纨绔/第9集.mp4",
+        "天下第一纨绔/第10集.mp4",
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "id": "char_005"
+    },
+    {
+      "name": "绣袍官员",
+      "role": "supporting",
+      "description": "身着刺绣官服的朝廷正式官员",
+      "first_appearance": 3,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第6集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第8集.mp4",
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "id": "char_006"
+    },
+    {
+      "name": "资深朝官",
+      "role": "supporting",
+      "description": "资历深厚的高阶朝廷贵族/官员",
+      "first_appearance": 4,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "id": "char_007"
+    },
+    {
+      "name": "年轻贵族",
+      "role": "supporting",
+      "description": "身份较低的年轻宗室或贵族侍从",
+      "first_appearance": 4,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "id": "char_008"
+    },
+    {
+      "name": "资深高官",
+      "role": "supporting",
+      "description": "主政一方的年长朝廷高官",
+      "first_appearance": 5,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "id": "char_009"
+    },
+    {
+      "name": "高个下属",
+      "role": "supporting",
+      "description": "资深高官麾下的高个子随从",
+      "first_appearance": 5,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4"
+      ],
+      "id": "char_010"
+    },
+    {
+      "name": "胖下属",
+      "role": "supporting",
+      "description": "资深高官麾下的胖随从",
+      "first_appearance": 5,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4"
+      ],
+      "id": "char_011"
+    },
+    {
+      "name": "顶级权臣",
+      "role": "antagonist",
+      "description": "权倾朝野的核心顶级朝廷重臣",
+      "first_appearance": 6,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4"
+      ],
+      "id": "char_012"
+    },
+    {
+      "name": "侍卫侍从",
+      "role": "supporting",
+      "description": "顶级权臣的随行护卫人员",
+      "first_appearance": 6,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4"
+      ],
+      "id": "char_013"
+    },
+    {
+      "name": "文职侍从",
+      "role": "supporting",
+      "description": "顶级权臣的随行文职侍从",
+      "first_appearance": 6,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "id": "char_014"
+    },
+    {
+      "name": "高阶贵族",
+      "role": "supporting",
+      "description": "身份尊贵的高阶王公贵族",
+      "first_appearance": 7,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "id": "char_015"
+    },
+    {
+      "name": "护卫下属",
+      "role": "supporting",
+      "description": "高阶贵族麾下的护卫随从",
+      "first_appearance": 7,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "id": "char_016"
+    },
+    {
+      "name": "府邸管家",
+      "role": "supporting",
+      "description": "贵族府邸的管家级侍从",
+      "first_appearance": 7,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "id": "char_017"
+    },
+    {
+      "name": "年长贵族",
+      "role": "supporting",
+      "description": "资历深厚的年长古装贵族",
+      "first_appearance": 8,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "id": "char_018"
+    },
+    {
+      "name": "年轻后辈",
+      "role": "protagonist",
+      "description": "古装年轻核心角色，对应天下第一纨绔主角",
+      "first_appearance": 8,
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "id": "char_019"
+    },
+    {
+      "episodes": [
+        "天下第一纨绔/第6集.mp4"
+      ],
+      "id": "棺中逝者"
+    },
+    {
+      "episodes": [
+        "天下第一纨绔/第8集.mp4"
+      ],
+      "id": "char_帝王_第5集登场"
+    }
+  ],
+  "links": [
+    {
+      "relation": "父子",
+      "strength": 0.9,
+      "description": "苏羽是镇北侯的次子，为镇北侯府核心子弟，外界多知晓其纨绔名声",
+      "episodes": [
+        "天下第一纨绔/第1集.mp4",
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第3集.mp4",
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第5集.mp4",
+        "天下第一纨绔/第7集.mp4",
+        "天下第一纨绔/第8集.mp4",
+        "天下第一纨绔/第9集.mp4"
+      ],
+      "source": "char_001",
+      "target": "char_002"
+    },
+    {
+      "relation": "宿命羁绊",
+      "strength": 0.95,
+      "description": "剧情暗示核心男主苏羽与未来女帝后续将产生深度剧情交集",
+      "episodes": [
+        "天下第一纨绔/第1集.mp4",
+        "天下第一纨绔/第2集.mp4",
+        "天下第一纨绔/第5集.mp4",
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "source": "char_001",
+      "target": "char_003"
+    },
+    {
+      "relation": "母子",
+      "strength": 0.95,
+      "description": "二人是亲生母子，感情深厚，存在温情羁绊",
+      "episodes": [
+        "天下第一纨绔/第4集.mp4",
+        "天下第一纨绔/第7集.mp4"
+      ],
+      "source": "char_001",
+      "target": "char_006"
+    },
+    {
+      "relation": "主仆",
+      "strength": 0.6,
+      "description": "侍女受雇于男主家族，负责照料男主日常洗浴相关起居事务",
+      "episodes": [
+        "天下第一纨绔/第5集.mp4",
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "source": "char_001",
+      "target": "char_004"
+    },
+    {
+      "relation": "至亲亲友",
+      "strength": 0.9,
+      "description": "白衫神秘人手持专属玉饰悼念棺中逝去的至亲，怀有极深的悲痛情绪",
+      "episodes": [
+        "天下第一纨绔/第6集.mp4"
+      ],
+      "source": "char_001",
+      "target": "棺中逝者"
+    },
+    {
+      "relation": "对立冲突",
+      "strength": 0.9,
+      "description": "项爷返乡后被领头村民带领一众邻里围堵，对方先后提出还债、归还古董、索要房产的无理要求",
+      "episodes": [
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "source": "char_001",
+      "target": "char_005"
+    },
+    {
+      "relation": "秘密合作",
+      "strength": 0.7,
+      "description": "反派官员与神秘蒙面势力暗中勾结，共同推进夺权计划",
+      "episodes": [
+        "天下第一纨绔/第4集.mp4",
+        "北派寻宝笔记/第63集.mp4"
+      ],
+      "source": "char_002",
+      "target": "char_003"
+    },
+    {
+      "relation": "敌对组织上下级",
+      "strength": 0.8,
+      "description": "二者同属针对男主的神秘刺杀敌对组织，为上下级协作关系，共同执行针对男主的加害计划",
+      "episodes": [
+        "天下第一纨绔/第6集.mp4",
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "source": "char_002",
+      "target": "char_005"
+    },
+    {
+      "relation": "立场对立",
+      "strength": 0.6,
+      "description": "紫袍高阶朝臣不满男主行事，当众对男主发出严厉训斥",
+      "episodes": [
+        "天下第一纨绔/第9集.mp4"
+      ],
+      "source": "char_002",
+      "target": "char_004"
+    },
+    {
+      "relation": "暧昧恋人",
+      "strength": 0.85,
+      "description": "二人互动十分亲密，女角色多次照料状态不佳的男主，彼此怀有深厚的在意之情",
+      "episodes": [
+        "天下第一纨绔/第3集.mp4"
+      ],
+      "source": "char_003",
+      "target": "char_004"
+    },
+    {
+      "relation": "叔侄",
+      "strength": 0.3,
+      "description": "资深贵族官员是男主的二叔，性格顽劣，后续与男主存在家族利益冲突",
+      "episodes": [
+        "天下第一纨绔/第3集.mp4"
+      ],
+      "source": "char_003",
+      "target": "char_009"
+    },
+    {
+      "relation": "母子",
+      "strength": 0.95,
+      "description": "男主生母十分疼爱男主，在男主幼年时曾安抚难过的他，是男主最重要的亲人",
+      "episodes": [
+        "天下第一纨绔/第3集.mp4"
+      ],
+      "source": "char_003",
+      "target": "char_011"
+    },
+    {
+      "relation": "君臣心腹",
+      "strength": 0.9,
+      "description": "帝王对铁甲武将高度信任，武将直接听命于帝王，全权负责大典期间的武力警戒",
+      "episodes": [
+        "天下第一纨绔/第8集.mp4"
+      ],
+      "source": "char_003",
+      "target": "char_帝王_第5集登场"
+    },
+    {
+      "relation": "亲信君臣",
+      "strength": 1.0,
+      "description": "大燕帝王对铁甲武将极为信任，将大典安保、核心兵权全权交由其掌控",
+      "episodes": [
+        "天下第一纨绔/第9集.mp4",
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "source": "char_003",
+      "target": "char_005"
+    },
+    {
+      "relation": "超凡阵营盟友",
+      "strength": 0.6,
+      "description": "两位拥有特殊能力的超凡角色，大概率属于同一阵营，后续将为男主提供助力",
+      "episodes": [
+        "天下第一纨绔/第6集.mp4"
+      ],
+      "source": "char_004",
+      "target": "char_006"
+    },
+    {
+      "relation": "利益同盟",
+      "strength": 0.75,
+      "description": "白衣贵族男持续向黑衣贵族男传递关键利好消息，二人利益绑定共同谋事。",
+      "episodes": [
+        "天下第一纨绔/第7集.mp4"
+      ],
+      "source": "char_004",
+      "target": "char_005"
+    },
+    {
+      "relation": "主仆从属",
+      "strength": 0.8,
+      "description": "贴身侍女长期跟随皇室贵女，负责其出行陪护，第一时间为主子打探外界信息",
+      "episodes": [
+        "天下第一纨绔/第8集.mp4"
+      ],
+      "source": "char_005",
+      "target": "char_006"
+    },
+    {
+      "relation": "同僚协作",
+      "strength": 0.6,
+      "description": "传旨太监与皇家特使共同组成宣旨团队，协作完成向贵族宅邸送旨的任务。",
+      "episodes": [
+        "天下第一纨绔/第7集.mp4"
+      ],
+      "source": "char_006",
+      "target": "char_007"
+    },
+    {
+      "relation": "同阵营盟友",
+      "strength": 0.85,
+      "description": "三位域外王子同属外来入侵势力，联手向大燕皇室施压",
+      "episodes": [
+        "天下第一纨绔/第10集.mp4"
+      ],
+      "source": "char_007",
+      "target": "char_009"
+    },
+    {
+      "relation": "主仆从属",
+      "strength": 0.9,
+      "description": "侍卫侍从完全听命于顶级权臣，听从指令行事",
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "source": "char_012",
+      "target": "char_013"
+    },
+    {
+      "relation": "主仆从属",
+      "strength": 0.9,
+      "description": "文职侍从完全听命于顶级权臣，处理文书相关事务",
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "source": "char_012",
+      "target": "char_014"
+    },
+    {
+      "relation": "亲缘羁绊",
+      "strength": 0.9,
+      "description": "二人存在极深的过往关联，是核心主线的关键人物关系",
+      "episodes": [
+        "天下第一纨绔/第2集.mp4"
+      ],
+      "source": "char_018",
+      "target": "char_019"
+    }
+  ]
+}

@@ -1,0 +1,2740 @@
+{
+  "episode_title": "北派寻宝笔记",
+  "video_url": "北派寻宝笔记/第68集.mp4",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "audio_text": "啊",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "audio_text": "这 难 道 是 图 离 他 的 老 姑 娘 西 周 到 现 在 还 没 来 查 查",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.3,
+      "visual_description": "Dim cool blue-toned ancient underground stone tomb chamber, paved with stone tiles, furnished with old stone relics including a giant carved stone head and a stone horse sculpture, a single overhead light beam illuminates a section of the floor [剧情转折:high(重要推进)]",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "audio_text": "这 难 道 是 图 离 他 的 老 姑 娘 西 周 到 现 在 还 没 来 查 查",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "audio_text": "这 难 道 是 图 离 他 的 老 姑 娘 西 周 到 现 在 还 没 来 查 查",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "audio_text": "这 难 道 是 图 离 他 的 老 姑 娘 西 周 到 现 在 还 没 来 查 查",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "audio_text": "爸",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "audio_text": "啊 不 怕 不 怕 这 个 都 死 了 几 千 年 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.27,
+      "highlight_reasons": [
+        "用词激烈(0.90)"
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "audio_text": "啊 不 怕 不 怕 这 个 都 死 了 几 千 年 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.9,
+      "visual_description": "Glitch-style chromatic aberration filtered close-up of a fractured severed human leg resting against a cool blue textured background, with dark blood leaking from the broken joint end",
+      "visual_characters": [
+        "No complete visible person (only dismembered limb present)"
+      ],
+      "visual_change": 1.0,
+      "highlight_score": 0.7,
+      "highlight_reasons": [
+        "用词激烈(0.90)",
+        "表情感染(1.00)",
+        "音画联动(0.90)"
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "audio_text": "啊 不 怕 不 怕 这 个 都 死 了 几 千 年 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.27,
+      "highlight_reasons": [
+        "用词激烈(0.90)"
+      ]
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "A dim foggy enclosed stone space with accumulated water, a bright flashlight beam pierces the dark haze, creating a mysterious eerie atmosphere",
+      "visual_characters": [
+        "云峰"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.1,
+      "highlight_reasons": [
+        "表情感染(0.40)"
+      ]
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "audio_text": "二 哥 三 哥 我 被 蛇 咬 了 救 我 呀 别 跑 别 跑 别 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "audio_text": "二 哥 三 哥 我 被 蛇 咬 了 救 我 呀 别 跑 别 跑 别 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "audio_text": "二 哥 三 哥 我 被 蛇 咬 了 救 我 呀 别 跑 别 跑 别 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "audio_text": "二 哥 三 哥 我 被 蛇 咬 了 救 我 呀 别 跑 别 跑 别 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "audio_text": "二 哥 三 哥 我 被 蛇 咬 了 救 我 呀 别 跑 别 跑 别 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "audio_text": "二 哥 三 哥 我 被 蛇 咬 了 救 我 呀 别 跑 别 跑 别 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "audio_text": "二 哥 三 哥 我 被 蛇 咬 了 救 我 呀 别 跑 别 跑 别 跑",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "audio_text": "我 在 这 儿",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "audio_text": "刘 法 你 到 了 是 给 哪 儿 了 我 在 这 儿",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "audio_text": "刘 法 你 到 了 是 给 哪 儿 了 我 在 这 儿",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "audio_text": "刘 法 你 到 了 是 给 哪 儿 了 我 在 这 儿",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "audio_text": "刘 法 你 到 了 是 给 哪 儿 了 我 在 这 儿",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "audio_text": "你 这 伤 口 不 是 蛇 咬 的 呀 啊 我 看 也 不 想 蛇 咬 了 云 峰 你 头 晕 不 嗯 那 就 没 事 了 回 去 看 下 医 生 就 中 了",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Close-up shot in a dim dark environment, set in a tactical covert operation scenario",
+      "visual_characters": [
+        "Unknown male combatant"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.345,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "audio_text": "巴 斗 巴 斗 那 个 董 培 方 投 案 了 但 日 低 铁 安 转 了 一 圈 了 不 愁 见 郑 趟 的 英 子 你 们 先 回 来 吧 啊 走 吧 先 生 走",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "audio_text": "等 一 下",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.3,
+      "visual_description": " [剧情转折:high(重要推进)]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.09,
+      "highlight_reasons": []
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "audio_text": "总 感 觉 这 里 面 有 东 西",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "audio_text": "总 感 觉 这 里 面 有 东 西",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "A dim, dark enclosed space presumed to be an underground ruin or crypt, with almost no ambient light apart from the illumination from a handheld flashlight",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "audio_text": "又 砸 了 云 峰 我 的 手 刚 才 就 是 掏 这 口 缸 的 时 候 被 咬 的 里 面 很 空 你 们 说 有 没 有 可 能 那 正 主 的 老 窝 八 成 就 在 这 缸 底 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "audio_text": "谁 见 郑 主 能 睡 在 一 口 缸 底 下 哎 哎 我 倒 是 学 来 了 云 峰 的 猜 测",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "audio_text": "谁 见 郑 主 能 睡 在 一 口 缸 底 下 哎 哎 我 倒 是 学 来 了 云 峰 的 猜 测",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 117.0,
+      "end": 118.0,
+      "audio_text": "谁 见 郑 主 能 睡 在 一 口 缸 底 下 哎 哎 我 倒 是 学 来 了 云 峰 的 猜 测",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 118.0,
+      "end": 119.0,
+      "audio_text": "谁 见 郑 主 能 睡 在 一 口 缸 底 下 哎 哎 我 倒 是 学 来 了 云 峰 的 猜 测",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "audio_text": "谁 见 郑 主 能 睡 在 一 口 缸 底 下 哎 哎 我 倒 是 学 来 了 云 峰 的 猜 测",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 120.0,
+      "end": 121.0,
+      "audio_text": "谁 见 郑 主 能 睡 在 一 口 缸 底 下 哎 哎 我 倒 是 学 来 了 云 峰 的 猜 测",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 121.0,
+      "end": 122.0,
+      "audio_text": "不 到 六",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.6,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.33,
+      "highlight_reasons": [
+        "用词激烈(0.60)",
+        "剧情反转(0.60)"
+      ]
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "audio_text": "这 个 左 右 配 方 从 中 间 开 始 读",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "audio_text": "这 个 左 右 配 方 从 中 间 开 始 读",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 124.0,
+      "end": 125.0,
+      "audio_text": "这 个 左 右 配 方 从 中 间 开 始 读",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 125.0,
+      "end": 126.0,
+      "audio_text": "按 照 古 代 的 风 税 穴 来 说",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 126.0,
+      "end": 127.0,
+      "audio_text": "按 照 古 代 的 风 税 穴 来 说",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 127.0,
+      "end": 128.0,
+      "audio_text": "这 个 应 该 就 是 绝 狐 底",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 128.0,
+      "end": 129.0,
+      "audio_text": "这 个 应 该 就 是 绝 狐 底",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 129.0,
+      "end": 130.0,
+      "audio_text": "这 个 应 该 就 是 绝 狐 底",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 130.0,
+      "end": 131.0,
+      "audio_text": "很 不 吉 利",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 131.0,
+      "end": 132.0,
+      "audio_text": "那 咱 们",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 132.0,
+      "end": 133.0,
+      "audio_text": "试 试 看",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 133.0,
+      "end": 134.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 134.0,
+      "end": 135.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 135.0,
+      "end": 136.0,
+      "audio_text": "八 斗 巴 斗 有 刑 罚 起",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 136.0,
+      "end": 137.0,
+      "audio_text": "八 斗 巴 斗 有 刑 罚 起",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 137.0,
+      "end": 138.0,
+      "audio_text": "注 意 安 全",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 138.0,
+      "end": 139.0,
+      "audio_text": "好",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 139.0,
+      "end": 140.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 140.0,
+      "end": 141.0,
+      "audio_text": "对",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 141.0,
+      "end": 142.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 142.0,
+      "end": 143.0,
+      "audio_text": "小 心 里 面 有 蛇 嗨",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 143.0,
+      "end": 144.0,
+      "audio_text": "小 心 里 面 有 蛇 嗨",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 144.0,
+      "end": 145.0,
+      "audio_text": "姐",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 145.0,
+      "end": 146.0,
+      "audio_text": "看 我 来",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 147.0,
+      "end": 148.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 148.0,
+      "end": 149.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 149.0,
+      "end": 150.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 150.0,
+      "end": 151.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 151.0,
+      "end": 152.0,
+      "audio_text": "这 怕 啥",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 152.0,
+      "end": 153.0,
+      "audio_text": "这 个 东 西 最 怕 火 我 一 把 火 把 他 送 回 老 家",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 153.0,
+      "end": 154.0,
+      "audio_text": "这 个 东 西 最 怕 火 我 一 把 火 把 他 送 回 老 家",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 154.0,
+      "end": 155.0,
+      "audio_text": "这 个 东 西 最 怕 火 我 一 把 火 把 他 送 回 老 家",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 155.0,
+      "end": 156.0,
+      "audio_text": "这 个 东 西 最 怕 火 我 一 把 火 把 他 送 回 老 家",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 156.0,
+      "end": 157.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 157.0,
+      "end": 158.0,
+      "audio_text": "害 得 是 劳 惨 呐",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 158.0,
+      "end": 159.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 159.0,
+      "end": 160.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 160.0,
+      "end": 161.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 161.0,
+      "end": 162.0,
+      "audio_text": "给",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 162.0,
+      "end": 163.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 163.0,
+      "end": 164.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 164.0,
+      "end": 165.0,
+      "audio_text": "咦",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 165.0,
+      "end": 166.0,
+      "audio_text": "别 人",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 167.0,
+      "end": 168.0,
+      "audio_text": "嗯 嗯",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 168.0,
+      "end": 169.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 169.0,
+      "end": 170.0,
+      "audio_text": "嗯",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 170.0,
+      "end": 171.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 171.0,
+      "end": 172.0,
+      "audio_text": "嗯 你 看",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 172.0,
+      "end": 173.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 173.0,
+      "end": 174.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 174.0,
+      "end": 175.0,
+      "audio_text": "哎 嘿 嘿",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 175.0,
+      "end": 176.0,
+      "audio_text": "拜 拜",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 176.0,
+      "end": 177.0,
+      "audio_text": "王 侯 站 下",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 177.0,
+      "end": 178.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 178.0,
+      "end": 179.0,
+      "audio_text": "你 是",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "audio_text": "不 不",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.6,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.33,
+      "highlight_reasons": [
+        "用词激烈(0.60)",
+        "剧情反转(0.60)"
+      ]
+    },
+    {
+      "start": 180.0,
+      "end": 181.0,
+      "audio_text": "六 百",
+      "audio_speaker": "spk2",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 181.0,
+      "end": 182.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 182.0,
+      "end": 183.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 183.0,
+      "end": 184.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 184.0,
+      "end": 185.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 185.0,
+      "end": 186.0,
+      "audio_text": "啊",
+      "audio_speaker": "spk3",
+      "audio_emotion": 0.1,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.03,
+      "highlight_reasons": []
+    },
+    {
+      "start": 186.0,
+      "end": 187.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 187.0,
+      "end": 188.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 188.0,
+      "end": 189.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 189.0,
+      "end": 190.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 190.0,
+      "end": 191.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 191.0,
+      "end": 192.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 192.0,
+      "end": 193.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 193.0,
+      "end": 194.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 194.0,
+      "end": 195.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 195.0,
+      "end": 196.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 196.0,
+      "end": 197.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 197.0,
+      "end": 198.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 198.0,
+      "end": 199.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 199.0,
+      "end": 200.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 200.0,
+      "end": 201.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 201.0,
+      "end": 202.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 202.0,
+      "end": 203.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 203.0,
+      "end": 204.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 204.0,
+      "end": 205.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 205.0,
+      "end": 206.0,
+      "audio_text": "哦 不 是 山 这 是 石 脚 线 啥 竟 然 是 石 脚 线 啥 是 石 脚 线 啊 这 是 一 种 头 上 长 着 百 出 角 的 地 脚 线 十 万 大 山 里 老 一 辈 的 庙 人 说 这 个 叫 石 脚 线",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.275,
+      "highlight_reasons": [
+        "剧情反转(0.50)"
+      ]
+    },
+    {
+      "start": 206.0,
+      "end": 207.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 207.0,
+      "end": 208.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 208.0,
+      "end": 209.0,
+      "audio_text": "他 们 只 活 在 隐 突 嘴 里 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 209.0,
+      "end": 210.0,
+      "audio_text": "他 们 只 活 在 隐 突 嘴 里 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 210.0,
+      "end": 211.0,
+      "audio_text": "他 们 只 活 在 隐 突 嘴 里 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 211.0,
+      "end": 212.0,
+      "audio_text": "他 们 只 活 在 隐 突 嘴 里 啊",
+      "audio_speaker": "spk1",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 212.0,
+      "end": 213.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 213.0,
+      "end": 214.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    }
+  ],
+  "highlights": [
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "peak_score": 0.7,
+      "reasons": [
+        "用词激烈(0.90)",
+        "音画联动(0.90)",
+        "表情感染(1.00)"
+      ],
+      "reason_text": "用词激烈(0.90), 音画联动(0.90), 表情感染(1.00)"
+    },
+    {
+      "start": 61.0,
+      "end": 90.0,
+      "peak_score": 0.345,
+      "reasons": [
+        "剧情反转(0.50)"
+      ],
+      "reason_text": "剧情反转(0.50)"
+    },
+    {
+      "start": 121.0,
+      "end": 131.0,
+      "peak_score": 0.33,
+      "reasons": [
+        "剧情反转(0.60)",
+        "用词激烈(0.60)",
+        "剧情反转(0.50)"
+      ],
+      "reason_text": "剧情反转(0.60), 用词激烈(0.60), 剧情反转(0.50)"
+    },
+    {
+      "start": 179.0,
+      "end": 206.0,
+      "peak_score": 0.33,
+      "reasons": [
+        "剧情反转(0.60)",
+        "用词激烈(0.60)",
+        "剧情反转(0.50)"
+      ],
+      "reason_text": "剧情反转(0.60), 用词激烈(0.60), 剧情反转(0.50)"
+    }
+  ],
+  "stats": {
+    "total_segments": 214,
+    "highlights_count": 4,
+    "avg_highlight_score": 0.0832,
+    "peak_highlight": 0.7
+  }
+}

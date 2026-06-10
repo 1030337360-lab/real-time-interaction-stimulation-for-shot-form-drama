@@ -1,0 +1,2630 @@
+{
+  "episode_title": "天下第一纨绔",
+  "video_url": "天下第一纨绔/第4集.mp4",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Warmly lit traditional ancient Chinese interior hall, furnished with wooden lattice windows, ink painting decorative screens, and multiple tall candle holders all around the space",
+      "visual_characters": [
+        "Unknown ancient male character",
+        "Unknown maid 1",
+        "Unknown maid 2"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.04,
+      "highlight_reasons": []
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Dim traditional ancient-style chamber decorated with sheer white hanging curtains and multiple lit ornate multi-candle metal candelabras, filled with hazy dim ambient light, setting a tense secretive atmosphere",
+      "visual_characters": [
+        "Unknown masked man",
+        "Unknown man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.04,
+      "highlight_reasons": []
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Close-up shot of a mysterious masked hooded figure, set in a dim ancient-style indoor space with blurred warm glowing lantern lights in the background, from a vertical costume short drama",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": "A partial close-up of a character's traditional ancient costume, showing dark fabric with light diamond grid patterns, a wide black waist belt trimmed with red edges, plus vertical red decorative strips on the garment, with a content warning text on the left side of the frame. [剧情转折:critical]",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Dimly lit night ancient Chinese costume scene, out-of-focus traditional historical tiled-roof building in the background",
+      "visual_characters": [
+        "Unknown masked man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Vertical screenshot from a historical ancient Chinese costume short drama, middle-aged noble man in traditional imperial-era attire, against a blurred background of festive decorative hangings",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": "Outdoor night scene from a Chinese ancient costume short drama, with blurred flowering tree backdrop, soft dim ambient lighting [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown (addressed as Niang/Mother)"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.494,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Night scene from a Chinese ancient costume short drama, blurred floral vegetation makes up the background, only half of a man in blue traditional Hanfu shows on the left frame, a formally dressed noble ancient Chinese woman stands in the center",
+      "visual_characters": [
+        "Unknown noble lady",
+        "Unknown man in blue Hanfu"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Close-up shot of a lady in traditional ancient Chinese Hanfu, against a blurred dimly lit retro courtyard background, taken from a historical short drama",
+      "visual_characters": [
+        "Unknown Su household noble lady"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": "Night scene of ancient Chinese costume short drama, with dim blurred flowering plants as background, two people in traditional historical outfits interact with each other [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown noble woman",
+        "Unknown man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.494,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Night scene of Chinese ancient costume short drama, with blurred flowering plants as background, vertical reminder text printed on the left side of the frame",
+      "visual_characters": [
+        "Unknown noble lady",
+        "Unknown person"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Night scene at a traditional multi-story Chinese wooden waterside pavilion, warm light glows from the interior lattice windows, the building structure reflects on the calm green water surface below, two people in ancient costumes stand on the open waterfront platform of the pavilion",
+      "visual_characters": [
+        "Unknown female",
+        "Unknown male"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Nighttime historical drama scene of a traditional ancient Chinese carved wooden waterside pavilion courtyard, with warm lit interior windows, wooden rail walkway bridges over a lotus pond, dark quiet night sky",
+      "visual_characters": [
+        "Unknown ancient costume male",
+        "Unknown hooded black-robed figure"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Blurry motion capture of a night ancient costume combat scene, set in a traditional courtyard with vibrant red foliage trees in the background",
+      "visual_characters": [
+        "Unknown protagonist in light traditional robes",
+        "Unknown hooded assailant"
+      ],
+      "visual_change": 0.8,
+      "highlight_score": 0.5,
+      "highlight_reasons": [
+        "画面变化(0.80)",
+        "音视同步(0.40)",
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": "Night scene of ancient Chinese courtyard wooden terrace, with out-of-focus foreground figure, classical outdoor tea table and stools, ornamental tree with red foliage in the background [剧情转折:critical]",
+      "visual_characters": [
+        "unknown foreground person",
+        "ancient robed male"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.6,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": "An ancient Chinese courtyard at night, with illuminated decorative red foliage in the background, dramatic contrasting warm and cool mood lighting over the wooden plank floor [剧情转折:critical]",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.53,
+      "highlight_reasons": [
+        "剧情转折(1.00)"
+      ]
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Dim dusk exterior shot of a traditional ancient Chinese wooden architecture, warm candlelight glows from the inner room behind sheer curtains through the open main doorway",
+      "visual_characters": [
+        "unknown maid",
+        "unknown servant woman"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "Low-light dark moody scene with cool blue toned lighting, set in a pitch black isolated shadowy space",
+      "visual_characters": [
+        "unknown masked man"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.335,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 117.0,
+      "end": 118.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 118.0,
+      "end": 119.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 120.0,
+      "end": 121.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 121.0,
+      "end": 122.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 124.0,
+      "end": 125.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 125.0,
+      "end": 126.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 126.0,
+      "end": 127.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 127.0,
+      "end": 128.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 128.0,
+      "end": 129.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 129.0,
+      "end": 130.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 130.0,
+      "end": 131.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 131.0,
+      "end": 132.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 132.0,
+      "end": 133.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 133.0,
+      "end": 134.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 134.0,
+      "end": 135.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 135.0,
+      "end": 136.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 136.0,
+      "end": 137.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 137.0,
+      "end": 138.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 138.0,
+      "end": 139.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 139.0,
+      "end": 140.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 140.0,
+      "end": 141.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 141.0,
+      "end": 142.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 142.0,
+      "end": 143.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 143.0,
+      "end": 144.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 144.0,
+      "end": 145.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 145.0,
+      "end": 146.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 147.0,
+      "end": 148.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 148.0,
+      "end": 149.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 150.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 150.0,
+      "end": 151.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 151.0,
+      "end": 152.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 152.0,
+      "end": 153.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 153.0,
+      "end": 154.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 154.0,
+      "end": 155.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 155.0,
+      "end": 156.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 156.0,
+      "end": 157.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 157.0,
+      "end": 158.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 158.0,
+      "end": 159.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 159.0,
+      "end": 160.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 160.0,
+      "end": 161.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 161.0,
+      "end": 162.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 162.0,
+      "end": 163.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 163.0,
+      "end": 164.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 164.0,
+      "end": 165.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 165.0,
+      "end": 166.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 167.0,
+      "end": 168.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 168.0,
+      "end": 169.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 169.0,
+      "end": 170.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 170.0,
+      "end": 171.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 171.0,
+      "end": 172.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 172.0,
+      "end": 173.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 173.0,
+      "end": 174.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 174.0,
+      "end": 175.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 175.0,
+      "end": 176.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 176.0,
+      "end": 177.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 177.0,
+      "end": 178.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 178.0,
+      "end": 179.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 180.0,
+      "end": 181.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 181.0,
+      "end": 182.0,
+      "audio_text": "算 了 苏 家 这 废 废 我 我 再 不 不 父 我 就 不 演 为 驸 马 我 我 再 不 错 父 我 到 底 是 是 我 我 再 我 成 废 废 个 我 我 我 还 废 废 废 算 了 算 来 也 废 废 了 多 长 时 间 这 看 还 废 废 废 这 到 底 是 谁 好",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.5,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.28,
+      "highlight_reasons": [
+        "剧情转折(0.50)"
+      ]
+    },
+    {
+      "start": 182.0,
+      "end": 183.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 183.0,
+      "end": 184.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    }
+  ],
+  "highlights": [
+    {
+      "start": 9.0,
+      "end": 182.0,
+      "peak_score": 0.6,
+      "reasons": [
+        "剧情转折(0.50)",
+        "音视同步(0.40)",
+        "画面变化(0.80)",
+        "剧情转折(1.00)",
+        "剧情转折(0.80)"
+      ],
+      "reason_text": "剧情转折(0.50), 音视同步(0.40), 画面变化(0.80), 剧情转折(1.00), 剧情转折(0.80)"
+    }
+  ],
+  "stats": {
+    "total_segments": 184,
+    "highlights_count": 1,
+    "avg_highlight_score": 0.3062,
+    "peak_highlight": 0.6
+  }
+}

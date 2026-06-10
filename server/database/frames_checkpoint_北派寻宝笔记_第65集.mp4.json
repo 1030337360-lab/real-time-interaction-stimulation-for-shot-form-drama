@@ -1,0 +1,287 @@
+[
+  {
+    "scene_description": "Retro styled outdoor scene on an ancient city wall stone path, this is a screenshot of a domestic Chinese vertical short web drama with official network drama approval mark at the top",
+    "characters": [
+      {
+        "name": "Unknown elder",
+        "action": "Stands with hands behind his back, facing the person in front of him",
+        "expression": "Solemn, frowning with a serious focused look"
+      },
+      {
+        "name": "Unknown young person",
+        "action": "Stands with back to the camera, facing the elder, located in the blurred foreground",
+        "expression": "Not visible"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The elder is imparting the classic feng shui proverb for dragon vein exploration: '寻龙千万看缠山 (When searching for geomantic dragon veins, the first priority is to observe the winding surrounding mountains)' to the young man opposite.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_001.jpg",
+    "frame_index": 0
+  },
+  {
+    "scene_description": "Outdoor winter daytime scene, with hazy distant mountains, traditional Chinese ancient architecture and dry autumn foliage in the blurred background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "standing with arms crossed over his chest, facing the camera directly",
+        "expression": "somber, slightly reddened eyes, earnest and sorrowful facial look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This is a close-up emotional shot from a fictional short drama, the subtitle at the bottom reminds viewers that the plot is completely fictional and asks the audience to establish correct values",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_002.jpg",
+    "frame_index": 1
+  },
+  {
+    "scene_description": "Two men stand face to face on the paved terrace of a traditional Chinese ancient imperial-style building, with hazy modern city buildings visible in the distant background under soft overcast light.",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "stands with his back to the camera, facing the elderly man for a conversation",
+        "expression": "not visible"
+      },
+      {
+        "name": "unknown elderly man",
+        "action": "stands facing the young man, keeps an object behind his back",
+        "expression": "solemn and serious"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The pair are having an important serious conversation, the displayed subtitle shows the topic relates to the expectation of living a prominent, successful and dignified life.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_003.jpg",
+    "frame_index": 2
+  },
+  {
+    "scene_description": "Two men face each other on the viewing platform of an old city wall, with misty distant mountains, modern residential buildings and autumn red-leaf trees under an overcast sky, blurred carved stone railings occupy the foreground",
+    "characters": [
+      {
+        "name": "Unknown older man",
+        "action": "Stands with his hands behind his back, facing the young man opposite",
+        "expression": "Solemn and serious"
+      },
+      {
+        "name": "Unknown young man",
+        "action": "Stands opposite the older man, a travel bag is placed at his feet",
+        "expression": "Dignified, focused on the other man"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The two characters hold a critical plot-driving meeting at this elevated city wall location, discussing major plot-related matters such as hidden background secrets, important life decisions or key arrangement of tasks",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_004.jpg",
+    "frame_index": 3
+  },
+  {
+    "scene_description": "A dim freezing outdoor scene in heavy falling winter snow, the character's thick old winter coat and headscarf are dotted with accumulated snowflakes",
+    "characters": [
+      {
+        "name": "Unknown middle-aged rural woman",
+        "action": "Stands in the snow, speaking abusively to a person off-screen",
+        "expression": "Frowning, with a harsh, disdainful and vicious expression glancing sideways"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The abusive woman utters a hurtful line, insulting the interlocutor by saying they are exactly the same as their deceased father, presenting a sharp hostile interpersonal conflict",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_005.jpg",
+    "frame_index": 4
+  },
+  {
+    "scene_description": "Outdoor at a traditional Chinese historic architectural site, with weathered stone steps, carved white marble railings, and a large dark wooden door decorated with golden traditional patterns in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "walking slowly on the stone landing between stair sections, holding a black folding fan in his right hand with head tilted down",
+        "expression": "calm and pensive, appearing to be deep in thought"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "The silver-haired elderly man in a long black overcoat walks pensively across the stairs of the historic site, setting a solemn nostalgic tone",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Close-up shot of a young man in retro winter clothes, located outdoors in front of traditional old-style Chinese building railings",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "Clenches the bag strap tightly with one hand, hugging folded winter clothing to his chest",
+        "expression": "Grieved, dejected, eyes reddened, staring down with a lost pained look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man falls into deep sadness and grievance after experiencing an upsetting incident, fully showing his vulnerable emotional state",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Close-up shot of a young man in retro winter clothes, located outdoors in front of traditional old-style Chinese building railings",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "Clenches the bag strap tightly with one hand, hugging folded winter clothing to his chest",
+        "expression": "Grieved, dejected, eyes reddened, staring down with a lost pained look"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "The young man falls into deep sadness and grievance after experiencing an upsetting incident, fully showing his vulnerable emotional state",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Two men walk down a long stone paved staircase in front of a grand traditional Chinese imperial palace-style building, under soft hazy daylight, this is an opening segment of a period drama related to antique and cultural relics.",
+    "characters": [
+      {
+        "name": "Shen Yanfeng",
+        "action": "Walking down the central staircase with hands placed behind his back",
+        "expression": "Solemn, serious and composed"
+      },
+      {
+        "name": "Unknown young companion",
+        "action": "Walking down the staircase while holding a bundled bag tightly in his arms",
+        "expression": "Quiet, focused and serious"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This opening scene uses on-screen text to introduce that the subsequent plot is the personal story of the character known as Divine Eye Feng (Shen Yanfeng), with a disclaimer noting the full plot is purely fictional.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Two men walk down a long stone paved staircase in front of a grand traditional Chinese imperial palace-style building, under soft hazy daylight, this is an opening segment of a period drama related to antique and cultural relics.",
+    "characters": [
+      {
+        "name": "Shen Yanfeng",
+        "action": "Walking down the central staircase with hands placed behind his back",
+        "expression": "Solemn, serious and composed"
+      },
+      {
+        "name": "Unknown young companion",
+        "action": "Walking down the staircase while holding a bundled bag tightly in his arms",
+        "expression": "Quiet, focused and serious"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "This opening scene uses on-screen text to introduce that the subsequent plot is the personal story of the character known as Divine Eye Feng (Shen Yanfeng), with a disclaimer noting the full plot is purely fictional.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_010.jpg",
+    "frame_index": 9
+  },
+  {
+    "scene_description": "Bright sunlit retro 1990s-style cobblestone commercial street, with vintage period storefront signage, an old sedan taxi parked by the curb, forming a nostalgic film studio town setting",
+    "characters": [
+      {
+        "name": "unknown young man",
+        "action": "walking on the cobblestone street holding a large round leather bag",
+        "expression": "looking forward, calm neutral expression"
+      },
+      {
+        "name": "unknown elderly man",
+        "action": "walking side by side with the young man along the street",
+        "expression": "slightly looking downward, calm serious expression"
+      },
+      {
+        "name": "unknown young woman",
+        "action": "walking toward the left edge of the frame on the far left",
+        "expression": "side profile, neutral expression"
+      },
+      {
+        "name": "unknown pedestrian",
+        "action": "walking on the street in the far background",
+        "expression": "unclear, not fully visible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_011.jpg",
+    "frame_index": 10
+  },
+  {
+    "scene_description": "Sunny outdoor vintage pedestrian street with softly blurred background, framed as a medium close-up portrait",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "standing facing the camera with hands placed behind his back",
+        "expression": "gentle faint smile, calm demeanor, looking directly at the viewer"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_012.jpg",
+    "frame_index": 11
+  },
+  {
+    "scene_description": "Old-fashioned residential leisure area by the window, a bald middle-aged man sits on a leather armchair, with a small table covered by lace tablecloth in front of him, placed with a set of Chinese blue-and-white porcelain kung fu tea set.",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Leaning forward sitting on the armchair, stretching out his right hand to reach the tea set on the tea tray, lowering his head to look at the tabletop",
+        "expression": "Lowering eyes, looking focused on the tea ware in front of him"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_013.jpg",
+    "frame_index": 12
+  },
+  {
+    "scene_description": "Retro 1990s Chinese residential interior, a young man just enters the room where a group of people are gambling and playing mahjong, all occupants inside turn their attention to him",
+    "characters": [
+      {
+        "name": "Unknown young protagonist",
+        "action": "Stand at the entrance behind the hollow carved wooden moon gate, holding a worn cloth bag",
+        "expression": "Solemn and determined"
+      },
+      {
+        "name": "Back-facing man",
+        "action": "Sit at the mahjong table, touching his head with his hand",
+        "expression": "Not visible (facing away from the camera)"
+      },
+      {
+        "name": "Curly-haired woman in red top",
+        "action": "Sit next to the mahjong table, lifting her hand and looking towards the newcomer",
+        "expression": "Surprised and curious"
+      },
+      {
+        "name": "Long-haired man with a topknot",
+        "action": "Sit on the armchair beside the woman, facing the entering young man",
+        "expression": "Wary and alert"
+      },
+      {
+        "name": "Two men in inner room",
+        "action": "Pause their activity at the small tea table, look towards the entrance",
+        "expression": "Shocked and focused on the newcomer"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The young protagonist breaks into the gambler group's private gathering den, all members stop their entertainment and turn to notice him, kicking off the core plot conflict of this segment",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_014.jpg",
+    "frame_index": 13
+  },
+  {
+    "scene_description": "Warm sunlit casual indoor lounge space, with a fabric padded wooden armchair, side table placed with teaware and snacks, bright window behind the character, blurred out-of-focus foreground of other people",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Seated on the armchair, holding a small citrus fruit that he is peeling with both hands, facing the people positioned in front of him",
+        "expression": "Calm, attentive, gazing directly towards the people on the opposite side"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The long-haired man is having a face-to-face conversation with the group of people in front of him during a casual indoor gathering",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第65集.mp4\\第65集\\scene_015.jpg",
+    "frame_index": 14
+  }
+]

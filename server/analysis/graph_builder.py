@@ -9,7 +9,12 @@ from typing import Dict, List, Optional, Tuple
 from dataclasses import dataclass, field
 
 import difflib
-import networkx as nx
+try:
+    import networkx as nx
+    _HAS_NETWORKX = True
+except ImportError:
+    _HAS_NETWORKX = False
+    nx = None
 
 
 # ═════════════════════════════════════════════════════════════
@@ -53,11 +58,10 @@ class EpisodeTimeline:
     """单集时间轴构建器 —— 融合音频层和视觉层"""
 
     HIGHLIGHT_WEIGHTS = {
-        "audio_emotion": 0.35,       # 音频情绪权重
-        "visual_change": 0.25,       # 视觉变化权重
-        "sync_bonus": 0.20,          # 音视同步加成
-        "dialogue_density": 0.15,    # 对话密度
-        "trigger_keywords": 0.05,    # 关键词触发
+        "audio_intensity": 0.30,        # 用词激烈度 (ASR文本关键词+标点)
+        "expression_intensity": 0.25,   # 人物表情感染力 (VL识别 0-5归一化)
+        "narrative_twist": 0.25,        # 剧情反转 (LLM key_scenes)
+        "av_synergy": 0.20,             # 音画联动 (用词激烈 × 表情强度)
     }
 
     EMOTION_KEYWORDS = [
@@ -81,7 +85,9 @@ class EpisodeTimeline:
         audio_segments: List[Dict],
         frame_analyses: List[Dict],
         frame_interval: float = 5.0,
-        video_duration: float = 0
+        video_duration: float = 0,
+        key_scenes: List[Dict] = None,
+        visual_intensity: List[Dict] = None
     ) -> List[TimelineSegment]:
         """构建融合时间轴
 
@@ -91,6 +97,7 @@ class EpisodeTimeline:
                               "characters":[{"name":"..."}], ...}, ...]
             frame_interval: 抽帧间隔（秒）
             video_duration: 视频总时长
+            key_scenes: LLM识别的关键场景 [{"timestamp":75,"importance":"critical"},...]
         """
         # 1. 音频层 —— 计算每段的情绪强度
         audio_with_emotion = []
@@ -101,21 +108,30 @@ class EpisodeTimeline:
                 "emotion": emotion
             })
 
-        # 2. 视觉层 —— 计算相邻帧变化
+        # 2. 视觉层 —— 人物表情感染力
+        # 合并 VL 帧描述表情 + speaker 帧表情
+        if visual_intensity:
+            intensity_map = {s["frame_index"]: s["intensity"] for s in visual_intensity}
+        else:
+            intensity_map = {}
+
+        # speaker 帧表情 (精确时间戳)
+        expr_by_time = {}
+        for si in (visual_intensity or []):
+            ts_val = si.get("timestamp", si.get("frame_index", 0) * frame_interval)
+            expr_by_time[int(ts_val)] = si.get("intensity", 0) / 5.0
+
         frame_with_change = []
         for i, frame in enumerate(frame_analyses):
             ts = frame.get("frame_index", i) * frame_interval
-            if i == 0:
-                change = 0.0
-            else:
-                prev_desc = frame_analyses[i-1].get("scene_description", "")
-                curr_desc = frame.get("scene_description", "")
-                change = self._score_visual_change(prev_desc, curr_desc)
+            raw_intensity = intensity_map.get(i, expr_by_time.get(int(ts), 0) * 5)
+            normalized_intensity = raw_intensity / 5.0
 
             frame_with_change.append({
                 **frame,
                 "timestamp": ts,
-                "change": change
+                "change": normalized_intensity,
+                "raw_intensity": raw_intensity
             })
 
         # 3. 构建统一时间轴
@@ -123,6 +139,25 @@ class EpisodeTimeline:
             audio_with_emotion, frame_with_change,
             duration=video_duration
         )
+
+        # 3.5 注入叙事重要性（LLM识别的剧情转折）
+        if key_scenes:
+            narrative_map = {}  # timestamp → importance_score
+            for ks in key_scenes:
+                ts = ks.get("timestamp", ks.get("frame_index", 0) * frame_interval)
+                imp = ks.get("importance", "medium")
+                score_map = {"critical": 1.0, "high": 0.8, "medium": 0.5, "low": 0.2}
+                narrative_map[int(ts)] = score_map.get(imp, 0.3)
+
+            for seg in segments:
+                t = int(seg.start)
+                # 如果该秒附近(±3s)有LLM标记的关键场景
+                for nt, ns in narrative_map.items():
+                    if abs(t - nt) <= 3:
+                        seg.visual_description += f" [剧情转折:{imp}]"
+                        # 暂存叙事分到 audio_emotion 旁边
+                        seg.audio_emotion = max(seg.audio_emotion, ns)
+                        break
 
         # 4. 计算高光得分
         self.segments = [self._compute_highlight_score(s) for s in segments]
@@ -217,10 +252,10 @@ class EpisodeTimeline:
             # 视觉层：找到最近的帧描述
             closest_frame = None
             min_dist = float("inf")
+            max_dist_threshold = frame_analyses[0].get("timestamp", 5.0) if frame_analyses else 5.0
             for fa in frame_analyses:
                 dist = abs(fa["timestamp"] - t)
-                # within 10s of frame considered "close"
-                if dist < min_dist and dist <= 10.0:
+                if dist < min_dist and dist <= max_dist_threshold:
                     min_dist = dist
                     closest_frame = fa
 
@@ -229,7 +264,9 @@ class EpisodeTimeline:
                 seg.visual_characters = [
                     c.get("name", "") for c in closest_frame.get("characters", [])
                 ]
-                seg.visual_change = closest_frame.get("change", 0.0)
+                # 表情感染力 = max(帧级表情分, speaker帧表情分)
+                frame_expr = closest_frame.get("change", 0.0)
+                seg.visual_change = frame_expr
 
             segments.append(seg)
             t += step
@@ -237,42 +274,32 @@ class EpisodeTimeline:
         return segments
 
     def _compute_highlight_score(self, seg: TimelineSegment) -> TimelineSegment:
-        """综合计算高光得分"""
+        """综合计算高光得分 — 四维：用词激烈 + 表情感染 + 剧情反转 + 音画联动"""
         w = self.HIGHLIGHT_WEIGHTS
 
-        # 各维度得分
-        audio_score = seg.audio_emotion
-        visual_score = seg.visual_change
-
-        # 音视同步加成：情绪高 + 画面变化大同时发生
-        sync_bonus = audio_score * visual_score  # 两者都高时乘积大
-
-        # 对话密度：有对话则基础分
-        dialogue_score = 0.3 if seg.audio_text else 0.0
-
-        # 关键词触发
-        kw_score = self._score_keyword_trigger(seg.audio_text)
+        audio = seg.audio_emotion          # 用词激烈度 (0-1)
+        expression = seg.visual_change     # 人物表情感染力 (0-1, 复用字段)
+        narrative = seg.audio_emotion if (seg.audio_emotion >= 0.5 and self._score_keyword_trigger(seg.audio_text) < 0.5) else 0.0
+        synergy = audio * expression       # 音画联动
 
         score = (
-            w["audio_emotion"] * audio_score
-            + w["visual_change"] * visual_score
-            + w["sync_bonus"] * sync_bonus
-            + w["dialogue_density"] * dialogue_score
-            + w["trigger_keywords"] * kw_score
+            w["audio_intensity"] * audio
+            + w["expression_intensity"] * expression
+            + w["narrative_twist"] * narrative
+            + w["av_synergy"] * synergy
         )
 
         seg.highlight_score = round(score, 3)
 
-        # 记录原因
         reasons = []
-        if audio_score >= 0.6:
-            reasons.append(f"音频情绪({audio_score:.2f})")
-        if visual_score >= 0.4:
-            reasons.append(f"画面变化({visual_score:.2f})")
-        if sync_bonus >= 0.3:
-            reasons.append(f"音视同步({sync_bonus:.2f})")
-        if kw_score >= 0.7:
-            reasons.append("关键词触发")
+        if audio >= 0.6:
+            reasons.append(f"用词激烈({audio:.2f})")
+        if expression >= 0.4:
+            reasons.append(f"表情感染({expression:.2f})")
+        if narrative > 0:
+            reasons.append(f"剧情反转({narrative:.2f})")
+        if synergy >= 0.3:
+            reasons.append(f"音画联动({synergy:.2f})")
         seg.highlight_reasons = reasons
 
         return seg
@@ -295,27 +322,29 @@ class EpisodeTimeline:
         self,
         segments: List[TimelineSegment],
         top_k: int = 8,
-        merge_gap: float = 10.0,
-        min_score: float = 0.15
+        merge_gap: float = 0.5,
+        min_score: float = 0.5,
+        max_duration: float = 60.0
     ) -> List[Dict]:
         """从时间轴提取高光区间
 
         Args:
             segments: 时间轴片段列表
             top_k: 最多返回的高光区间数
-            merge_gap: 合并间距（秒），小于此值的相邻高光合并
-            min_score: 最低高光得分阈值
+            merge_gap: 合并间距（秒），0.5s只合并严格相邻的片段
+            min_score: 最低高光得分阈值，0.5过滤掉低能量片段
+            max_duration: 单个高光区间最大时长（秒），超过则居中截断
         """
         if not segments:
             return []
 
-        # 收集所有高于阈值的片段
+        # 收集所有高于阈值的片段，按时间排序
         candidates = [s for s in segments if s.highlight_score >= min_score]
         if not candidates:
             return []
 
-        # 按得分排序
-        candidates.sort(key=lambda s: s.highlight_score, reverse=True)
+        # 先按时间排序再合并（保证相邻是真·时间相邻）
+        candidates.sort(key=lambda s: s.start)
 
         # 合并相邻区间
         merged = []
@@ -332,8 +361,8 @@ class EpisodeTimeline:
 
             last = merged[-1]
             if seg.start - last["end"] <= merge_gap:
-                # 合并
-                last["end"] = seg.end
+                # 合并：扩展end，取更高分
+                last["end"] = max(last["end"], seg.end)
                 last["segments"].append(seg)
                 last["peak_score"] = max(last["peak_score"], seg.highlight_score)
                 last["reasons"] = list(set(last["reasons"] + seg.highlight_reasons))
@@ -345,6 +374,14 @@ class EpisodeTimeline:
                     "peak_score": seg.highlight_score,
                     "reasons": list(seg.highlight_reasons),
                 })
+
+        # 超长区间居中截断到 max_duration
+        for h in merged:
+            dur = h["end"] - h["start"]
+            if dur > max_duration:
+                center = (h["start"] + h["end"]) / 2
+                h["start"] = max(0, center - max_duration / 2)
+                h["end"] = center + max_duration / 2
 
         # 按峰值得分排序，取 top_k
         merged.sort(key=lambda h: h["peak_score"], reverse=True)
@@ -399,19 +436,140 @@ class EpisodeTimeline:
 # GraphBuilder: 人物关系图谱（保持原有接口）
 # ═════════════════════════════════════════════════════════════
 
+# ═════════════════════════════════════════════════════════════
+# ViewerContext: 跨剧集观众知识积累（模拟观众视角）
+# ═════════════════════════════════════════════════════════════
+
+class ViewerContext:
+    """观众知识状态 — 只包含当前集之前的信息"""
+
+    def __init__(self):
+        self.characters: Dict[str, Dict] = {}    # name → {role, description, first_ep, relationships}
+        self.key_events: List[Dict] = []          # [{episode, timestamp, title, description}]
+        self.episodes_analyzed: int = 0
+        self.current_plot_threads: List[str] = []  # 当前未解决的剧情线
+
+    def update_from_episode(
+        self,
+        characters: List[Dict],
+        key_scenes: List[Dict],
+        summary: str,
+        episode_title: str
+    ):
+        """新分析完一集后更新观众知识"""
+        self.episodes_analyzed += 1
+        ep = self.episodes_analyzed
+
+        # 更新人物
+        for char in characters:
+            name = char.get("name", "")
+            if not name:
+                continue
+            if name in self.characters:
+                # 已知人物，补充关系
+                existing = self.characters[name]
+                existing["episodes"].append(ep)
+            else:
+                self.characters[name] = {
+                    "role": char.get("role", "unknown"),
+                    "description": char.get("description", ""),
+                    "first_ep": ep,
+                    "episodes": [ep],
+                    "relationships": char.get("relationships", [])
+                }
+
+        # 记录关键事件
+        for ks in key_scenes:
+            if ks.get("importance") in ("critical", "high"):
+                self.key_events.append({
+                    "episode": ep,
+                    "title": ks.get("title", ""),
+                    "description": ks.get("description", ""),
+                    "importance": ks.get("importance", ""),
+                })
+
+        # 从摘要提取未解决的剧情线（简单启发式）
+        if "悬念" in summary or "预知" in summary or "下一集" in summary:
+            self.current_plot_threads.append(f"第{ep}集: {summary[:60]}")
+
+        # 只保留最近5条剧情线
+        self.current_plot_threads = self.current_plot_threads[-5:]
+
+    def to_prompt_context(self) -> str:
+        """生成注入LLM提示词的上下文（观众视角）"""
+        if self.episodes_analyzed == 0:
+            return ""
+
+        lines = []
+        lines.append(f"【前情提要 — 第1-{self.episodes_analyzed}集已知信息】")
+
+        # 人物
+        if self.characters:
+            lines.append("\n已登场人物:")
+            for name, info in sorted(self.characters.items()):
+                rels = info.get("relationships", [])
+                rel_str = ""
+                if rels:
+                    rel_str = " | ".join(
+                        f"{r.get('target_name', r.get('target_id', '?'))}:{r.get('type', '?')}"
+                        for r in rels[:3]
+                    )
+                lines.append(
+                    f"  {name}({info['role']}, 第{info['first_ep']}集登场)"
+                    + (f" [{rel_str}]" if rel_str else "")
+                )
+
+        # 关键事件时间线
+        if self.key_events:
+            lines.append("\n关键事件时间线:")
+            recent = self.key_events[-8:]  # 最近8个
+            for ev in recent:
+                lines.append(f"  第{ev['episode']}集: {ev['title']} — {ev['description'][:60]}")
+
+        # 未解决剧情线
+        if self.current_plot_threads:
+            lines.append("\n待解决的剧情线:")
+            for thread in self.current_plot_threads:
+                lines.append(f"  - {thread}")
+
+        return "\n".join(lines)
+
+    def to_dict(self) -> Dict:
+        return {
+            "characters": self.characters,
+            "key_events": self.key_events,
+            "episodes_analyzed": self.episodes_analyzed,
+            "current_plot_threads": self.current_plot_threads,
+        }
+
+    @classmethod
+    def from_dict(cls, data: Dict) -> "ViewerContext":
+        ctx = cls()
+        ctx.characters = data.get("characters", {})
+        ctx.key_events = data.get("key_events", [])
+        ctx.episodes_analyzed = data.get("episodes_analyzed", 0)
+        ctx.current_plot_threads = data.get("current_plot_threads", [])
+        return ctx
+
 class GraphBuilder:
     """人物关系图谱构建 - NetworkX"""
 
-    def __init__(self, graph_file: str):
-        self.graph_file = Path(graph_file)
+    def __init__(self, graph_file: str, drama_name: str = None):
+        base = Path(graph_file)
+        if drama_name:
+            self.graph_file = base.parent / f"character_graph_{drama_name}.json"
+        else:
+            self.graph_file = base
         self.graph_file.parent.mkdir(parents=True, exist_ok=True)
 
     def build_episode_graph(
         self,
         analysis_result: Dict,
         episode_id: str
-    ) -> nx.Graph:
+    ) -> "nx.Graph":
         """构建单集人物关系图"""
+        if not _HAS_NETWORKX:
+            return None
         G = nx.Graph()
         G.graph["episode_id"] = episode_id
 
@@ -438,9 +596,11 @@ class GraphBuilder:
 
     def merge_global_graph(
         self,
-        episode_graph: nx.Graph,
+        episode_graph: "nx.Graph",
         drama_id: int
-    ) -> nx.Graph:
+    ) -> "nx.Graph":
+        if not _HAS_NETWORKX or episode_graph is None:
+            return None
         """将剧集图谱合并到全局图谱"""
         global_graph = self.load_global_graph(drama_id)
 
@@ -474,8 +634,10 @@ class GraphBuilder:
 
         return global_graph
 
-    def load_global_graph(self, drama_id: int) -> nx.Graph:
+    def load_global_graph(self, drama_id: int) -> "nx.Graph":
         """加载全局图谱"""
+        if not _HAS_NETWORKX:
+            return None
         if not self.graph_file.exists():
             G = nx.Graph()
             G.graph["drama_id"] = drama_id
@@ -484,8 +646,10 @@ class GraphBuilder:
             data = json.load(f)
         return nx.node_link_graph(data)
 
-    def save_global_graph(self, graph: nx.Graph):
+    def save_global_graph(self, graph: "nx.Graph"):
         """保存全局图谱"""
+        if not _HAS_NETWORKX or graph is None:
+            return
         data = nx.node_link_data(graph)
         with open(self.graph_file, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
@@ -497,6 +661,8 @@ class GraphBuilder:
         self, character_id: str, depth: int = 2
     ) -> Dict:
         """获取指定人物的社交网络"""
+        if not _HAS_NETWORKX:
+            return {"error": "networkx not installed"}
         graph = self.load_global_graph(1)
         if character_id not in graph:
             return {"error": f"人物 {character_id} 不存在"}
@@ -508,6 +674,8 @@ class GraphBuilder:
 
     def get_character_info(self, character_id: str) -> Optional[Dict]:
         """获取人物详细信息"""
+        if not _HAS_NETWORKX:
+            return None
         graph = self.load_global_graph(1)
         if character_id not in graph:
             return None
@@ -710,6 +878,8 @@ class GraphBuilder:
 
     def export_to_d3_json(self, drama_id: int) -> Dict:
         """导出为D3.js可用的JSON格式"""
+        if not _HAS_NETWORKX:
+            return {"nodes": [], "links": []}
         graph = self.load_global_graph(drama_id)
         nodes = []
         for node_id, attrs in graph.nodes(data=True):

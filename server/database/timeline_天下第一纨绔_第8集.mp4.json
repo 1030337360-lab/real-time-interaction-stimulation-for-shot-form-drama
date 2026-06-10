@@ -1,0 +1,3212 @@
+{
+  "episode_title": "天下第一纨绔",
+  "video_url": "天下第一纨绔/第8集.mp4",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "古装剧室外公开活动场景，数位古代装束人物围坐在摆放青瓷盖碗茶具的桌旁，背景是装饰有红色绸带的古风官署/市井陈设",
+      "visual_characters": [
+        "unknown",
+        "unknown"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.08,
+      "highlight_reasons": [
+        "画面变化(0.40)"
+      ]
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Historical ancient Chinese palace ceremony scene, located in a royal courtyard with traditional red decorative backdrop",
+      "visual_characters": [
+        "Unknown senior court official"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.04,
+      "highlight_reasons": []
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Outdoor ancient Chinese imperial palace setting, court officials in traditional official robes gathered beside red carpeted palace steps",
+      "visual_characters": [
+        "unknown senior court official",
+        "unknown court official in background"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.434,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "画面变化(0.40)",
+        "音视同步(0.36)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Outdoor ancient Chinese palace ceremonial venue laid with red carpets and decorated with red ceremonial drapes, a group of court officials in traditional historical official costumes gather together",
+      "visual_characters": [
+        "unknown elder court official",
+        "unknown young court official",
+        "unknown partial court official"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.434,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "画面变化(0.40)",
+        "音视同步(0.36)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Formal ancient Chinese imperial palace stone steps, with patterned ceremonial flags, an ornate imperial throne on the hall platform, and red carpet laid on a section of the stairs",
+      "visual_characters": [
+        "Unknown Emperor",
+        "Unknown Armored General"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Outdoor scene of a historical short drama, the leading man in plain white traditional ancient Chinese robe stands in the center, partial figures of other characters appear at the frame edges, with blurred ancient building wall as the background",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Outdoor ancient Chinese costume drama scene, set at a traditional official/palace venue entrance, with a table holding celadon teaware and dim sum in the foreground. [剧情转折:critical]",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "An ancient costume scene located in a traditional palace or noble mansion hall, a person in heavy carved armor stands indoors",
+      "visual_characters": [
+        "unknown military officer"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Two armored imperial guards stand on the terrace of a traditional ancient Chinese palace, holding ceremonial wind instruments",
+      "visual_characters": [
+        "Unknown Guard 1",
+        "Unknown Guard 2"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Close-up shot of a man in traditional ancient Chinese imperial ceremonial costume, set against a blurred palace architectural background [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown (Ancient Chinese Emperor)"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Outdoor still from a Chinese ancient costume historical short drama, with blurred distant greenery and pathway as background",
+      "visual_characters": [
+        "Unknown Young Noble",
+        "Unknown Attendant"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Warm toned ancient style scene, the right side of the frame is covered by a hanging bright red long curtain, the background is a dark ancient wooden lattice window, only part of the costume character's figure is exposed, and vertical compliance prompt text is displayed on the left side of the picture",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Indoor scene with dark curtain background, warm bright backlight outlines the figure of a woman in traditional ancient Chinese costume, creating a soft hazy cinematic atmosphere",
+      "visual_characters": [
+        "Unknown ancient noble female character"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "A frame from a Chinese historical costume short drama, taken on the stone entrance platform of a traditional ancient palace building",
+      "visual_characters": [
+        "Unknown (high status imperial noble female)",
+        "Unknown (personal maid)"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Ancient Chinese style outdoor courtyard scene, the background is blurred traditional ancient building and green vegetation",
+      "visual_characters": [
+        "Unknown maid",
+        "Unknown noble lady/princess"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": "Screenshot of a vertical ancient Chinese costume short drama, set in a traditional ancient building scene, with vertical compliance reminder text on the left side of the frame [剧情转折:critical]",
+      "visual_characters": [
+        "Unknown noble female character"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.395,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "A man in formal ancient Chinese noble costume stands outdoors, with a blurred traditional ancient palace building as the background",
+      "visual_characters": [
+        "Unknown ancient aristocrat"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Vertical frame from a historical Chinese short drama, outdoor formal ceremonial setting with red festive drapery overhead, blurred stone walls and out-of-focus armored guards in the background",
+      "visual_characters": [
+        "Unknown (leading ancient warrior noble)",
+        "Unknown (secondary male character)",
+        "Unknown (armored guard extra)"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.434,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "画面变化(0.40)",
+        "音视同步(0.36)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Still frame from a Chinese historical short drama, set at a traditional ancient Chinese ceremonial venue with dark wooden architecture and red ceremonial drapes in the background",
+      "visual_characters": [
+        "Unknown (Imperial Noble Female)"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "Outdoor courtyard scene of an ancient Chinese costume short drama, the blurred background shows traditional ancient buildings and ceremonial weapons decorated with red tassels",
+      "visual_characters": [
+        "Unknown aristocratic male"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.367,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "High-angle overlooking view of a large ancient imperial palace courtyard, with red carpet, ceremonial drums printed with character 'Yan', ritual lamp stands, and traditional Chinese palace buildings backed by dense green forest, all personnel are in place for a formal royal ceremony.",
+      "visual_characters": [
+        "Monarch and close attendants",
+        "Court officials and nobles",
+        "Imperial guards"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.434,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "画面变化(0.40)",
+        "音视同步(0.36)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 117.0,
+      "end": 118.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 118.0,
+      "end": 119.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 120.0,
+      "end": 121.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 121.0,
+      "end": 122.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 1.0,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.325,
+      "highlight_reasons": [
+        "音频情绪(1.00)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 124.0,
+      "end": 125.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 125.0,
+      "end": 126.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 126.0,
+      "end": 127.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 127.0,
+      "end": 128.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 128.0,
+      "end": 129.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 129.0,
+      "end": 130.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 130.0,
+      "end": 131.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 131.0,
+      "end": 132.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 132.0,
+      "end": 133.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 133.0,
+      "end": 134.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 134.0,
+      "end": 135.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 135.0,
+      "end": 136.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 136.0,
+      "end": 137.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 137.0,
+      "end": 138.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 138.0,
+      "end": 139.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 139.0,
+      "end": 140.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 140.0,
+      "end": 141.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 141.0,
+      "end": 142.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 142.0,
+      "end": 143.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 143.0,
+      "end": 144.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 144.0,
+      "end": 145.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 145.0,
+      "end": 146.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 147.0,
+      "end": 148.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 148.0,
+      "end": 149.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 150.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 150.0,
+      "end": 151.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 151.0,
+      "end": 152.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 152.0,
+      "end": 153.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 153.0,
+      "end": 154.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 154.0,
+      "end": 155.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 155.0,
+      "end": 156.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 156.0,
+      "end": 157.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 157.0,
+      "end": 158.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 158.0,
+      "end": 159.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 159.0,
+      "end": 160.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 160.0,
+      "end": 161.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 161.0,
+      "end": 162.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 162.0,
+      "end": 163.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 163.0,
+      "end": 164.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 164.0,
+      "end": 165.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 165.0,
+      "end": 166.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 167.0,
+      "end": 168.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 168.0,
+      "end": 169.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 169.0,
+      "end": 170.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 170.0,
+      "end": 171.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 171.0,
+      "end": 172.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 172.0,
+      "end": 173.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 173.0,
+      "end": 174.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 174.0,
+      "end": 175.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 175.0,
+      "end": 176.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 176.0,
+      "end": 177.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 177.0,
+      "end": 178.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 178.0,
+      "end": 179.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 180.0,
+      "end": 181.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 181.0,
+      "end": 182.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 182.0,
+      "end": 183.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 183.0,
+      "end": 184.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 184.0,
+      "end": 185.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 185.0,
+      "end": 186.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 186.0,
+      "end": 187.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 187.0,
+      "end": 188.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 188.0,
+      "end": 189.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 189.0,
+      "end": 190.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 190.0,
+      "end": 191.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 191.0,
+      "end": 192.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 192.0,
+      "end": 193.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 193.0,
+      "end": 194.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 194.0,
+      "end": 195.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 195.0,
+      "end": 196.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 196.0,
+      "end": 197.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 197.0,
+      "end": 198.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 198.0,
+      "end": 199.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 199.0,
+      "end": 200.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 200.0,
+      "end": 201.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 201.0,
+      "end": 202.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 202.0,
+      "end": 203.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 203.0,
+      "end": 204.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 204.0,
+      "end": 205.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 205.0,
+      "end": 206.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 206.0,
+      "end": 207.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 207.0,
+      "end": 208.0,
+      "audio_text": "父 皇 你 请 我 我 我 他 他 多 的 大 大 大 我 我 我 我 的 的 的 臣 我 是 皇 大 的 的 臣 皇 是 让 我 娶 到 锦 宁 公 主 让 我 死 我 的 不 王 您 皇 皇 皇 帝 的 的 臣 武 皇 皇 也 称 不 过 一 臣 朕 臣 侯 有 他 这 样 一 个 废 物 才 子 请 我 公 公 的 的 我 我 我 我 大 王 武 皇 之 后 的 本 王 为 皇 皇 公 的 的 臣 王 王 啊 我 是 我 们 大 公 的 君 才 可 有 看 得 上 眼 的 您 皇 请 锦 公 的 只 能 是 武 功 高 强 的 英 雄 王 皇 皇 公 的 子 弟 就 不 该 来 我 臣 臣 能 臣 皇 皇 我 我 大 爷 大 后 的 良 才",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.9,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.3,
+      "highlight_reasons": [
+        "音频情绪(0.90)",
+        "关键词触发"
+      ]
+    },
+    {
+      "start": 208.0,
+      "end": 209.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 209.0,
+      "end": 210.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    }
+  ],
+  "highlights": [
+    {
+      "start": 8.0,
+      "end": 208.0,
+      "peak_score": 0.434,
+      "reasons": [
+        "音频情绪(0.90)",
+        "音频情绪(1.00)",
+        "关键词触发",
+        "音视同步(0.36)",
+        "画面变化(0.40)"
+      ],
+      "reason_text": "音频情绪(0.90), 音频情绪(1.00), 关键词触发, 音视同步(0.36), 画面变化(0.40)"
+    }
+  ],
+  "stats": {
+    "total_segments": 210,
+    "highlights_count": 1,
+    "avg_highlight_score": 0.295,
+    "peak_highlight": 0.434
+  }
+}

@@ -1,0 +1,1403 @@
+{
+  "episode_title": "天下第一纨绔",
+  "video_url": "天下第一纨绔/第5集.mp4",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "暖光氛围的古代中式室内居室场景，一名身着浅橘色古风襦衫的女子俯身靠在雕花木质浴盆边，画面左侧竖排标注提示文字说明剧情纯属虚构",
+      "visual_characters": [
+        "未知古装女子",
+        "浴盆内的未知人物"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.08,
+      "highlight_reasons": [
+        "画面变化(0.40)"
+      ]
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Warm candle-lit ancient style indoor chamber, part of a short costume drama scene",
+      "visual_characters": [
+        "Unknown female character",
+        "Unknown male character"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.08,
+      "highlight_reasons": [
+        "画面变化(0.40)"
+      ]
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "Low-angle view of a warm-toned indoor traditional ancient Chinese interior, shot from behind a woman in period clothing",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.04,
+      "highlight_reasons": []
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.4,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.4,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.4,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": "A humorous ancient costume scene, a young man soaks in a carved traditional wooden bathtub with scattered rose petals on the water surface [剧情转折:critical]",
+      "visual_characters": [
+        "unknown male lead"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.528,
+      "highlight_reasons": [
+        "剧情转折(0.80)",
+        "画面变化(0.40)",
+        "音视同步(0.32)"
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.4,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "Vintage indoor bathing scene, a solid wooden tub filled with milky bath water scattered with red rose petals, dark heavy curtains hang in the background",
+      "visual_characters": [
+        "unknown",
+        "unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "Warm candle-lit ancient Chinese style indoor bathroom, with a rose-petal added milky bathtub as the core setting",
+      "visual_characters": [
+        "Unknown relaxing man",
+        "Unknown mysterious hooded figure"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.234,
+      "highlight_reasons": [
+        "画面变化(0.40)"
+      ]
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "Still frame from a vertical ancient Chinese costume short drama, set inside a traditional aristocratic indoor residence",
+      "visual_characters": [
+        "Unknown Male Lead",
+        "Unknown Background Female"
+      ],
+      "visual_change": 0.4,
+      "highlight_score": 0.234,
+      "highlight_reasons": [
+        "画面变化(0.40)"
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 32.0,
+      "end": 33.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 36.0,
+      "end": 37.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "Warm-toned close-up shot, an intricately carved white jade pendant with tassel and bead decorations is laid on folded pale ancient-style silk fabric placed on a wooden tray, blurred moving hands with red nail polish appear in the out-of-focus upper background",
+      "visual_characters": [
+        "Unknown"
+      ],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 50.0,
+      "end": 51.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "Dark dramatically lit scene, a mysterious hooded figure stands against a solid pure black background, with cold tone lighting highlighting the character",
+      "visual_characters": [
+        "unknown"
+      ],
+      "visual_change": 0.2,
+      "highlight_score": 0.182,
+      "highlight_reasons": []
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 53.0,
+      "end": 54.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 54.0,
+      "end": 55.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 55.0,
+      "end": 56.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 61.0,
+      "end": 62.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.8,
+      "visual_description": " [剧情转折:critical]",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.43,
+      "highlight_reasons": [
+        "剧情转折(0.80)"
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 65.0,
+      "end": 66.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 76.0,
+      "end": 77.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "audio_text": "这 玉 佩 一 看 就 是 他 的 枪 着 我 让 佩 一 就 是 女 人 人 要 当 必 是 这 玩 固 生 母 亲 事 前 留 给 她 的 遗 物 既 然 你 把 她 看 的 比 命 还 重 要 那 我 就 献 制 你 收 着 那 我 你 给 你 一 重 要 要 我 让 你 走 了 嘛 让 你 留 下 你 要 么 留 下 物",
+      "audio_speaker": "spk0",
+      "audio_emotion": 0.4,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.13,
+      "highlight_reasons": []
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "audio_text": "",
+      "audio_speaker": "",
+      "audio_emotion": 0.0,
+      "visual_description": "",
+      "visual_characters": [],
+      "visual_change": 0.0,
+      "highlight_score": 0.0,
+      "highlight_reasons": []
+    }
+  ],
+  "highlights": [
+    {
+      "start": 12.0,
+      "end": 31.0,
+      "peak_score": 0.528,
+      "reasons": [
+        "音视同步(0.32)",
+        "剧情转折(0.80)",
+        "画面变化(0.40)"
+      ],
+      "reason_text": "音视同步(0.32), 剧情转折(0.80), 画面变化(0.40)"
+    },
+    {
+      "start": 50.0,
+      "end": 64.0,
+      "peak_score": 0.43,
+      "reasons": [
+        "剧情转折(0.80)"
+      ],
+      "reason_text": "剧情转折(0.80)"
+    }
+  ],
+  "stats": {
+    "total_segments": 109,
+    "highlights_count": 2,
+    "avg_highlight_score": 0.1559,
+    "peak_highlight": 0.528
+  }
+}

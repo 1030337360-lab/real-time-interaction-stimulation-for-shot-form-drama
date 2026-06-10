@@ -1,0 +1,126 @@
+[
+  {
+    "scene_description": "Shallow depth of field close-up of the dragon-carved lid of an antique ornate bronze incense burner, against a blurred cool blue dimly lit traditional interior background",
+    "characters": [],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Shallow depth of field close-up of the dragon-carved lid of an antique ornate bronze incense burner, against a blurred cool blue dimly lit traditional interior background",
+    "characters": [],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Shallow depth of field close-up of the dragon-carved lid of an antique ornate bronze incense burner, against a blurred cool blue dimly lit traditional interior background",
+    "characters": [],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Shallow depth of field close-up of the dragon-carved lid of an antique ornate bronze incense burner, against a blurred cool blue dimly lit traditional interior background",
+    "characters": [],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Shallow depth of field close-up of the dragon-carved lid of an antique ornate bronze incense burner, against a blurred cool blue dimly lit traditional interior background",
+    "characters": [],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Shallow depth of field close-up of the dragon-carved lid of an antique ornate bronze incense burner, against a blurred cool blue dimly lit traditional interior background",
+    "characters": [],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": null,
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_006.jpg",
+    "frame_index": 5
+  },
+  {
+    "scene_description": "Vertical short drama close-up frame, dimly lit indoor space with blurred traditional Chinese wooden window background under cold blue ambient light",
+    "characters": [
+      {
+        "name": "Unknown young protagonist",
+        "action": "Stands partially facing the camera, gazing towards the viewing direction",
+        "expression": "Bewildered, dazed and shocked, showing obvious confusion"
+      }
+    ],
+    "has_dialogue": true,
+    "is_key_scene": true,
+    "key_event": "The disoriented protagonist speaks the line asking 'Where is this', marking that he has just arrived at an unfamiliar strange location which kicks off the core plot of the drama",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_007.jpg",
+    "frame_index": 6
+  },
+  {
+    "scene_description": "Dim ancient palace-style indoor environment, with burning candles and a blue-lit traditional lattice window in the background",
+    "characters": [
+      {
+        "name": "unknown",
+        "action": "Performing a classical dance, stretching both arms out to hold the flowing orange sheer drape of her costume",
+        "expression": "Gentle faint smile, eyes slightly lowered, looking graceful and soft"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "The unknown female dancer shows her elegant classical dance moves in the dim ancient chamber",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_008.jpg",
+    "frame_index": 7
+  },
+  {
+    "scene_description": "Solemn close-up of a lit yellow candle in the foreground, with warm golden circular bokeh light spots arranged in a tiered cross shape on a dark background, accompanied by content disclaimer text at the bottom",
+    "characters": [
+      {
+        "name": "no characters present",
+        "action": "no human figures appear in this frame",
+        "expression": "no facial expression is visible"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": false,
+    "key_event": "This is a solemn mood-setting opening frame, the on-screen text reminds viewers that the following plot is purely fictional and they should establish correct values, usually used for tribute or mourning themed narrative preface",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_009.jpg",
+    "frame_index": 8
+  },
+  {
+    "scene_description": "Dim eerie green-lit elaborately carved ancient underground palace/tomb inner chamber, furnished with ornate antique ritual bronzeware, candles and traditional patterned carpets, with a raised performance platform at the far end.",
+    "characters": [
+      {
+        "name": "unknown young explorer",
+        "action": "standing with his back to the camera, facing the distant stage area",
+        "expression": "not visible (back of head turned to camera)"
+      },
+      {
+        "name": "unknown seated ancient noble",
+        "action": "sitting on the intricately carved throne couch, facing the performance stage",
+        "expression": "not visible (back turned to camera)"
+      },
+      {
+        "name": "group of female traditional dancers",
+        "action": "lined up in orderly formation on the far stage, performing a choreographed back-facing dance",
+        "expression": "not visible (all facing away from the camera)"
+      }
+    ],
+    "has_dialogue": false,
+    "is_key_scene": true,
+    "key_event": "A modern backpack-wearing explorer trespasses into the hidden sealed grand ancient tomb chamber, and stumbles across an ongoing ancient ritual dance performance for the seated long-sealed noble figure.",
+    "frame_path": "D:\\mlcode\\real-time-interaction-stimulation-for-shot-form-drama\\server\\analysis\\frames\\北派寻宝笔记_第70集.mp4\\第70集\\scene_010.jpg",
+    "frame_index": 9
+  }
+]
