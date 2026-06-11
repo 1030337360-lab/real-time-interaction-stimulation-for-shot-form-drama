@@ -128,10 +128,8 @@ def analyze_episode(
     print(f"  高光点(百分比): {highlights}")
 
     # 保存时间轴结果
-    timeline_path = str(
-        Path(Config.OUTPUT_DIR)
-        / f"timeline_{video_url.replace('/', '_').replace('\\\\', '_')}.json"
-    )
+    safe_name = video_url.replace("/", "_").replace("\\", "_")
+    timeline_path = str(Path(Config.OUTPUT_DIR) / f"timeline_{safe_name}.json")
     with open(timeline_path, "w", encoding="utf-8") as f:
         json.dump(timeline.to_dict(), f, ensure_ascii=False, indent=2)
     print(f"  时间轴已保存: {timeline_path}")

@@ -11,7 +11,7 @@
 # ============================================================
 
 # 分析模式: "all" / "drama" / "episode" / "single"
-MODE = "drama"
+MODE = "single"
 
 # MODE="all": 分析 drama.json 中所有剧集
 ALL_RESUME = True     # 断点续传, 跳过已完成

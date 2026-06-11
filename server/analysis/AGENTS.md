@@ -162,7 +162,7 @@ cd server/analysis
 python main.py --all --resume
 
 # 分析指定剧集
-python main.py --video-url "天下第一纨绔/第63集.mp4"
+python main.py --video-url "D:\\video_data\\videos\\北派寻宝笔记\\第66集.mp4"
 
 # 分析指定剧的所有集
 python main.py --drama "天下第一纨绔"
